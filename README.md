@@ -21,7 +21,7 @@ Can a cancer cell line's gene expression predict how strongly it responds to a d
 * **Expression adds to cancer type for 274 of 281 drugs.** For Nutlin-3a, r rises from 0.38 to 0.67.
 * **Dense beats sparse.** Ridge beats the lasso and elastic net on 85% of drugs. The response is spread across many co-expressed genes.
 * **Known biology recovered.** ERBB2 (lapatinib), BCL2 (venetoclax), SLFN11 (olaparib) and EGFR (erlotinib) are each the #1 selected gene. The TP53 targets CDKN1A, PHLDA3 and TRIM22 lead for Nutlin-3a. Expression-only predictions separate BRAF-mutant lines for dabrafenib with ROC AUC 0.82.
-* **Measurement noise is the ceiling.** Sanger's two assays agree only at r = 0.53 for the same drug and line; scored against the other assay, the models reach 71% of that.
+* **Measurement noise is the ceiling.** For the same drug and cell line, Sanger's two assays agree at r = 0.53, and Sanger and the Broad Institute's PRISM screen only at 0.24. Scored against those other measurements, the models reach 71% and 77% of these ceilings.
 * **Unseen cancer types are a blind spot.** Holding a tissue out of training roughly halves within-tissue accuracy for blood cancers and skin cancers.
 
 Read the [executive summary](docs/executive_summary.md), the [model development document](docs/model_development_document.md) and the [validation report](docs/validation_report.md).
@@ -36,6 +36,7 @@ Read the [executive summary](docs/executive_summary.md), the [model development 
   * 1,000, 2,000 or 5,000 genes, and ln(IC50) instead of AUC as the response;
   * leave-one-cancer-type-out;
   * cross-assay transfer (GDSC2 → GDSC1);
+  * an independent lab: 107 drugs scored against the Broad Institute's PRISM screen;
   * eight biomarker sanity checks.
 
 ## Repository
@@ -80,7 +81,7 @@ The processed expression matrix (76 MB) is not committed; the dashboard and docu
 
 ## Data
 
-Genomics of Drug Sensitivity in Cancer, release 8.5 (GDSC1 and GDSC2 fitted dose-response data) and Cell Model Passports (RNA-seq, model annotation, driver mutations), Wellcome Sanger Institute. Please cite Iorio et al. (2016), *Cell*, and van der Meer et al. (2019), *Nucleic Acids Research*, when using these data.
+Genomics of Drug Sensitivity in Cancer, release 8.5 (GDSC1 and GDSC2 fitted dose-response data) and Cell Model Passports (RNA-seq, model annotation, driver mutations), Wellcome Sanger Institute. Please cite Iorio et al. (2016), *Cell*, and van der Meer et al. (2019), *Nucleic Acids Research*, when using these data. Independent-lab test: PRISM Repurposing secondary screen (Corsello et al. 2020, *Nature Cancer*), Broad Institute, via figshare.
 
 ## Related projects
 

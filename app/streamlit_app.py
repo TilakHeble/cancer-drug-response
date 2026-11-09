@@ -36,6 +36,7 @@ top = load("top_genes.csv", dtype={"drug": str})
 preds = load("predictions.parquet")
 stab = load("selection_stability.csv", dtype={"drug": str})
 ca = load("cross_assay_by_drug.csv", dtype={"drug": str})
+pr = load("prism_by_drug.csv", dtype={"drug": str})
 lot = load("leave_tissue_out.csv")
 bio = load("biomarker_checks.csv")
 sens = load("sensitivity.csv")
@@ -129,6 +130,19 @@ with tabs[3]:
         fig.update_layout(height=450, margin=dict(l=10, r=10, t=10, b=10))
         st.plotly_chart(fig, width="stretch")
         st.dataframe(ca.groupby("model")[["r_gdsc2", "r_gdsc1", "r_assays"]].median().round(3), width="stretch")
+    if pr is not None:
+        st.subheader("Independent lab: GDSC2-trained predictions vs the Broad PRISM screen")
+        c = pr[pr.model == "Ridge"]
+        fig = px.scatter(c, x="r_assays", y="r_prism", hover_data=["drug_name", "n"],
+                         labels={"r_assays": "agreement between GDSC2 and PRISM (r)",
+                                 "r_prism": "r of ridge predictions vs PRISM"})
+        fig.add_trace(go.Scatter(x=[-0.3, 1], y=[-0.3, 1], mode="lines", line=dict(dash="dash", color="black"),
+                                 showlegend=False))
+        fig.update_layout(height=450, margin=dict(l=10, r=10, t=10, b=10))
+        st.plotly_chart(fig, width="stretch")
+        st.dataframe(pr.groupby("model")[["n", "r_gdsc2", "r_prism", "r_assays"]].median().round(3), width="stretch")
+        st.caption("Out-of-fold predictions only (each line predicted by a model that never saw it). "
+                   "Lines with verified identity; drugs matched by name.")
     if lot is not None:
         st.subheader("Leave one cancer type out")
         st.dataframe(lot.round(3), width="stretch")

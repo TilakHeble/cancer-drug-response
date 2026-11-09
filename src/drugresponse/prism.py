@@ -32,7 +32,9 @@ def build() -> pd.DataFrame | None:
     """Long table: drug (GDSC2 id), line (Sanger id), prism_auc. None if PRISM is unavailable."""
     if not PRISM_FILE.exists():
         return None
-    p = pd.read_csv(PRISM_FILE, usecols=["depmap_id", "name", "auc", "r2", "screen_id"])
+    p = pd.read_csv(PRISM_FILE, usecols=["depmap_id", "name", "auc", "r2", "screen_id",
+                                         "passed_str_profiling"])
+    p = p[p.passed_str_profiling.astype(str).str.upper() == "TRUE"]   # cell identity verified
     p = p[p.auc.notna() & (p.r2.fillna(0) >= 0)]              # drop curves that fit worse than flat
     models = pd.read_csv(SANGER / "model_list_latest.csv.gz", usecols=["model_id", "BROAD_ID"])
     broad = models.dropna().set_index("BROAD_ID").model_id

@@ -202,6 +202,24 @@ The two assays agree only moderately for the same drug and cell line. Against th
 Five expression checks pass outright: ERBB2, BCL2, SLFN11 and EGFR, plus ERBB2 for afatinib through its second target. Nutlin-3a passes through its pathway, and both mutation checks pass indirectly. For lapatinib and afatinib, GRB7, which sits next to ERBB2 in the same amplified region, is also selected in every fold: a recognisable copy-number footprint in expression.
 
 
+### 7.6 An independent lab: the Broad Institute's PRISM screen
+
+PRISM (Corsello et al., 2020) screened pooled, DNA-barcoded cell lines: a different institute, assay, plate format and dose range. The GDSC2 models were not retrained. Each line's out-of-fold prediction was scored against PRISM's AUC for the same drug. Only identity-verified lines were used, and drugs were matched by name: 107 drugs, median 279 shared lines (`prism.csv`, `prism_by_drug.csv`).
+
+| Model | vs GDSC2, same lines | vs PRISM |
+|---|---|---|
+| Tissue | 0.201 | 0.094 |
+| Lasso | 0.285 | 0.140 |
+| Elastic net | 0.291 | 0.145 |
+| **Ridge** | **0.343** | **0.180** |
+| *GDSC2 vs PRISM measurements (agreement between the two labs)* | | *0.243* |
+
+* **Between-lab agreement is low.** For the same drug and cell line, GDSC2 and PRISM agree at a median r of only 0.24, and below 0.1 for 17% of drugs.
+* **The models transfer up to that ceiling.** Ridge reaches 77% of the between-lab agreement (median ratio), beats the tissue-only model on 79% of drugs, and the ranking of models is unchanged.
+* **Agreement predicts transfer.** The correlation across drugs between lab agreement and ridge accuracy is 0.85. Where the labs agree, predictions carry over: trametinib (agreement 0.61, ridge 0.52), dasatinib, PD0325901, topotecan and afatinib (0.50).
+
+![PRISM](../outputs/figures/prism.png)
+
 ## 8. Limitations
 
 * **Cell lines are not patients.** Lines are selected for growth in culture and lack the tumour's surroundings (immune and supporting cells), so associations need clinical validation.
@@ -209,11 +227,12 @@ Five expression checks pass outright: ERBB2, BCL2, SLFN11 and EGFR, plus ERBB2 f
 * **Assay noise.** Replicate agreement between GDSC1 and GDSC2 sets a ceiling on achievable accuracy (section 7).
 * **Gene filter by variance.** Selecting genes by variance favours tissue-specific genes and drops some biologically central ones (MDM2 for Nutlin-3a). 5,000 genes is more accurate when compute allows (section 7.2). Curated pathway sets could replace the data-driven modules.
 * **PCR grid.** The largest component count tried (200) was chosen in 6% of fits, so PCR may be slightly understated for those drugs.
-* **No independent lab yet.** The cross-assay test uses two Sanger screens. Code to score the models against the Broad Institute's PRISM screen is included (`drugresponse.prism`) but was not run, because the data host was not reachable from the build environment.
+* **Between-lab reproducibility.** GDSC and PRISM agree only at r = 0.24 for the same drug and line (section 7.6). Accuracy figures from either screen should not be read as accuracy in another lab.
 * **One model per drug.** Drugs with the same target share information that a multi-task model could pool; this is left for future work.
 
 ## 9. References
 
+* Corsello, S. M. et al. (2020). Discovering the anticancer potential of non-oncology drugs by systematic viability profiling. *Nature Cancer*, 1.
 * Garnett, M. J. et al. (2012). Systematic identification of genomic markers of drug sensitivity in cancer cells. *Nature*, 483.
 * Iorio, F. et al. (2016). A landscape of pharmacogenomic interactions in cancer. *Cell*, 166(3).
 * Costello, J. C. et al. (2014). A community effort to assess and improve drug sensitivity prediction algorithms. *Nature Biotechnology*, 32.

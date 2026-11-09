@@ -288,6 +288,30 @@ ca[ca.model == "Ridge"].sort_values("r_assays", ascending=False)[["drug_name", "
 """),
 ]
 
+N05 += [
+    md("""
+## Independent lab: the Broad Institute's PRISM screen
+PRISM (Corsello et al., 2020) screened pooled, DNA-barcoded cell lines: a different lab, assay,
+plate format and dose range. The GDSC2 models are not retrained. Each line's out-of-fold
+prediction, from a model that never saw that line, is compared with PRISM's AUC for the same drug.
+Only lines whose identity passed DNA fingerprinting (STR profiling) are used, and drugs are matched
+by name.
+"""),
+    code("display(Image(FIG / 'prism.png'))\npd.read_csv(T / 'prism.csv', index_col=0)"),
+    code("""
+sc = pd.read_csv(T / "prism_by_drug.csv")
+r = sc[sc.model == "Ridge"]
+print(f"{len(r)} drugs; ridge reaches a median {(r.r_prism / r.r_assays).median():.0%} of the between-lab agreement;"
+      f" correlation across drugs between agreement and ridge accuracy: {r[['r_assays', 'r_prism']].corr().iloc[0, 1]:.2f}")
+r.sort_values("r_assays", ascending=False)[["drug_name", "n", "r_assays", "r_gdsc2", "r_prism"]].head(10).round(3)
+"""),
+    md("""
+The two labs agree much less than Sanger's two assays do. Where they agree, as for MEK, BRAF, EGFR and TOP1
+inhibitors, GDSC-trained predictions carry over. Where they barely agree, no model trained on one lab
+can predict the other. The ceiling is set by measurement, not by the choice of penalty.
+"""),
+]
+
 NOTEBOOKS = {
     "01_data_and_batch_effect.ipynb": N01, "02_inside_one_drug.ipynb": N02,
     "03_results_across_drugs.ipynb": N03, "04_selection_and_biology.ipynb": N04,

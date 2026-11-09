@@ -10,7 +10,7 @@
 | Leakage and evaluation design | 🟢 Green | Corrupting test responses changes no prediction; all preprocessing inside folds; nested CV |
 | Implementation | 🟢 Green | Ridge equals scikit-learn to 1e−16; from-scratch group lasso satisfies the KKT conditions on real data (production iteration cap leaves its gene counts overstated) |
 | Accuracy on known cancer types | 🟢 Green | Ridge beats the tissue baseline on 97.5% of 281 drugs; known biomarkers recovered |
-| Transfer to another assay | 🟡 Amber | 71% of the between-assay ceiling; limited by measurement reproducibility |
+| Transfer to another assay and another lab | 🟡 Amber | 71% of the between-assay ceiling (GDSC1) and 77% of the between-lab ceiling (Broad PRISM, 107 drugs); both ceilings are low |
 | Unseen cancer types | 🔴 Red for blood cancers | Within-tissue ranking roughly halves for haematological and skin lines when their tissue is absent from training |
 | Gene lists | 🟡 Amber | Accurate models, but only ~6 of ~50 selected genes recur in all five folds; report frequencies, not lists |
 
@@ -46,7 +46,7 @@ Learn notebook 05 demonstrates on pure noise how selecting genes on all samples 
 | Group lasso with singleton groups equals the lasso | unit test passes |
 | Batch correction protects confounded tissue effects | unit test with source and tissue 80% aligned passes |
 | Group lasso convergence at production settings (400 iterations) | 🟡 out-of-fold r within ±0.02 of a tight solve (4,000 iterations, Nutlin-3a fold 0), but at small penalties more modules stay active (113 vs 75). Panel accuracy stands; its reported gene counts are overstated. |
-| PRISM scoring code | unit test with synthetic data passes; not run on real data (section 6) |
+| PRISM scoring | unit test with synthetic data passes; run on 107 real drugs (section 5) |
 
 ## 4. Performance
 
@@ -58,11 +58,12 @@ Learn notebook 05 demonstrates on pure noise how selecting genes on all samples 
 
 * **Unseen cancer types (red for blood cancers).** With the tissue held out of training, within-tissue Spearman falls from 0.36 to 0.14 for haematological lines and from 0.28 to 0.15 for skin. Solid tumours keep 79–94%. Haematological lines are also predicted as less sensitive than they are (median bias +0.07 AUC).
 * **Another assay (amber).** Against GDSC1, predictions reach a median r of 0.39 against a between-assay agreement of 0.53. Drugs whose two assays agree transfer well; drugs whose assays disagree, such as paclitaxel and BI-2536, do not.
+* **Another lab (amber).** Against the Broad Institute's PRISM screen (107 drugs, identity-verified lines, out-of-fold predictions only), ridge reaches a median r of 0.18 against a between-lab agreement of 0.24 (77%), and beats tissue on 79% of drugs. Lab agreement explains transfer almost entirely (correlation 0.85 across drugs).
 
 ## 6. Limitations and recommendations
 
 1. **Use 5,000 genes, or a supervised-free filter that keeps key genes, when compute allows.** 5,000 genes improved ridge on 81% of panel drugs, and the variance filter dropped MDM2.
 2. **Do not deploy to unseen cancer types**, especially haematological ones, without retraining on representative lines.
-3. **Independent lab.** Run `drugresponse.prism` against the Broad PRISM secondary screen once its data host is reachable. The code is unit-tested; real results are pending.
+3. **Treat cross-lab accuracy as bounded by reproducibility.** GDSC and PRISM agree at only r = 0.24. Before acting on a prediction for a drug, check that drug's between-lab agreement (`prism_by_drug.csv`).
 4. **Report gene selection frequencies with intervals**, never a single list. Confirm candidate biomarkers experimentally or in a second dataset.
 5. **Add mutation and copy-number features.** Expression captures BRAF-mutant biology (ROC AUC 0.82 for dabrafenib) only indirectly.
