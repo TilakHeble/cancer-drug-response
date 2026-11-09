@@ -1,0 +1,11 @@
+design,model,r,rho_within
+genes_1000,Lasso,0.553,0.26
+genes_1000,Ridge,0.575,0.28
+genes_2000 (main),Lasso,0.562,0.271
+genes_2000 (main),Ridge,0.586,0.287
+genes_2000 (main),Tissue,0.426,
+genes_5000,Lasso,0.587,0.329
+genes_5000,Ridge,0.598,0.319
+target_ln_ic50,Lasso,0.597,0.351
+target_ln_ic50,Ridge,0.616,0.39
+target_ln_ic50,Tissue,0.452,

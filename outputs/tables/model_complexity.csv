@@ -1,0 +1,7026 @@
+drug,model,n_nonzero,l1_ratio,k
+1003,Tissue,27,,
+1003,Ridge,2027,,
+1003,Lasso,126,,
+1003,Elastic net,126,0.8,
+1003,PCR,2027,,200.0
+1003,Tissue,27,,
+1003,Ridge,2027,,
+1003,Lasso,130,,
+1003,Elastic net,165,0.2,
+1003,PCR,2027,,100.0
+1003,Tissue,28,,
+1003,Ridge,2028,,
+1003,Lasso,146,,
+1003,Elastic net,145,0.2,
+1003,PCR,2028,,200.0
+1003,Tissue,28,,
+1003,Ridge,2028,,
+1003,Lasso,186,,
+1003,Elastic net,228,0.2,
+1003,PCR,2028,,200.0
+1003,Tissue,28,,
+1003,Ridge,2028,,
+1003,Lasso,118,,
+1003,Elastic net,119,0.8,
+1003,PCR,2028,,200.0
+1005,Tissue,27,,
+1005,Ridge,2025,,
+1005,Lasso,56,,
+1005,Elastic net,56,0.8,
+1005,PCR,2025,,200.0
+1005,Tissue,27,,
+1005,Ridge,2025,,
+1005,Lasso,129,,
+1005,Elastic net,128,0.8,
+1005,PCR,2025,,100.0
+1005,Tissue,28,,
+1005,Ridge,2026,,
+1005,Lasso,94,,
+1005,Elastic net,96,0.2,
+1005,PCR,2026,,200.0
+1005,Tissue,28,,
+1005,Ridge,2026,,
+1005,Lasso,48,,
+1005,Elastic net,48,0.8,
+1005,PCR,2026,,100.0
+1005,Tissue,28,,
+1005,Ridge,2026,,
+1005,Lasso,60,,
+1005,Elastic net,60,0.8,
+1005,PCR,2026,,100.0
+1007,Tissue,27,,
+1007,Ridge,2027,,
+1007,Lasso,102,,
+1007,Elastic net,106,0.2,
+1007,PCR,2027,,100.0
+1007,Tissue,27,,
+1007,Ridge,2027,,
+1007,Lasso,103,,
+1007,Elastic net,106,0.2,
+1007,PCR,2027,,100.0
+1007,Tissue,28,,
+1007,Ridge,2028,,
+1007,Lasso,120,,
+1007,Elastic net,121,0.2,
+1007,PCR,2028,,100.0
+1007,Tissue,28,,
+1007,Ridge,2028,,
+1007,Lasso,132,,
+1007,Elastic net,166,0.2,
+1007,PCR,2028,,100.0
+1007,Tissue,28,,
+1007,Ridge,2028,,
+1007,Lasso,132,,
+1007,Elastic net,136,0.2,
+1007,PCR,2028,,50.0
+1010,Tissue,27,,
+1010,Ridge,2027,,
+1010,Lasso,63,,
+1010,Elastic net,64,0.2,
+1010,PCR,2027,,50.0
+1010,Tissue,27,,
+1010,Ridge,2027,,
+1010,Lasso,68,,
+1010,Elastic net,68,0.8,
+1010,PCR,2027,,20.0
+1010,Tissue,28,,
+1010,Ridge,2028,,
+1010,Lasso,59,,
+1010,Elastic net,60,0.2,
+1010,PCR,2028,,20.0
+1010,Tissue,28,,
+1010,Ridge,2028,,
+1010,Lasso,53,,
+1010,Elastic net,55,0.2,
+1010,PCR,2028,,20.0
+1010,Tissue,28,,
+1010,Ridge,2028,,
+1010,Lasso,75,,
+1010,Elastic net,74,0.2,
+1010,PCR,2028,,20.0
+1012,Tissue,27,,
+1012,Ridge,2027,,
+1012,Lasso,108,,
+1012,Elastic net,111,0.2,
+1012,PCR,2027,,100.0
+1012,Tissue,27,,
+1012,Ridge,2027,,
+1012,Lasso,66,,
+1012,Elastic net,69,0.2,
+1012,PCR,2027,,50.0
+1012,Tissue,28,,
+1012,Ridge,2028,,
+1012,Lasso,79,,
+1012,Elastic net,81,0.2,
+1012,PCR,2028,,50.0
+1012,Tissue,28,,
+1012,Ridge,2028,,
+1012,Lasso,105,,
+1012,Elastic net,109,0.2,
+1012,PCR,2028,,100.0
+1012,Tissue,28,,
+1012,Ridge,2028,,
+1012,Lasso,65,,
+1012,Elastic net,69,0.2,
+1012,PCR,2028,,50.0
+1014,Tissue,27,,
+1014,Ridge,2027,,
+1014,Lasso,110,,
+1014,Elastic net,111,0.2,
+1014,PCR,2027,,50.0
+1014,Tissue,27,,
+1014,Ridge,2027,,
+1014,Lasso,126,,
+1014,Elastic net,134,0.2,
+1014,PCR,2027,,50.0
+1014,Tissue,28,,
+1014,Ridge,2028,,
+1014,Lasso,135,,
+1014,Elastic net,142,0.2,
+1014,PCR,2028,,50.0
+1014,Tissue,28,,
+1014,Ridge,2028,,
+1014,Lasso,132,,
+1014,Elastic net,140,0.2,
+1014,PCR,2028,,50.0
+1014,Tissue,28,,
+1014,Ridge,2028,,
+1014,Lasso,136,,
+1014,Elastic net,139,0.2,
+1014,PCR,2028,,50.0
+1017,Tissue,27,,
+1017,Ridge,2027,,
+1017,Lasso,95,,
+1017,Elastic net,98,0.2,
+1017,PCR,2027,,50.0
+1017,Tissue,27,,
+1017,Ridge,2027,,
+1017,Lasso,49,,
+1017,Elastic net,50,0.2,
+1017,PCR,2027,,50.0
+1017,Tissue,28,,
+1017,Ridge,2028,,
+1017,Lasso,112,,
+1017,Elastic net,113,0.2,
+1017,PCR,2028,,50.0
+1017,Tissue,28,,
+1017,Ridge,2028,,
+1017,Lasso,85,,
+1017,Elastic net,85,0.8,
+1017,PCR,2028,,50.0
+1017,Tissue,28,,
+1017,Ridge,2028,,
+1017,Lasso,104,,
+1017,Elastic net,105,0.2,
+1017,PCR,2028,,100.0
+1019,Tissue,27,,
+1019,Ridge,2027,,
+1019,Lasso,116,,
+1019,Elastic net,142,0.2,
+1019,PCR,2027,,200.0
+1019,Tissue,27,,
+1019,Ridge,2027,,
+1019,Lasso,136,,
+1019,Elastic net,168,0.2,
+1019,PCR,2027,,100.0
+1019,Tissue,28,,
+1019,Ridge,2028,,
+1019,Lasso,105,,
+1019,Elastic net,107,0.2,
+1019,PCR,2028,,200.0
+1019,Tissue,28,,
+1019,Ridge,2028,,
+1019,Lasso,120,,
+1019,Elastic net,122,0.2,
+1019,PCR,2028,,100.0
+1019,Tissue,28,,
+1019,Ridge,2028,,
+1019,Lasso,191,,
+1019,Elastic net,194,0.2,
+1019,PCR,2028,,200.0
+1021,Tissue,27,,
+1021,Ridge,2027,,
+1021,Lasso,90,,
+1021,Elastic net,90,0.2,
+1021,PCR,2027,,50.0
+1021,Tissue,27,,
+1021,Ridge,2027,,
+1021,Lasso,80,,
+1021,Elastic net,91,0.2,
+1021,PCR,2027,,20.0
+1021,Tissue,28,,
+1021,Ridge,2028,,
+1021,Lasso,86,,
+1021,Elastic net,89,0.2,
+1021,PCR,2028,,10.0
+1021,Tissue,28,,
+1021,Ridge,2028,,
+1021,Lasso,84,,
+1021,Elastic net,88,0.2,
+1021,PCR,2028,,20.0
+1021,Tissue,28,,
+1021,Ridge,2028,,
+1021,Lasso,94,,
+1021,Elastic net,94,0.2,
+1021,PCR,2028,,10.0
+1023,Tissue,27,,
+1023,Ridge,2027,,
+1023,Lasso,14,,
+1023,Elastic net,14,0.2,
+1023,PCR,2027,,5.0
+1023,Tissue,27,,
+1023,Ridge,2027,,
+1023,Lasso,14,,
+1023,Elastic net,14,0.2,
+1023,PCR,2027,,2.0
+1023,Tissue,28,,
+1023,Ridge,2028,,
+1023,Lasso,24,,
+1023,Elastic net,24,0.2,
+1023,PCR,2028,,20.0
+1023,Tissue,28,,
+1023,Ridge,2028,,
+1023,Lasso,31,,
+1023,Elastic net,31,0.2,
+1023,PCR,2028,,5.0
+1023,Tissue,28,,
+1023,Ridge,2028,,
+1023,Lasso,16,,
+1023,Elastic net,16,0.2,
+1023,PCR,2028,,5.0
+1025,Tissue,27,,
+1025,Ridge,2027,,
+1025,Lasso,30,,
+1025,Elastic net,30,0.2,
+1025,PCR,2027,,20.0
+1025,Tissue,27,,
+1025,Ridge,2027,,
+1025,Lasso,21,,
+1025,Elastic net,21,0.2,
+1025,PCR,2027,,50.0
+1025,Tissue,28,,
+1025,Ridge,2028,,
+1025,Lasso,50,,
+1025,Elastic net,50,0.2,
+1025,PCR,2028,,50.0
+1025,Tissue,28,,
+1025,Ridge,2028,,
+1025,Lasso,16,,
+1025,Elastic net,16,0.8,
+1025,PCR,2028,,20.0
+1025,Tissue,28,,
+1025,Ridge,2028,,
+1025,Lasso,51,,
+1025,Elastic net,51,0.2,
+1025,PCR,2028,,20.0
+1029,Tissue,27,,
+1029,Ridge,2027,,
+1029,Lasso,0,,
+1029,Elastic net,0,0.2,
+1029,PCR,2027,,20.0
+1029,Tissue,27,,
+1029,Ridge,2027,,
+1029,Lasso,0,,
+1029,Elastic net,0,0.8,
+1029,PCR,2027,,2.0
+1029,Tissue,28,,
+1029,Ridge,2028,,
+1029,Lasso,0,,
+1029,Elastic net,0,0.8,
+1029,PCR,2028,,10.0
+1029,Tissue,28,,
+1029,Ridge,2028,,
+1029,Lasso,1,,
+1029,Elastic net,35,0.2,
+1029,PCR,2028,,20.0
+1029,Tissue,28,,
+1029,Ridge,2028,,
+1029,Lasso,0,,
+1029,Elastic net,0,0.2,
+1029,PCR,2028,,20.0
+1032,Tissue,27,,
+1032,Ridge,2027,,
+1032,Lasso,49,,
+1032,Elastic net,49,0.8,
+1032,PCR,2027,,20.0
+1032,Tissue,27,,
+1032,Ridge,2027,,
+1032,Lasso,99,,
+1032,Elastic net,119,0.2,
+1032,PCR,2027,,20.0
+1032,Tissue,28,,
+1032,Ridge,2028,,
+1032,Lasso,82,,
+1032,Elastic net,82,0.8,
+1032,PCR,2028,,20.0
+1032,Tissue,28,,
+1032,Ridge,2028,,
+1032,Lasso,79,,
+1032,Elastic net,79,0.2,
+1032,PCR,2028,,100.0
+1032,Tissue,28,,
+1032,Ridge,2028,,
+1032,Lasso,109,,
+1032,Elastic net,112,0.2,
+1032,PCR,2028,,50.0
+1034,Tissue,27,,
+1034,Ridge,2027,,
+1034,Lasso,53,,
+1034,Elastic net,55,0.2,
+1034,PCR,2027,,100.0
+1034,Tissue,27,,
+1034,Ridge,2027,,
+1034,Lasso,97,,
+1034,Elastic net,124,0.2,
+1034,PCR,2027,,100.0
+1034,Tissue,28,,
+1034,Ridge,2028,,
+1034,Lasso,174,,
+1034,Elastic net,180,0.2,
+1034,PCR,2028,,100.0
+1034,Tissue,28,,
+1034,Ridge,2028,,
+1034,Lasso,104,,
+1034,Elastic net,140,0.2,
+1034,PCR,2028,,200.0
+1034,Tissue,28,,
+1034,Ridge,2028,,
+1034,Lasso,49,,
+1034,Elastic net,54,0.2,
+1034,PCR,2028,,50.0
+1038,Tissue,27,,
+1038,Ridge,2027,,
+1038,Lasso,87,,
+1038,Elastic net,89,0.2,
+1038,PCR,2027,,20.0
+1038,Tissue,27,,
+1038,Ridge,2027,,
+1038,Lasso,51,,
+1038,Elastic net,51,0.2,
+1038,PCR,2027,,20.0
+1038,Tissue,28,,
+1038,Ridge,2028,,
+1038,Lasso,35,,
+1038,Elastic net,37,0.2,
+1038,PCR,2028,,20.0
+1038,Tissue,28,,
+1038,Ridge,2028,,
+1038,Lasso,29,,
+1038,Elastic net,29,0.2,
+1038,PCR,2028,,20.0
+1038,Tissue,28,,
+1038,Ridge,2028,,
+1038,Lasso,47,,
+1038,Elastic net,48,0.2,
+1038,PCR,2028,,10.0
+1043,Tissue,27,,
+1043,Ridge,2027,,
+1043,Lasso,15,,
+1043,Elastic net,15,0.2,
+1043,PCR,2027,,20.0
+1043,Tissue,27,,
+1043,Ridge,2027,,
+1043,Lasso,21,,
+1043,Elastic net,21,0.2,
+1043,PCR,2027,,20.0
+1043,Tissue,28,,
+1043,Ridge,2028,,
+1043,Lasso,18,,
+1043,Elastic net,18,0.2,
+1043,PCR,2028,,20.0
+1043,Tissue,28,,
+1043,Ridge,2028,,
+1043,Lasso,22,,
+1043,Elastic net,22,0.2,
+1043,PCR,2028,,1.0
+1043,Tissue,28,,
+1043,Ridge,2028,,
+1043,Lasso,56,,
+1043,Elastic net,56,0.2,
+1043,PCR,2028,,20.0
+1047,Tissue,27,,
+1047,Ridge,2027,,
+1047,Lasso,137,,
+1047,Elastic net,180,0.2,
+1047,PCR,2027,,200.0
+1047,Tissue,27,,
+1047,Ridge,2027,,
+1047,Lasso,114,,
+1047,Elastic net,115,0.2,
+1047,PCR,2027,,200.0
+1047,Tissue,28,,
+1047,Ridge,2028,,
+1047,Lasso,157,,
+1047,Elastic net,161,0.2,
+1047,PCR,2028,,200.0
+1047,Tissue,28,,
+1047,Ridge,2028,,
+1047,Lasso,131,,
+1047,Elastic net,131,0.2,
+1047,PCR,2028,,200.0
+1047,Tissue,28,,
+1047,Ridge,2028,,
+1047,Lasso,85,,
+1047,Elastic net,85,0.8,
+1047,PCR,2028,,200.0
+1049,Tissue,27,,
+1049,Ridge,2027,,
+1049,Lasso,44,,
+1049,Elastic net,44,0.8,
+1049,PCR,2027,,20.0
+1049,Tissue,27,,
+1049,Ridge,2027,,
+1049,Lasso,99,,
+1049,Elastic net,99,0.8,
+1049,PCR,2027,,50.0
+1049,Tissue,28,,
+1049,Ridge,2028,,
+1049,Lasso,62,,
+1049,Elastic net,62,0.8,
+1049,PCR,2028,,200.0
+1049,Tissue,28,,
+1049,Ridge,2028,,
+1049,Lasso,86,,
+1049,Elastic net,86,0.2,
+1049,PCR,2028,,50.0
+1049,Tissue,28,,
+1049,Ridge,2028,,
+1049,Lasso,38,,
+1049,Elastic net,38,0.8,
+1049,PCR,2028,,5.0
+1051,Tissue,27,,
+1051,Ridge,2027,,
+1051,Lasso,121,,
+1051,Elastic net,123,0.2,
+1051,PCR,2027,,100.0
+1051,Tissue,27,,
+1051,Ridge,2027,,
+1051,Lasso,110,,
+1051,Elastic net,113,0.2,
+1051,PCR,2027,,100.0
+1051,Tissue,28,,
+1051,Ridge,2028,,
+1051,Lasso,104,,
+1051,Elastic net,110,0.2,
+1051,PCR,2028,,100.0
+1051,Tissue,28,,
+1051,Ridge,2028,,
+1051,Lasso,38,,
+1051,Elastic net,49,0.2,
+1051,PCR,2028,,10.0
+1051,Tissue,28,,
+1051,Ridge,2028,,
+1051,Lasso,78,,
+1051,Elastic net,102,0.2,
+1051,PCR,2028,,100.0
+1053,Tissue,27,,
+1053,Ridge,2027,,
+1053,Lasso,46,,
+1053,Elastic net,47,0.2,
+1053,PCR,2027,,20.0
+1053,Tissue,27,,
+1053,Ridge,2027,,
+1053,Lasso,85,,
+1053,Elastic net,85,0.2,
+1053,PCR,2027,,100.0
+1053,Tissue,28,,
+1053,Ridge,2028,,
+1053,Lasso,53,,
+1053,Elastic net,54,0.2,
+1053,PCR,2028,,20.0
+1053,Tissue,28,,
+1053,Ridge,2028,,
+1053,Lasso,81,,
+1053,Elastic net,83,0.2,
+1053,PCR,2028,,20.0
+1053,Tissue,28,,
+1053,Ridge,2028,,
+1053,Lasso,114,,
+1053,Elastic net,118,0.2,
+1053,PCR,2028,,100.0
+1057,Tissue,27,,
+1057,Ridge,2027,,
+1057,Lasso,52,,
+1057,Elastic net,53,0.2,
+1057,PCR,2027,,50.0
+1057,Tissue,27,,
+1057,Ridge,2027,,
+1057,Lasso,77,,
+1057,Elastic net,78,0.2,
+1057,PCR,2027,,100.0
+1057,Tissue,28,,
+1057,Ridge,2028,,
+1057,Lasso,113,,
+1057,Elastic net,116,0.2,
+1057,PCR,2028,,100.0
+1057,Tissue,28,,
+1057,Ridge,2028,,
+1057,Lasso,85,,
+1057,Elastic net,89,0.2,
+1057,PCR,2028,,100.0
+1057,Tissue,28,,
+1057,Ridge,2028,,
+1057,Lasso,67,,
+1057,Elastic net,69,0.2,
+1057,PCR,2028,,50.0
+1059,Tissue,27,,
+1059,Ridge,2025,,
+1059,Lasso,50,,
+1059,Elastic net,51,0.2,
+1059,PCR,2025,,20.0
+1059,Tissue,27,,
+1059,Ridge,2025,,
+1059,Lasso,52,,
+1059,Elastic net,52,0.8,
+1059,PCR,2025,,50.0
+1059,Tissue,28,,
+1059,Ridge,2026,,
+1059,Lasso,67,,
+1059,Elastic net,69,0.2,
+1059,PCR,2026,,10.0
+1059,Tissue,28,,
+1059,Ridge,2026,,
+1059,Lasso,82,,
+1059,Elastic net,86,0.2,
+1059,PCR,2026,,100.0
+1059,Tissue,28,,
+1059,Ridge,2026,,
+1059,Lasso,148,,
+1059,Elastic net,148,0.8,
+1059,PCR,2026,,50.0
+1061,Tissue,27,,
+1061,Ridge,2027,,
+1061,Lasso,59,,
+1061,Elastic net,59,0.2,
+1061,PCR,2027,,50.0
+1061,Tissue,27,,
+1061,Ridge,2027,,
+1061,Lasso,62,,
+1061,Elastic net,64,0.2,
+1061,PCR,2027,,20.0
+1061,Tissue,28,,
+1061,Ridge,2028,,
+1061,Lasso,42,,
+1061,Elastic net,42,0.2,
+1061,PCR,2028,,20.0
+1061,Tissue,28,,
+1061,Ridge,2028,,
+1061,Lasso,41,,
+1061,Elastic net,42,0.2,
+1061,PCR,2028,,20.0
+1061,Tissue,28,,
+1061,Ridge,2028,,
+1061,Lasso,67,,
+1061,Elastic net,68,0.2,
+1061,PCR,2028,,20.0
+1067,Tissue,27,,
+1067,Ridge,2027,,
+1067,Lasso,27,,
+1067,Elastic net,27,0.2,
+1067,PCR,2027,,10.0
+1067,Tissue,27,,
+1067,Ridge,2027,,
+1067,Lasso,39,,
+1067,Elastic net,39,0.8,
+1067,PCR,2027,,20.0
+1067,Tissue,28,,
+1067,Ridge,2028,,
+1067,Lasso,34,,
+1067,Elastic net,35,0.2,
+1067,PCR,2027,,10.0
+1067,Tissue,28,,
+1067,Ridge,2028,,
+1067,Lasso,34,,
+1067,Elastic net,34,0.2,
+1067,PCR,2028,,10.0
+1067,Tissue,28,,
+1067,Ridge,2028,,
+1067,Lasso,25,,
+1067,Elastic net,26,0.2,
+1067,PCR,2028,,20.0
+1069,Tissue,27,,
+1069,Ridge,2027,,
+1069,Lasso,28,,
+1069,Elastic net,28,0.8,
+1069,PCR,2027,,20.0
+1069,Tissue,27,,
+1069,Ridge,2027,,
+1069,Lasso,31,,
+1069,Elastic net,33,0.2,
+1069,PCR,2027,,10.0
+1069,Tissue,28,,
+1069,Ridge,2028,,
+1069,Lasso,24,,
+1069,Elastic net,24,0.2,
+1069,PCR,2028,,20.0
+1069,Tissue,28,,
+1069,Ridge,2028,,
+1069,Lasso,37,,
+1069,Elastic net,37,0.2,
+1069,PCR,2028,,20.0
+1069,Tissue,28,,
+1069,Ridge,2028,,
+1069,Lasso,49,,
+1069,Elastic net,49,0.2,
+1069,PCR,2028,,20.0
+1073,Tissue,27,,
+1073,Ridge,2027,,
+1073,Lasso,151,,
+1073,Elastic net,152,0.2,
+1073,PCR,2027,,100.0
+1073,Tissue,27,,
+1073,Ridge,2027,,
+1073,Lasso,120,,
+1073,Elastic net,122,0.2,
+1073,PCR,2027,,200.0
+1073,Tissue,28,,
+1073,Ridge,2028,,
+1073,Lasso,136,,
+1073,Elastic net,136,0.8,
+1073,PCR,2028,,100.0
+1073,Tissue,28,,
+1073,Ridge,2028,,
+1073,Lasso,125,,
+1073,Elastic net,130,0.2,
+1073,PCR,2028,,100.0
+1073,Tissue,28,,
+1073,Ridge,2028,,
+1073,Lasso,118,,
+1073,Elastic net,121,0.2,
+1073,PCR,2028,,100.0
+1080,Tissue,27,,
+1080,Ridge,2027,,
+1080,Lasso,39,,
+1080,Elastic net,39,0.2,
+1080,PCR,2027,,5.0
+1080,Tissue,27,,
+1080,Ridge,2027,,
+1080,Lasso,171,,
+1080,Elastic net,175,0.2,
+1080,PCR,2027,,100.0
+1080,Tissue,28,,
+1080,Ridge,2028,,
+1080,Lasso,69,,
+1080,Elastic net,73,0.2,
+1080,PCR,2028,,100.0
+1080,Tissue,28,,
+1080,Ridge,2028,,
+1080,Lasso,135,,
+1080,Elastic net,139,0.2,
+1080,PCR,2028,,100.0
+1080,Tissue,28,,
+1080,Ridge,2028,,
+1080,Lasso,137,,
+1080,Elastic net,173,0.2,
+1080,PCR,2028,,5.0
+1084,Tissue,27,,
+1084,Ridge,2027,,
+1084,Lasso,56,,
+1084,Elastic net,56,0.8,
+1084,PCR,2027,,10.0
+1084,Tissue,27,,
+1084,Ridge,2027,,
+1084,Lasso,36,,
+1084,Elastic net,37,0.2,
+1084,PCR,2027,,20.0
+1084,Tissue,28,,
+1084,Ridge,2028,,
+1084,Lasso,67,,
+1084,Elastic net,69,0.2,
+1084,PCR,2028,,20.0
+1084,Tissue,28,,
+1084,Ridge,2028,,
+1084,Lasso,24,,
+1084,Elastic net,26,0.2,
+1084,PCR,2028,,20.0
+1084,Tissue,28,,
+1084,Ridge,2028,,
+1084,Lasso,132,,
+1084,Elastic net,172,0.2,
+1084,PCR,2028,,20.0
+1086,Tissue,27,,
+1086,Ridge,2027,,
+1086,Lasso,96,,
+1086,Elastic net,97,0.2,
+1086,PCR,2027,,100.0
+1086,Tissue,27,,
+1086,Ridge,2027,,
+1086,Lasso,121,,
+1086,Elastic net,132,0.2,
+1086,PCR,2027,,100.0
+1086,Tissue,28,,
+1086,Ridge,2028,,
+1086,Lasso,106,,
+1086,Elastic net,106,0.8,
+1086,PCR,2028,,200.0
+1086,Tissue,28,,
+1086,Ridge,2028,,
+1086,Lasso,141,,
+1086,Elastic net,150,0.2,
+1086,PCR,2028,,100.0
+1086,Tissue,28,,
+1086,Ridge,2028,,
+1086,Lasso,143,,
+1086,Elastic net,149,0.2,
+1086,PCR,2028,,100.0
+1089,Tissue,27,,
+1089,Ridge,2027,,
+1089,Lasso,121,,
+1089,Elastic net,122,0.2,
+1089,PCR,2027,,100.0
+1089,Tissue,27,,
+1089,Ridge,2027,,
+1089,Lasso,48,,
+1089,Elastic net,49,0.2,
+1089,PCR,2027,,100.0
+1089,Tissue,28,,
+1089,Ridge,2028,,
+1089,Lasso,82,,
+1089,Elastic net,85,0.2,
+1089,PCR,2028,,100.0
+1089,Tissue,28,,
+1089,Ridge,2028,,
+1089,Lasso,110,,
+1089,Elastic net,131,0.2,
+1089,PCR,2028,,100.0
+1089,Tissue,28,,
+1089,Ridge,2028,,
+1089,Lasso,66,,
+1089,Elastic net,69,0.2,
+1089,PCR,2028,,100.0
+1093,Tissue,27,,
+1093,Ridge,2027,,
+1093,Lasso,31,,
+1093,Elastic net,31,0.2,
+1093,PCR,2027,,20.0
+1093,Tissue,27,,
+1093,Ridge,2027,,
+1093,Lasso,21,,
+1093,Elastic net,21,0.2,
+1093,PCR,2027,,50.0
+1093,Tissue,28,,
+1093,Ridge,2028,,
+1093,Lasso,0,,
+1093,Elastic net,0,0.2,
+1093,PCR,2027,,1.0
+1093,Tissue,28,,
+1093,Ridge,2028,,
+1093,Lasso,29,,
+1093,Elastic net,29,0.2,
+1093,PCR,2028,,20.0
+1093,Tissue,28,,
+1093,Ridge,2028,,
+1093,Lasso,85,,
+1093,Elastic net,85,0.2,
+1093,PCR,2028,,50.0
+1133,Tissue,27,,
+1133,Ridge,2027,,
+1133,Lasso,48,,
+1133,Elastic net,48,0.2,
+1133,PCR,2027,,20.0
+1133,Tissue,27,,
+1133,Ridge,2027,,
+1133,Lasso,40,,
+1133,Elastic net,40,0.8,
+1133,PCR,2027,,20.0
+1133,Tissue,28,,
+1133,Ridge,2028,,
+1133,Lasso,31,,
+1133,Elastic net,33,0.2,
+1133,PCR,2028,,50.0
+1133,Tissue,28,,
+1133,Ridge,2028,,
+1133,Lasso,29,,
+1133,Elastic net,29,0.8,
+1133,PCR,2028,,20.0
+1133,Tissue,28,,
+1133,Ridge,2028,,
+1133,Lasso,49,,
+1133,Elastic net,51,0.2,
+1133,PCR,2028,,200.0
+1168,Tissue,27,,
+1168,Ridge,2027,,
+1168,Lasso,47,,
+1168,Elastic net,50,0.2,
+1168,PCR,2027,,50.0
+1168,Tissue,27,,
+1168,Ridge,2027,,
+1168,Lasso,78,,
+1168,Elastic net,80,0.2,
+1168,PCR,2027,,50.0
+1168,Tissue,28,,
+1168,Ridge,2028,,
+1168,Lasso,45,,
+1168,Elastic net,46,0.2,
+1168,PCR,2028,,20.0
+1168,Tissue,28,,
+1168,Ridge,2028,,
+1168,Lasso,43,,
+1168,Elastic net,45,0.2,
+1168,PCR,2028,,50.0
+1168,Tissue,28,,
+1168,Ridge,2028,,
+1168,Lasso,18,,
+1168,Elastic net,19,0.2,
+1168,PCR,2028,,20.0
+1177,Tissue,27,,
+1177,Ridge,2026,,
+1177,Lasso,71,,
+1177,Elastic net,73,0.2,
+1177,PCR,2026,,50.0
+1177,Tissue,27,,
+1177,Ridge,2027,,
+1177,Lasso,57,,
+1177,Elastic net,75,0.2,
+1177,PCR,2027,,50.0
+1177,Tissue,28,,
+1177,Ridge,2028,,
+1177,Lasso,50,,
+1177,Elastic net,50,0.2,
+1177,PCR,2028,,50.0
+1177,Tissue,28,,
+1177,Ridge,2028,,
+1177,Lasso,67,,
+1177,Elastic net,70,0.2,
+1177,PCR,2028,,100.0
+1177,Tissue,28,,
+1177,Ridge,2028,,
+1177,Lasso,73,,
+1177,Elastic net,77,0.2,
+1177,PCR,2028,,100.0
+1180,Tissue,27,,
+1180,Ridge,2026,,
+1180,Lasso,93,,
+1180,Elastic net,96,0.2,
+1180,PCR,2026,,100.0
+1180,Tissue,27,,
+1180,Ridge,2027,,
+1180,Lasso,101,,
+1180,Elastic net,103,0.2,
+1180,PCR,2027,,50.0
+1180,Tissue,28,,
+1180,Ridge,2028,,
+1180,Lasso,106,,
+1180,Elastic net,110,0.2,
+1180,PCR,2028,,100.0
+1180,Tissue,28,,
+1180,Ridge,2028,,
+1180,Lasso,94,,
+1180,Elastic net,98,0.2,
+1180,PCR,2028,,100.0
+1180,Tissue,28,,
+1180,Ridge,2028,,
+1180,Lasso,136,,
+1180,Elastic net,139,0.2,
+1180,PCR,2028,,100.0
+1191,Tissue,27,,
+1191,Ridge,2027,,
+1191,Lasso,30,,
+1191,Elastic net,30,0.8,
+1191,PCR,2027,,50.0
+1191,Tissue,27,,
+1191,Ridge,2027,,
+1191,Lasso,142,,
+1191,Elastic net,143,0.2,
+1191,PCR,2027,,50.0
+1191,Tissue,28,,
+1191,Ridge,2028,,
+1191,Lasso,96,,
+1191,Elastic net,96,0.2,
+1191,PCR,2028,,20.0
+1191,Tissue,28,,
+1191,Ridge,2028,,
+1191,Lasso,109,,
+1191,Elastic net,110,0.2,
+1191,PCR,2028,,50.0
+1191,Tissue,28,,
+1191,Ridge,2028,,
+1191,Lasso,33,,
+1191,Elastic net,33,0.8,
+1191,PCR,2028,,50.0
+1200,Tissue,27,,
+1200,Ridge,2027,,
+1200,Lasso,67,,
+1200,Elastic net,67,0.2,
+1200,PCR,2027,,50.0
+1200,Tissue,27,,
+1200,Ridge,2027,,
+1200,Lasso,19,,
+1200,Elastic net,19,0.2,
+1200,PCR,2027,,20.0
+1200,Tissue,28,,
+1200,Ridge,2028,,
+1200,Lasso,42,,
+1200,Elastic net,42,0.2,
+1200,PCR,2028,,50.0
+1200,Tissue,28,,
+1200,Ridge,2028,,
+1200,Lasso,22,,
+1200,Elastic net,22,0.8,
+1200,PCR,2028,,100.0
+1200,Tissue,28,,
+1200,Ridge,2028,,
+1200,Lasso,26,,
+1200,Elastic net,26,0.2,
+1200,PCR,2028,,100.0
+1239,Tissue,27,,
+1239,Ridge,2027,,
+1239,Lasso,131,,
+1239,Elastic net,133,0.2,
+1239,PCR,2027,,100.0
+1239,Tissue,27,,
+1239,Ridge,2027,,
+1239,Lasso,134,,
+1239,Elastic net,139,0.2,
+1239,PCR,2027,,100.0
+1239,Tissue,28,,
+1239,Ridge,2028,,
+1239,Lasso,109,,
+1239,Elastic net,111,0.2,
+1239,PCR,2028,,50.0
+1239,Tissue,28,,
+1239,Ridge,2028,,
+1239,Lasso,136,,
+1239,Elastic net,138,0.2,
+1239,PCR,2028,,100.0
+1239,Tissue,28,,
+1239,Ridge,2028,,
+1239,Lasso,127,,
+1239,Elastic net,131,0.2,
+1239,PCR,2028,,50.0
+1249,Tissue,27,,
+1249,Ridge,2026,,
+1249,Lasso,31,,
+1249,Elastic net,32,0.2,
+1249,PCR,2026,,1.0
+1249,Tissue,27,,
+1249,Ridge,2027,,
+1249,Lasso,19,,
+1249,Elastic net,20,0.2,
+1249,PCR,2027,,10.0
+1249,Tissue,28,,
+1249,Ridge,2028,,
+1249,Lasso,55,,
+1249,Elastic net,56,0.2,
+1249,PCR,2028,,1.0
+1249,Tissue,28,,
+1249,Ridge,2028,,
+1249,Lasso,25,,
+1249,Elastic net,30,0.2,
+1249,PCR,2028,,10.0
+1249,Tissue,28,,
+1249,Ridge,2028,,
+1249,Lasso,26,,
+1249,Elastic net,26,0.2,
+1249,PCR,2028,,20.0
+1259,Tissue,27,,
+1259,Ridge,2027,,
+1259,Lasso,47,,
+1259,Elastic net,67,0.2,
+1259,PCR,2027,,100.0
+1259,Tissue,27,,
+1259,Ridge,2027,,
+1259,Lasso,105,,
+1259,Elastic net,111,0.2,
+1259,PCR,2027,,100.0
+1259,Tissue,28,,
+1259,Ridge,2028,,
+1259,Lasso,139,,
+1259,Elastic net,143,0.2,
+1259,PCR,2028,,50.0
+1259,Tissue,28,,
+1259,Ridge,2028,,
+1259,Lasso,103,,
+1259,Elastic net,107,0.2,
+1259,PCR,2028,,100.0
+1259,Tissue,28,,
+1259,Ridge,2028,,
+1259,Lasso,97,,
+1259,Elastic net,98,0.2,
+1259,PCR,2028,,100.0
+1372,Tissue,27,,
+1372,Ridge,2027,,
+1372,Lasso,188,,
+1372,Elastic net,191,0.2,
+1372,PCR,2027,,100.0
+1372,Tissue,27,,
+1372,Ridge,2027,,
+1372,Lasso,128,,
+1372,Elastic net,132,0.2,
+1372,PCR,2027,,50.0
+1372,Tissue,28,,
+1372,Ridge,2028,,
+1372,Lasso,125,,
+1372,Elastic net,162,0.2,
+1372,PCR,2028,,50.0
+1372,Tissue,28,,
+1372,Ridge,2028,,
+1372,Lasso,132,,
+1372,Elastic net,135,0.2,
+1372,PCR,2028,,100.0
+1372,Tissue,28,,
+1372,Ridge,2028,,
+1372,Lasso,132,,
+1372,Elastic net,140,0.2,
+1372,PCR,2028,,50.0
+1375,Tissue,27,,
+1375,Ridge,2027,,
+1375,Lasso,83,,
+1375,Elastic net,85,0.2,
+1375,PCR,2027,,100.0
+1375,Tissue,27,,
+1375,Ridge,2027,,
+1375,Lasso,56,,
+1375,Elastic net,56,0.2,
+1375,PCR,2027,,200.0
+1375,Tissue,28,,
+1375,Ridge,2028,,
+1375,Lasso,73,,
+1375,Elastic net,73,0.8,
+1375,PCR,2028,,100.0
+1375,Tissue,28,,
+1375,Ridge,2028,,
+1375,Lasso,72,,
+1375,Elastic net,73,0.2,
+1375,PCR,2028,,50.0
+1375,Tissue,28,,
+1375,Ridge,2028,,
+1375,Lasso,60,,
+1375,Elastic net,61,0.2,
+1375,PCR,2028,,100.0
+1401,Tissue,27,,
+1401,Ridge,2025,,
+1401,Lasso,116,,
+1401,Elastic net,121,0.2,
+1401,PCR,2025,,50.0
+1401,Tissue,27,,
+1401,Ridge,2025,,
+1401,Lasso,132,,
+1401,Elastic net,140,0.2,
+1401,PCR,2025,,100.0
+1401,Tissue,28,,
+1401,Ridge,2027,,
+1401,Lasso,91,,
+1401,Elastic net,94,0.2,
+1401,PCR,2027,,50.0
+1401,Tissue,28,,
+1401,Ridge,2027,,
+1401,Lasso,36,,
+1401,Elastic net,38,0.2,
+1401,PCR,2027,,100.0
+1401,Tissue,28,,
+1401,Ridge,2027,,
+1401,Lasso,53,,
+1401,Elastic net,55,0.2,
+1401,PCR,2027,,50.0
+1441,Tissue,27,,
+1441,Ridge,2025,,
+1441,Lasso,53,,
+1441,Elastic net,53,0.2,
+1441,PCR,2025,,10.0
+1441,Tissue,27,,
+1441,Ridge,2025,,
+1441,Lasso,54,,
+1441,Elastic net,55,0.2,
+1441,PCR,2025,,100.0
+1441,Tissue,28,,
+1441,Ridge,2027,,
+1441,Lasso,61,,
+1441,Elastic net,85,0.2,
+1441,PCR,2027,,50.0
+1441,Tissue,28,,
+1441,Ridge,2027,,
+1441,Lasso,35,,
+1441,Elastic net,37,0.2,
+1441,PCR,2027,,5.0
+1441,Tissue,28,,
+1441,Ridge,2027,,
+1441,Lasso,42,,
+1441,Elastic net,42,0.2,
+1441,PCR,2027,,50.0
+1463,Tissue,27,,
+1463,Ridge,2025,,
+1463,Lasso,3,,
+1463,Elastic net,3,0.8,
+1463,PCR,2025,,20.0
+1463,Tissue,27,,
+1463,Ridge,2025,,
+1463,Lasso,7,,
+1463,Elastic net,7,0.2,
+1463,PCR,2025,,5.0
+1463,Tissue,28,,
+1463,Ridge,2027,,
+1463,Lasso,68,,
+1463,Elastic net,70,0.2,
+1463,PCR,2027,,50.0
+1463,Tissue,28,,
+1463,Ridge,2027,,
+1463,Lasso,82,,
+1463,Elastic net,84,0.2,
+1463,PCR,2027,,20.0
+1463,Tissue,28,,
+1463,Ridge,2027,,
+1463,Lasso,17,,
+1463,Elastic net,58,0.2,
+1463,PCR,2027,,20.0
+1507,Tissue,27,,
+1507,Ridge,2026,,
+1507,Lasso,17,,
+1507,Elastic net,17,0.2,
+1507,PCR,2026,,20.0
+1507,Tissue,27,,
+1507,Ridge,2027,,
+1507,Lasso,14,,
+1507,Elastic net,14,0.8,
+1507,PCR,2027,,50.0
+1507,Tissue,28,,
+1507,Ridge,2028,,
+1507,Lasso,23,,
+1507,Elastic net,24,0.2,
+1507,PCR,2028,,50.0
+1507,Tissue,28,,
+1507,Ridge,2028,,
+1507,Lasso,61,,
+1507,Elastic net,63,0.2,
+1507,PCR,2028,,50.0
+1507,Tissue,28,,
+1507,Ridge,2028,,
+1507,Lasso,63,,
+1507,Elastic net,65,0.2,
+1507,PCR,2028,,50.0
+1511,Tissue,27,,
+1511,Ridge,2027,,
+1511,Lasso,77,,
+1511,Elastic net,100,0.2,
+1511,PCR,2027,,100.0
+1511,Tissue,27,,
+1511,Ridge,2027,,
+1511,Lasso,114,,
+1511,Elastic net,121,0.2,
+1511,PCR,2027,,100.0
+1511,Tissue,28,,
+1511,Ridge,2028,,
+1511,Lasso,118,,
+1511,Elastic net,123,0.2,
+1511,PCR,2028,,200.0
+1511,Tissue,28,,
+1511,Ridge,2028,,
+1511,Lasso,121,,
+1511,Elastic net,125,0.2,
+1511,PCR,2028,,100.0
+1511,Tissue,28,,
+1511,Ridge,2028,,
+1511,Lasso,117,,
+1511,Elastic net,119,0.2,
+1511,PCR,2028,,200.0
+1529,Tissue,27,,
+1529,Ridge,2027,,
+1529,Lasso,168,,
+1529,Elastic net,172,0.2,
+1529,PCR,2027,,100.0
+1529,Tissue,27,,
+1529,Ridge,2027,,
+1529,Lasso,117,,
+1529,Elastic net,124,0.2,
+1529,PCR,2027,,100.0
+1529,Tissue,28,,
+1529,Ridge,2028,,
+1529,Lasso,178,,
+1529,Elastic net,185,0.2,
+1529,PCR,2028,,200.0
+1529,Tissue,28,,
+1529,Ridge,2028,,
+1529,Lasso,120,,
+1529,Elastic net,127,0.2,
+1529,PCR,2028,,200.0
+1529,Tissue,28,,
+1529,Ridge,2028,,
+1529,Lasso,162,,
+1529,Elastic net,166,0.2,
+1529,PCR,2028,,100.0
+1553,Tissue,27,,
+1553,Ridge,2026,,
+1553,Lasso,78,,
+1553,Elastic net,80,0.2,
+1553,PCR,2026,,50.0
+1553,Tissue,27,,
+1553,Ridge,2027,,
+1553,Lasso,123,,
+1553,Elastic net,123,0.2,
+1553,PCR,2027,,100.0
+1553,Tissue,28,,
+1553,Ridge,2028,,
+1553,Lasso,75,,
+1553,Elastic net,75,0.8,
+1553,PCR,2028,,200.0
+1553,Tissue,28,,
+1553,Ridge,2028,,
+1553,Lasso,64,,
+1553,Elastic net,66,0.2,
+1553,PCR,2028,,100.0
+1553,Tissue,28,,
+1553,Ridge,2028,,
+1553,Lasso,91,,
+1553,Elastic net,92,0.2,
+1553,PCR,2028,,100.0
+1558,Tissue,27,,
+1558,Ridge,2027,,
+1558,Lasso,108,,
+1558,Elastic net,109,0.2,
+1558,PCR,2027,,200.0
+1558,Tissue,27,,
+1558,Ridge,2027,,
+1558,Lasso,65,,
+1558,Elastic net,94,0.2,
+1558,PCR,2027,,20.0
+1558,Tissue,28,,
+1558,Ridge,2028,,
+1558,Lasso,86,,
+1558,Elastic net,87,0.8,
+1558,PCR,2028,,20.0
+1558,Tissue,28,,
+1558,Ridge,2028,,
+1558,Lasso,28,,
+1558,Elastic net,28,0.8,
+1558,PCR,2028,,20.0
+1558,Tissue,28,,
+1558,Ridge,2028,,
+1558,Lasso,129,,
+1558,Elastic net,130,0.2,
+1558,PCR,2028,,50.0
+1560,Tissue,27,,
+1560,Ridge,2027,,
+1560,Lasso,61,,
+1560,Elastic net,62,0.2,
+1560,PCR,2027,,20.0
+1560,Tissue,27,,
+1560,Ridge,2027,,
+1560,Lasso,40,,
+1560,Elastic net,40,0.2,
+1560,PCR,2027,,20.0
+1560,Tissue,28,,
+1560,Ridge,2028,,
+1560,Lasso,72,,
+1560,Elastic net,72,0.2,
+1560,PCR,2028,,100.0
+1560,Tissue,28,,
+1560,Ridge,2028,,
+1560,Lasso,60,,
+1560,Elastic net,61,0.2,
+1560,PCR,2028,,20.0
+1560,Tissue,28,,
+1560,Ridge,2028,,
+1560,Lasso,75,,
+1560,Elastic net,76,0.2,
+1560,PCR,2028,,100.0
+1563,Tissue,27,,
+1563,Ridge,2027,,
+1563,Lasso,0,,
+1563,Elastic net,0,0.2,
+1563,PCR,2027,,5.0
+1563,Tissue,27,,
+1563,Ridge,2027,,
+1563,Lasso,0,,
+1563,Elastic net,0,0.2,
+1563,PCR,2027,,10.0
+1563,Tissue,28,,
+1563,Ridge,2028,,
+1563,Lasso,0,,
+1563,Elastic net,0,0.2,
+1563,PCR,2028,,50.0
+1563,Tissue,28,,
+1563,Ridge,2028,,
+1563,Lasso,0,,
+1563,Elastic net,0,0.2,
+1563,PCR,2028,,5.0
+1563,Tissue,28,,
+1563,Ridge,2028,,
+1563,Lasso,11,,
+1563,Elastic net,11,0.2,
+1563,PCR,2028,,10.0
+1576,Tissue,27,,
+1576,Ridge,2026,,
+1576,Lasso,16,,
+1576,Elastic net,17,0.2,
+1576,PCR,2026,,50.0
+1576,Tissue,27,,
+1576,Ridge,2027,,
+1576,Lasso,33,,
+1576,Elastic net,33,0.2,
+1576,PCR,2027,,50.0
+1576,Tissue,28,,
+1576,Ridge,2028,,
+1576,Lasso,14,,
+1576,Elastic net,14,0.2,
+1576,PCR,2028,,50.0
+1576,Tissue,28,,
+1576,Ridge,2028,,
+1576,Lasso,39,,
+1576,Elastic net,39,0.2,
+1576,PCR,2028,,50.0
+1576,Tissue,28,,
+1576,Ridge,2028,,
+1576,Lasso,15,,
+1576,Elastic net,20,0.2,
+1576,PCR,2028,,50.0
+1580,Tissue,27,,
+1580,Ridge,2025,,
+1580,Lasso,7,,
+1580,Elastic net,7,0.8,
+1580,PCR,2025,,5.0
+1580,Tissue,27,,
+1580,Ridge,2025,,
+1580,Lasso,15,,
+1580,Elastic net,15,0.8,
+1580,PCR,2025,,5.0
+1580,Tissue,28,,
+1580,Ridge,2027,,
+1580,Lasso,16,,
+1580,Elastic net,16,0.8,
+1580,PCR,2027,,5.0
+1580,Tissue,28,,
+1580,Ridge,2027,,
+1580,Lasso,13,,
+1580,Elastic net,13,0.2,
+1580,PCR,2027,,1.0
+1580,Tissue,28,,
+1580,Ridge,2027,,
+1580,Lasso,8,,
+1580,Elastic net,8,0.8,
+1580,PCR,2027,,2.0
+1582,Tissue,27,,
+1582,Ridge,2025,,
+1582,Lasso,13,,
+1582,Elastic net,13,0.2,
+1582,PCR,2025,,5.0
+1582,Tissue,27,,
+1582,Ridge,2025,,
+1582,Lasso,14,,
+1582,Elastic net,14,0.2,
+1582,PCR,2025,,1.0
+1582,Tissue,28,,
+1582,Ridge,2027,,
+1582,Lasso,10,,
+1582,Elastic net,10,0.2,
+1582,PCR,2027,,10.0
+1582,Tissue,28,,
+1582,Ridge,2027,,
+1582,Lasso,11,,
+1582,Elastic net,11,0.8,
+1582,PCR,2027,,10.0
+1582,Tissue,28,,
+1582,Ridge,2027,,
+1582,Lasso,81,,
+1582,Elastic net,83,0.2,
+1582,PCR,2027,,5.0
+1584,Tissue,27,,
+1584,Ridge,2025,,
+1584,Lasso,14,,
+1584,Elastic net,14,0.8,
+1584,PCR,2025,,10.0
+1584,Tissue,27,,
+1584,Ridge,2025,,
+1584,Lasso,26,,
+1584,Elastic net,26,0.2,
+1584,PCR,2025,,10.0
+1584,Tissue,28,,
+1584,Ridge,2027,,
+1584,Lasso,14,,
+1584,Elastic net,14,0.2,
+1584,PCR,2027,,5.0
+1584,Tissue,28,,
+1584,Ridge,2027,,
+1584,Lasso,12,,
+1584,Elastic net,12,0.2,
+1584,PCR,2027,,1.0
+1584,Tissue,28,,
+1584,Ridge,2027,,
+1584,Lasso,13,,
+1584,Elastic net,13,0.8,
+1584,PCR,2027,,10.0
+1586,Tissue,27,,
+1586,Ridge,2025,,
+1586,Lasso,9,,
+1586,Elastic net,9,0.8,
+1586,PCR,2025,,5.0
+1586,Tissue,27,,
+1586,Ridge,2025,,
+1586,Lasso,34,,
+1586,Elastic net,34,0.2,
+1586,PCR,2025,,10.0
+1586,Tissue,28,,
+1586,Ridge,2027,,
+1586,Lasso,5,,
+1586,Elastic net,5,0.8,
+1586,PCR,2027,,5.0
+1586,Tissue,28,,
+1586,Ridge,2027,,
+1586,Lasso,7,,
+1586,Elastic net,7,0.2,
+1586,PCR,2027,,50.0
+1586,Tissue,28,,
+1586,Ridge,2027,,
+1586,Lasso,6,,
+1586,Elastic net,6,0.2,
+1586,PCR,2027,,5.0
+1594,Tissue,27,,
+1594,Ridge,2027,,
+1594,Lasso,24,,
+1594,Elastic net,24,0.8,
+1594,PCR,2027,,20.0
+1594,Tissue,27,,
+1594,Ridge,2027,,
+1594,Lasso,45,,
+1594,Elastic net,46,0.2,
+1594,PCR,2027,,20.0
+1594,Tissue,28,,
+1594,Ridge,2028,,
+1594,Lasso,47,,
+1594,Elastic net,47,0.2,
+1594,PCR,2028,,10.0
+1594,Tissue,28,,
+1594,Ridge,2028,,
+1594,Lasso,74,,
+1594,Elastic net,77,0.2,
+1594,PCR,2028,,50.0
+1594,Tissue,28,,
+1594,Ridge,2028,,
+1594,Lasso,25,,
+1594,Elastic net,25,0.2,
+1594,PCR,2028,,20.0
+1613,Tissue,27,,
+1613,Ridge,2026,,
+1613,Lasso,40,,
+1613,Elastic net,43,0.2,
+1613,PCR,2026,,50.0
+1613,Tissue,27,,
+1613,Ridge,2027,,
+1613,Lasso,23,,
+1613,Elastic net,28,0.2,
+1613,PCR,2027,,20.0
+1613,Tissue,28,,
+1613,Ridge,2028,,
+1613,Lasso,50,,
+1613,Elastic net,52,0.2,
+1613,PCR,2028,,20.0
+1613,Tissue,28,,
+1613,Ridge,2028,,
+1613,Lasso,26,,
+1613,Elastic net,26,0.2,
+1613,PCR,2028,,50.0
+1613,Tissue,28,,
+1613,Ridge,2028,,
+1613,Lasso,66,,
+1613,Elastic net,69,0.2,
+1613,PCR,2028,,20.0
+1615,Tissue,27,,
+1615,Ridge,2026,,
+1615,Lasso,20,,
+1615,Elastic net,21,0.2,
+1615,PCR,2026,,5.0
+1615,Tissue,27,,
+1615,Ridge,2027,,
+1615,Lasso,9,,
+1615,Elastic net,9,0.8,
+1615,PCR,2027,,5.0
+1615,Tissue,28,,
+1615,Ridge,2028,,
+1615,Lasso,19,,
+1615,Elastic net,19,0.2,
+1615,PCR,2028,,5.0
+1615,Tissue,28,,
+1615,Ridge,2028,,
+1615,Lasso,23,,
+1615,Elastic net,24,0.2,
+1615,PCR,2028,,5.0
+1615,Tissue,28,,
+1615,Ridge,2028,,
+1615,Lasso,10,,
+1615,Elastic net,10,0.2,
+1615,PCR,2028,,5.0
+1618,Tissue,27,,
+1618,Ridge,2026,,
+1618,Lasso,75,,
+1618,Elastic net,97,0.2,
+1618,PCR,2026,,20.0
+1618,Tissue,27,,
+1618,Ridge,2027,,
+1618,Lasso,39,,
+1618,Elastic net,39,0.2,
+1618,PCR,2027,,10.0
+1618,Tissue,28,,
+1618,Ridge,2028,,
+1618,Lasso,28,,
+1618,Elastic net,30,0.2,
+1618,PCR,2028,,20.0
+1618,Tissue,28,,
+1618,Ridge,2028,,
+1618,Lasso,26,,
+1618,Elastic net,26,0.2,
+1618,PCR,2028,,20.0
+1618,Tissue,28,,
+1618,Ridge,2028,,
+1618,Lasso,21,,
+1618,Elastic net,21,0.2,
+1618,PCR,2028,,10.0
+1621,Tissue,27,,
+1621,Ridge,2026,,
+1621,Lasso,44,,
+1621,Elastic net,44,0.2,
+1621,PCR,2026,,20.0
+1621,Tissue,27,,
+1621,Ridge,2027,,
+1621,Lasso,66,,
+1621,Elastic net,66,0.2,
+1621,PCR,2027,,50.0
+1621,Tissue,28,,
+1621,Ridge,2028,,
+1621,Lasso,47,,
+1621,Elastic net,49,0.2,
+1621,PCR,2028,,20.0
+1621,Tissue,28,,
+1621,Ridge,2028,,
+1621,Lasso,48,,
+1621,Elastic net,48,0.2,
+1621,PCR,2028,,50.0
+1621,Tissue,28,,
+1621,Ridge,2028,,
+1621,Lasso,21,,
+1621,Elastic net,22,0.2,
+1621,PCR,2028,,10.0
+1624,Tissue,27,,
+1624,Ridge,2026,,
+1624,Lasso,22,,
+1624,Elastic net,23,0.2,
+1624,PCR,2026,,20.0
+1624,Tissue,27,,
+1624,Ridge,2027,,
+1624,Lasso,114,,
+1624,Elastic net,114,0.2,
+1624,PCR,2027,,20.0
+1624,Tissue,28,,
+1624,Ridge,2028,,
+1624,Lasso,33,,
+1624,Elastic net,33,0.2,
+1624,PCR,2028,,20.0
+1624,Tissue,28,,
+1624,Ridge,2028,,
+1624,Lasso,31,,
+1624,Elastic net,32,0.2,
+1624,PCR,2028,,5.0
+1624,Tissue,28,,
+1624,Ridge,2028,,
+1624,Lasso,19,,
+1624,Elastic net,19,0.8,
+1624,PCR,2028,,5.0
+1626,Tissue,27,,
+1626,Ridge,2026,,
+1626,Lasso,27,,
+1626,Elastic net,30,0.2,
+1626,PCR,2026,,20.0
+1626,Tissue,27,,
+1626,Ridge,2027,,
+1626,Lasso,35,,
+1626,Elastic net,35,0.8,
+1626,PCR,2027,,100.0
+1626,Tissue,28,,
+1626,Ridge,2028,,
+1626,Lasso,29,,
+1626,Elastic net,31,0.2,
+1626,PCR,2028,,20.0
+1626,Tissue,28,,
+1626,Ridge,2028,,
+1626,Lasso,56,,
+1626,Elastic net,60,0.2,
+1626,PCR,2028,,50.0
+1626,Tissue,28,,
+1626,Ridge,2028,,
+1626,Lasso,16,,
+1626,Elastic net,16,0.8,
+1626,PCR,2028,,20.0
+1629,Tissue,27,,
+1629,Ridge,2026,,
+1629,Lasso,19,,
+1629,Elastic net,19,0.2,
+1629,PCR,2026,,20.0
+1629,Tissue,27,,
+1629,Ridge,2027,,
+1629,Lasso,41,,
+1629,Elastic net,41,0.2,
+1629,PCR,2027,,20.0
+1629,Tissue,28,,
+1629,Ridge,2028,,
+1629,Lasso,12,,
+1629,Elastic net,13,0.8,
+1629,PCR,2028,,20.0
+1629,Tissue,28,,
+1629,Ridge,2028,,
+1629,Lasso,22,,
+1629,Elastic net,54,0.2,
+1629,PCR,2028,,20.0
+1629,Tissue,28,,
+1629,Ridge,2028,,
+1629,Lasso,18,,
+1629,Elastic net,18,0.8,
+1629,PCR,2028,,10.0
+1631,Tissue,27,,
+1631,Ridge,2026,,
+1631,Lasso,35,,
+1631,Elastic net,35,0.8,
+1631,PCR,2026,,10.0
+1631,Tissue,27,,
+1631,Ridge,2027,,
+1631,Lasso,14,,
+1631,Elastic net,9,0.8,
+1631,PCR,2027,,10.0
+1631,Tissue,28,,
+1631,Ridge,2028,,
+1631,Lasso,17,,
+1631,Elastic net,18,0.2,
+1631,PCR,2028,,10.0
+1631,Tissue,28,,
+1631,Ridge,2028,,
+1631,Lasso,80,,
+1631,Elastic net,83,0.2,
+1631,PCR,2028,,20.0
+1631,Tissue,28,,
+1631,Ridge,2028,,
+1631,Lasso,38,,
+1631,Elastic net,41,0.2,
+1631,PCR,2028,,20.0
+1634,Tissue,27,,
+1634,Ridge,2026,,
+1634,Lasso,38,,
+1634,Elastic net,38,0.2,
+1634,PCR,2026,,10.0
+1634,Tissue,27,,
+1634,Ridge,2027,,
+1634,Lasso,10,,
+1634,Elastic net,10,0.8,
+1634,PCR,2027,,10.0
+1634,Tissue,28,,
+1634,Ridge,2028,,
+1634,Lasso,35,,
+1634,Elastic net,35,0.2,
+1634,PCR,2028,,20.0
+1634,Tissue,28,,
+1634,Ridge,2028,,
+1634,Lasso,25,,
+1634,Elastic net,25,0.8,
+1634,PCR,2028,,20.0
+1634,Tissue,28,,
+1634,Ridge,2028,,
+1634,Lasso,20,,
+1634,Elastic net,20,0.2,
+1634,PCR,2028,,20.0
+1706,Tissue,27,,
+1706,Ridge,2025,,
+1706,Lasso,53,,
+1706,Elastic net,65,0.2,
+1706,PCR,2025,,20.0
+1706,Tissue,27,,
+1706,Ridge,2025,,
+1706,Lasso,23,,
+1706,Elastic net,18,0.2,
+1706,PCR,2025,,50.0
+1706,Tissue,28,,
+1706,Ridge,2027,,
+1706,Lasso,116,,
+1706,Elastic net,121,0.2,
+1706,PCR,2027,,100.0
+1706,Tissue,28,,
+1706,Ridge,2027,,
+1706,Lasso,60,,
+1706,Elastic net,36,0.2,
+1706,PCR,2027,,20.0
+1706,Tissue,28,,
+1706,Ridge,2027,,
+1706,Lasso,9,,
+1706,Elastic net,9,0.8,
+1706,PCR,2027,,5.0
+1709,Tissue,27,,
+1709,Ridge,2025,,
+1709,Lasso,78,,
+1709,Elastic net,85,0.2,
+1709,PCR,2025,,10.0
+1709,Tissue,27,,
+1709,Ridge,2025,,
+1709,Lasso,103,,
+1709,Elastic net,107,0.2,
+1709,PCR,2025,,50.0
+1709,Tissue,28,,
+1709,Ridge,2027,,
+1709,Lasso,94,,
+1709,Elastic net,101,0.2,
+1709,PCR,2027,,50.0
+1709,Tissue,28,,
+1709,Ridge,2027,,
+1709,Lasso,70,,
+1709,Elastic net,77,0.2,
+1709,PCR,2027,,50.0
+1709,Tissue,28,,
+1709,Ridge,2027,,
+1709,Lasso,49,,
+1709,Elastic net,51,0.2,
+1709,PCR,2027,,20.0
+1713,Tissue,27,,
+1713,Ridge,2025,,
+1713,Lasso,119,,
+1713,Elastic net,123,0.2,
+1713,PCR,2025,,100.0
+1713,Tissue,27,,
+1713,Ridge,2025,,
+1713,Lasso,56,,
+1713,Elastic net,76,0.2,
+1713,PCR,2025,,50.0
+1713,Tissue,28,,
+1713,Ridge,2027,,
+1713,Lasso,60,,
+1713,Elastic net,67,0.2,
+1713,PCR,2027,,50.0
+1713,Tissue,28,,
+1713,Ridge,2027,,
+1713,Lasso,57,,
+1713,Elastic net,60,0.2,
+1713,PCR,2027,,50.0
+1713,Tissue,28,,
+1713,Ridge,2027,,
+1713,Lasso,53,,
+1713,Elastic net,84,0.2,
+1713,PCR,2027,,100.0
+1716,Tissue,27,,
+1716,Ridge,2025,,
+1716,Lasso,0,,
+1716,Elastic net,0,0.2,
+1716,PCR,2025,,1.0
+1716,Tissue,27,,
+1716,Ridge,2025,,
+1716,Lasso,10,,
+1716,Elastic net,13,0.2,
+1716,PCR,2025,,1.0
+1716,Tissue,28,,
+1716,Ridge,2027,,
+1716,Lasso,14,,
+1716,Elastic net,15,0.2,
+1716,PCR,2027,,50.0
+1716,Tissue,28,,
+1716,Ridge,2027,,
+1716,Lasso,0,,
+1716,Elastic net,0,0.2,
+1716,PCR,2027,,20.0
+1716,Tissue,28,,
+1716,Ridge,2027,,
+1716,Lasso,3,,
+1716,Elastic net,3,0.2,
+1716,PCR,2027,,1.0
+1720,Tissue,27,,
+1720,Ridge,2025,,
+1720,Lasso,83,,
+1720,Elastic net,83,0.8,
+1720,PCR,2025,,100.0
+1720,Tissue,27,,
+1720,Ridge,2025,,
+1720,Lasso,154,,
+1720,Elastic net,159,0.2,
+1720,PCR,2025,,200.0
+1720,Tissue,28,,
+1720,Ridge,2027,,
+1720,Lasso,88,,
+1720,Elastic net,93,0.2,
+1720,PCR,2027,,200.0
+1720,Tissue,28,,
+1720,Ridge,2027,,
+1720,Lasso,49,,
+1720,Elastic net,66,0.2,
+1720,PCR,2027,,50.0
+1720,Tissue,28,,
+1720,Ridge,2027,,
+1720,Lasso,73,,
+1720,Elastic net,77,0.2,
+1720,PCR,2027,,100.0
+1732,Tissue,27,,
+1732,Ridge,2025,,
+1732,Lasso,52,,
+1732,Elastic net,52,0.2,
+1732,PCR,2025,,20.0
+1732,Tissue,27,,
+1732,Ridge,2025,,
+1732,Lasso,31,,
+1732,Elastic net,31,0.2,
+1732,PCR,2025,,50.0
+1732,Tissue,28,,
+1732,Ridge,2027,,
+1732,Lasso,50,,
+1732,Elastic net,52,0.2,
+1732,PCR,2027,,100.0
+1732,Tissue,28,,
+1732,Ridge,2027,,
+1732,Lasso,38,,
+1732,Elastic net,40,0.2,
+1732,PCR,2027,,20.0
+1732,Tissue,28,,
+1732,Ridge,2027,,
+1732,Lasso,19,,
+1732,Elastic net,47,0.2,
+1732,PCR,2027,,50.0
+1734,Tissue,27,,
+1734,Ridge,2025,,
+1734,Lasso,73,,
+1734,Elastic net,72,0.2,
+1734,PCR,2025,,5.0
+1734,Tissue,27,,
+1734,Ridge,2025,,
+1734,Lasso,106,,
+1734,Elastic net,109,0.2,
+1734,PCR,2025,,100.0
+1734,Tissue,28,,
+1734,Ridge,2027,,
+1734,Lasso,95,,
+1734,Elastic net,97,0.2,
+1734,PCR,2027,,100.0
+1734,Tissue,28,,
+1734,Ridge,2027,,
+1734,Lasso,33,,
+1734,Elastic net,107,0.2,
+1734,PCR,2027,,100.0
+1734,Tissue,28,,
+1734,Ridge,2027,,
+1734,Lasso,62,,
+1734,Elastic net,103,0.2,
+1734,PCR,2027,,5.0
+1738,Tissue,27,,
+1738,Ridge,2025,,
+1738,Lasso,70,,
+1738,Elastic net,78,0.2,
+1738,PCR,2025,,20.0
+1738,Tissue,27,,
+1738,Ridge,2025,,
+1738,Lasso,47,,
+1738,Elastic net,48,0.2,
+1738,PCR,2025,,20.0
+1738,Tissue,28,,
+1738,Ridge,2027,,
+1738,Lasso,67,,
+1738,Elastic net,91,0.2,
+1738,PCR,2027,,20.0
+1738,Tissue,28,,
+1738,Ridge,2027,,
+1738,Lasso,86,,
+1738,Elastic net,91,0.2,
+1738,PCR,2027,,20.0
+1738,Tissue,28,,
+1738,Ridge,2027,,
+1738,Lasso,33,,
+1738,Elastic net,44,0.2,
+1738,PCR,2027,,10.0
+1776,Tissue,27,,
+1776,Ridge,2025,,
+1776,Lasso,23,,
+1776,Elastic net,24,0.2,
+1776,PCR,2025,,2.0
+1776,Tissue,27,,
+1776,Ridge,2025,,
+1776,Lasso,18,,
+1776,Elastic net,19,0.2,
+1776,PCR,2025,,10.0
+1776,Tissue,28,,
+1776,Ridge,2027,,
+1776,Lasso,11,,
+1776,Elastic net,12,0.2,
+1776,PCR,2027,,2.0
+1776,Tissue,28,,
+1776,Ridge,2027,,
+1776,Lasso,14,,
+1776,Elastic net,14,0.2,
+1776,PCR,2027,,5.0
+1776,Tissue,28,,
+1776,Ridge,2027,,
+1776,Lasso,12,,
+1776,Elastic net,12,0.2,
+1776,PCR,2027,,5.0
+1778,Tissue,27,,
+1778,Ridge,2025,,
+1778,Lasso,66,,
+1778,Elastic net,68,0.2,
+1778,PCR,2025,,200.0
+1778,Tissue,27,,
+1778,Ridge,2025,,
+1778,Lasso,71,,
+1778,Elastic net,72,0.2,
+1778,PCR,2025,,50.0
+1778,Tissue,28,,
+1778,Ridge,2027,,
+1778,Lasso,103,,
+1778,Elastic net,107,0.2,
+1778,PCR,2027,,100.0
+1778,Tissue,28,,
+1778,Ridge,2027,,
+1778,Lasso,70,,
+1778,Elastic net,93,0.2,
+1778,PCR,2027,,100.0
+1778,Tissue,28,,
+1778,Ridge,2027,,
+1778,Lasso,62,,
+1778,Elastic net,63,0.2,
+1778,PCR,2027,,100.0
+1780,Tissue,27,,
+1780,Ridge,2025,,
+1780,Lasso,0,,
+1780,Elastic net,5,0.2,
+1780,PCR,2025,,1.0
+1780,Tissue,27,,
+1780,Ridge,2025,,
+1780,Lasso,26,,
+1780,Elastic net,26,0.2,
+1780,PCR,2025,,1.0
+1780,Tissue,28,,
+1780,Ridge,2027,,
+1780,Lasso,18,,
+1780,Elastic net,18,0.2,
+1780,PCR,2027,,2.0
+1780,Tissue,28,,
+1780,Ridge,2027,,
+1780,Lasso,2,,
+1780,Elastic net,2,0.8,
+1780,PCR,2027,,1.0
+1780,Tissue,28,,
+1780,Ridge,2027,,
+1780,Lasso,20,,
+1780,Elastic net,20,0.8,
+1780,PCR,2027,,2.0
+1783,Tissue,27,,
+1783,Ridge,2025,,
+1783,Lasso,7,,
+1783,Elastic net,7,0.2,
+1783,PCR,2025,,5.0
+1783,Tissue,27,,
+1783,Ridge,2025,,
+1783,Lasso,0,,
+1783,Elastic net,0,0.8,
+1783,PCR,2025,,2.0
+1783,Tissue,28,,
+1783,Ridge,2027,,
+1783,Lasso,7,,
+1783,Elastic net,7,0.2,
+1783,PCR,2027,,2.0
+1783,Tissue,28,,
+1783,Ridge,2027,,
+1783,Lasso,0,,
+1783,Elastic net,0,0.2,
+1783,PCR,2027,,1.0
+1783,Tissue,28,,
+1783,Ridge,2027,,
+1783,Lasso,0,,
+1783,Elastic net,0,0.2,
+1783,PCR,2027,,2.0
+1785,Tissue,27,,
+1785,Ridge,2024,,
+1785,Lasso,9,,
+1785,Elastic net,9,0.2,
+1785,PCR,2025,,10.0
+1785,Tissue,27,,
+1785,Ridge,2025,,
+1785,Lasso,20,,
+1785,Elastic net,20,0.8,
+1785,PCR,2025,,2.0
+1785,Tissue,28,,
+1785,Ridge,2026,,
+1785,Lasso,11,,
+1785,Elastic net,11,0.2,
+1785,PCR,2027,,5.0
+1785,Tissue,28,,
+1785,Ridge,2027,,
+1785,Lasso,13,,
+1785,Elastic net,13,0.2,
+1785,PCR,2027,,5.0
+1785,Tissue,28,,
+1785,Ridge,2027,,
+1785,Lasso,32,,
+1785,Elastic net,32,0.2,
+1785,PCR,2027,,5.0
+1799,Tissue,27,,
+1799,Ridge,2026,,
+1799,Lasso,41,,
+1799,Elastic net,41,0.8,
+1799,PCR,2026,,200.0
+1799,Tissue,27,,
+1799,Ridge,2027,,
+1799,Lasso,19,,
+1799,Elastic net,19,0.8,
+1799,PCR,2027,,50.0
+1799,Tissue,28,,
+1799,Ridge,2028,,
+1799,Lasso,27,,
+1799,Elastic net,28,0.2,
+1799,PCR,2028,,200.0
+1799,Tissue,28,,
+1799,Ridge,2028,,
+1799,Lasso,88,,
+1799,Elastic net,90,0.2,
+1799,PCR,2028,,50.0
+1799,Tissue,28,,
+1799,Ridge,2028,,
+1799,Lasso,80,,
+1799,Elastic net,79,0.2,
+1799,PCR,2028,,50.0
+1803,Tissue,27,,
+1803,Ridge,2025,,
+1803,Lasso,59,,
+1803,Elastic net,63,0.2,
+1803,PCR,2025,,50.0
+1803,Tissue,27,,
+1803,Ridge,2025,,
+1803,Lasso,98,,
+1803,Elastic net,103,0.2,
+1803,PCR,2025,,50.0
+1803,Tissue,28,,
+1803,Ridge,2027,,
+1803,Lasso,86,,
+1803,Elastic net,91,0.2,
+1803,PCR,2027,,100.0
+1803,Tissue,28,,
+1803,Ridge,2027,,
+1803,Lasso,55,,
+1803,Elastic net,60,0.2,
+1803,PCR,2027,,100.0
+1803,Tissue,28,,
+1803,Ridge,2027,,
+1803,Lasso,111,,
+1803,Elastic net,114,0.2,
+1803,PCR,2027,,50.0
+1806,Tissue,27,,
+1806,Ridge,2025,,
+1806,Lasso,67,,
+1806,Elastic net,67,0.2,
+1806,PCR,2025,,100.0
+1806,Tissue,27,,
+1806,Ridge,2025,,
+1806,Lasso,71,,
+1806,Elastic net,70,0.2,
+1806,PCR,2025,,100.0
+1806,Tissue,28,,
+1806,Ridge,2027,,
+1806,Lasso,75,,
+1806,Elastic net,79,0.2,
+1806,PCR,2027,,100.0
+1806,Tissue,28,,
+1806,Ridge,2027,,
+1806,Lasso,63,,
+1806,Elastic net,64,0.2,
+1806,PCR,2027,,200.0
+1806,Tissue,28,,
+1806,Ridge,2027,,
+1806,Lasso,53,,
+1806,Elastic net,55,0.2,
+1806,PCR,2027,,2.0
+1809,Tissue,27,,
+1809,Ridge,2025,,
+1809,Lasso,73,,
+1809,Elastic net,73,0.8,
+1809,PCR,2025,,200.0
+1809,Tissue,27,,
+1809,Ridge,2025,,
+1809,Lasso,106,,
+1809,Elastic net,110,0.2,
+1809,PCR,2025,,100.0
+1809,Tissue,28,,
+1809,Ridge,2027,,
+1809,Lasso,114,,
+1809,Elastic net,114,0.8,
+1809,PCR,2027,,200.0
+1809,Tissue,28,,
+1809,Ridge,2027,,
+1809,Lasso,152,,
+1809,Elastic net,193,0.2,
+1809,PCR,2027,,200.0
+1809,Tissue,28,,
+1809,Ridge,2027,,
+1809,Lasso,92,,
+1809,Elastic net,94,0.2,
+1809,PCR,2027,,200.0
+1811,Tissue,27,,
+1811,Ridge,2025,,
+1811,Lasso,63,,
+1811,Elastic net,64,0.2,
+1811,PCR,2025,,100.0
+1811,Tissue,27,,
+1811,Ridge,2025,,
+1811,Lasso,61,,
+1811,Elastic net,61,0.2,
+1811,PCR,2025,,20.0
+1811,Tissue,28,,
+1811,Ridge,2027,,
+1811,Lasso,46,,
+1811,Elastic net,46,0.2,
+1811,PCR,2027,,100.0
+1811,Tissue,28,,
+1811,Ridge,2027,,
+1811,Lasso,50,,
+1811,Elastic net,50,0.2,
+1811,PCR,2027,,100.0
+1811,Tissue,28,,
+1811,Ridge,2027,,
+1811,Lasso,75,,
+1811,Elastic net,75,0.2,
+1811,PCR,2027,,50.0
+1813,Tissue,27,,
+1813,Ridge,2025,,
+1813,Lasso,39,,
+1813,Elastic net,42,0.2,
+1813,PCR,2025,,20.0
+1813,Tissue,27,,
+1813,Ridge,2025,,
+1813,Lasso,57,,
+1813,Elastic net,57,0.8,
+1813,PCR,2025,,20.0
+1813,Tissue,28,,
+1813,Ridge,2027,,
+1813,Lasso,48,,
+1813,Elastic net,50,0.2,
+1813,PCR,2027,,20.0
+1813,Tissue,28,,
+1813,Ridge,2027,,
+1813,Lasso,53,,
+1813,Elastic net,54,0.2,
+1813,PCR,2027,,20.0
+1813,Tissue,28,,
+1813,Ridge,2027,,
+1813,Lasso,32,,
+1813,Elastic net,40,0.2,
+1813,PCR,2027,,20.0
+1815,Tissue,27,,
+1815,Ridge,2025,,
+1815,Lasso,14,,
+1815,Elastic net,14,0.8,
+1815,PCR,2025,,5.0
+1815,Tissue,27,,
+1815,Ridge,2025,,
+1815,Lasso,10,,
+1815,Elastic net,10,0.8,
+1815,PCR,2025,,1.0
+1815,Tissue,28,,
+1815,Ridge,2027,,
+1815,Lasso,12,,
+1815,Elastic net,12,0.8,
+1815,PCR,2027,,1.0
+1815,Tissue,28,,
+1815,Ridge,2027,,
+1815,Lasso,8,,
+1815,Elastic net,8,0.8,
+1815,PCR,2027,,5.0
+1815,Tissue,28,,
+1815,Ridge,2027,,
+1815,Lasso,9,,
+1815,Elastic net,9,0.8,
+1815,PCR,2027,,1.0
+1817,Tissue,27,,
+1817,Ridge,2025,,
+1817,Lasso,36,,
+1817,Elastic net,36,0.8,
+1817,PCR,2025,,20.0
+1817,Tissue,27,,
+1817,Ridge,2025,,
+1817,Lasso,17,,
+1817,Elastic net,26,0.2,
+1817,PCR,2025,,10.0
+1817,Tissue,28,,
+1817,Ridge,2027,,
+1817,Lasso,26,,
+1817,Elastic net,26,0.8,
+1817,PCR,2027,,50.0
+1817,Tissue,28,,
+1817,Ridge,2027,,
+1817,Lasso,41,,
+1817,Elastic net,41,0.2,
+1817,PCR,2027,,10.0
+1817,Tissue,28,,
+1817,Ridge,2027,,
+1817,Lasso,43,,
+1817,Elastic net,43,0.8,
+1817,PCR,2027,,10.0
+1820,Tissue,27,,
+1820,Ridge,2025,,
+1820,Lasso,21,,
+1820,Elastic net,21,0.8,
+1820,PCR,2025,,50.0
+1820,Tissue,27,,
+1820,Ridge,2025,,
+1820,Lasso,23,,
+1820,Elastic net,23,0.8,
+1820,PCR,2025,,100.0
+1820,Tissue,28,,
+1820,Ridge,2027,,
+1820,Lasso,41,,
+1820,Elastic net,41,0.8,
+1820,PCR,2027,,50.0
+1820,Tissue,28,,
+1820,Ridge,2027,,
+1820,Lasso,19,,
+1820,Elastic net,19,0.8,
+1820,PCR,2027,,20.0
+1820,Tissue,28,,
+1820,Ridge,2027,,
+1820,Lasso,21,,
+1820,Elastic net,21,0.8,
+1820,PCR,2027,,50.0
+1824,Tissue,27,,
+1824,Ridge,2025,,
+1824,Lasso,15,,
+1824,Elastic net,17,0.2,
+1824,PCR,2025,,5.0
+1824,Tissue,27,,
+1824,Ridge,2025,,
+1824,Lasso,32,,
+1824,Elastic net,33,0.2,
+1824,PCR,2025,,50.0
+1824,Tissue,28,,
+1824,Ridge,2027,,
+1824,Lasso,27,,
+1824,Elastic net,28,0.2,
+1824,PCR,2027,,5.0
+1824,Tissue,28,,
+1824,Ridge,2027,,
+1824,Lasso,25,,
+1824,Elastic net,25,0.2,
+1824,PCR,2027,,1.0
+1824,Tissue,28,,
+1824,Ridge,2027,,
+1824,Lasso,15,,
+1824,Elastic net,16,0.2,
+1824,PCR,2027,,10.0
+1826,Tissue,27,,
+1826,Ridge,2025,,
+1826,Lasso,50,,
+1826,Elastic net,51,0.2,
+1826,PCR,2025,,10.0
+1826,Tissue,27,,
+1826,Ridge,2025,,
+1826,Lasso,32,,
+1826,Elastic net,33,0.2,
+1826,PCR,2025,,50.0
+1826,Tissue,28,,
+1826,Ridge,2027,,
+1826,Lasso,25,,
+1826,Elastic net,25,0.2,
+1826,PCR,2027,,10.0
+1826,Tissue,28,,
+1826,Ridge,2027,,
+1826,Lasso,59,,
+1826,Elastic net,59,0.2,
+1826,PCR,2027,,10.0
+1826,Tissue,28,,
+1826,Ridge,2027,,
+1826,Lasso,44,,
+1826,Elastic net,47,0.2,
+1826,PCR,2027,,20.0
+1828,Tissue,27,,
+1828,Ridge,2025,,
+1828,Lasso,12,,
+1828,Elastic net,12,0.8,
+1828,PCR,2025,,1.0
+1828,Tissue,27,,
+1828,Ridge,2025,,
+1828,Lasso,23,,
+1828,Elastic net,24,0.2,
+1828,PCR,2025,,1.0
+1828,Tissue,28,,
+1828,Ridge,2027,,
+1828,Lasso,48,,
+1828,Elastic net,48,0.2,
+1828,PCR,2027,,5.0
+1828,Tissue,28,,
+1828,Ridge,2027,,
+1828,Lasso,31,,
+1828,Elastic net,42,0.2,
+1828,PCR,2027,,10.0
+1828,Tissue,28,,
+1828,Ridge,2027,,
+1828,Lasso,24,,
+1828,Elastic net,24,0.2,
+1828,PCR,2027,,5.0
+1830,Tissue,27,,
+1830,Ridge,2025,,
+1830,Lasso,33,,
+1830,Elastic net,33,0.2,
+1830,PCR,2025,,5.0
+1830,Tissue,27,,
+1830,Ridge,2025,,
+1830,Lasso,23,,
+1830,Elastic net,23,0.8,
+1830,PCR,2025,,1.0
+1830,Tissue,28,,
+1830,Ridge,2027,,
+1830,Lasso,32,,
+1830,Elastic net,32,0.2,
+1830,PCR,2027,,10.0
+1830,Tissue,28,,
+1830,Ridge,2027,,
+1830,Lasso,6,,
+1830,Elastic net,6,0.8,
+1830,PCR,2027,,5.0
+1830,Tissue,28,,
+1830,Ridge,2027,,
+1830,Lasso,10,,
+1830,Elastic net,11,0.2,
+1830,PCR,2027,,5.0
+1832,Tissue,27,,
+1832,Ridge,2025,,
+1832,Lasso,26,,
+1832,Elastic net,26,0.2,
+1832,PCR,2025,,1.0
+1832,Tissue,27,,
+1832,Ridge,2025,,
+1832,Lasso,22,,
+1832,Elastic net,22,0.2,
+1832,PCR,2025,,1.0
+1832,Tissue,28,,
+1832,Ridge,2027,,
+1832,Lasso,42,,
+1832,Elastic net,42,0.2,
+1832,PCR,2027,,5.0
+1832,Tissue,28,,
+1832,Ridge,2027,,
+1832,Lasso,30,,
+1832,Elastic net,30,0.8,
+1832,PCR,2027,,1.0
+1832,Tissue,28,,
+1832,Ridge,2027,,
+1832,Lasso,30,,
+1832,Elastic net,30,0.2,
+1832,PCR,2027,,1.0
+1834,Tissue,27,,
+1834,Ridge,2025,,
+1834,Lasso,79,,
+1834,Elastic net,79,0.8,
+1834,PCR,2025,,100.0
+1834,Tissue,27,,
+1834,Ridge,2025,,
+1834,Lasso,21,,
+1834,Elastic net,21,0.8,
+1834,PCR,2025,,20.0
+1834,Tissue,28,,
+1834,Ridge,2027,,
+1834,Lasso,48,,
+1834,Elastic net,48,0.8,
+1834,PCR,2027,,20.0
+1834,Tissue,28,,
+1834,Ridge,2027,,
+1834,Lasso,47,,
+1834,Elastic net,46,0.8,
+1834,PCR,2027,,100.0
+1834,Tissue,28,,
+1834,Ridge,2027,,
+1834,Lasso,33,,
+1834,Elastic net,33,0.8,
+1834,PCR,2027,,20.0
+1836,Tissue,27,,
+1836,Ridge,2025,,
+1836,Lasso,9,,
+1836,Elastic net,9,0.8,
+1836,PCR,2025,,20.0
+1836,Tissue,27,,
+1836,Ridge,2025,,
+1836,Lasso,15,,
+1836,Elastic net,17,0.2,
+1836,PCR,2025,,5.0
+1836,Tissue,28,,
+1836,Ridge,2027,,
+1836,Lasso,21,,
+1836,Elastic net,21,0.2,
+1836,PCR,2027,,5.0
+1836,Tissue,28,,
+1836,Ridge,2027,,
+1836,Lasso,35,,
+1836,Elastic net,34,0.2,
+1836,PCR,2027,,5.0
+1836,Tissue,28,,
+1836,Ridge,2027,,
+1836,Lasso,11,,
+1836,Elastic net,11,0.8,
+1836,PCR,2027,,20.0
+1839,Tissue,27,,
+1839,Ridge,2025,,
+1839,Lasso,13,,
+1839,Elastic net,13,0.2,
+1839,PCR,2025,,5.0
+1839,Tissue,27,,
+1839,Ridge,2025,,
+1839,Lasso,46,,
+1839,Elastic net,46,0.2,
+1839,PCR,2025,,1.0
+1839,Tissue,28,,
+1839,Ridge,2027,,
+1839,Lasso,42,,
+1839,Elastic net,42,0.2,
+1839,PCR,2027,,1.0
+1839,Tissue,28,,
+1839,Ridge,2027,,
+1839,Lasso,46,,
+1839,Elastic net,46,0.2,
+1839,PCR,2027,,10.0
+1839,Tissue,28,,
+1839,Ridge,2027,,
+1839,Lasso,21,,
+1839,Elastic net,21,0.2,
+1839,PCR,2027,,5.0
+1843,Tissue,27,,
+1843,Ridge,2025,,
+1843,Lasso,92,,
+1843,Elastic net,148,0.2,
+1843,PCR,2025,,100.0
+1843,Tissue,27,,
+1843,Ridge,2025,,
+1843,Lasso,58,,
+1843,Elastic net,58,0.8,
+1843,PCR,2025,,200.0
+1843,Tissue,28,,
+1843,Ridge,2027,,
+1843,Lasso,48,,
+1843,Elastic net,48,0.8,
+1843,PCR,2027,,200.0
+1843,Tissue,28,,
+1843,Ridge,2027,,
+1843,Lasso,84,,
+1843,Elastic net,84,0.8,
+1843,PCR,2027,,100.0
+1843,Tissue,28,,
+1843,Ridge,2027,,
+1843,Lasso,99,,
+1843,Elastic net,104,0.2,
+1843,PCR,2027,,50.0
+1845,Tissue,27,,
+1845,Ridge,2025,,
+1845,Lasso,55,,
+1845,Elastic net,58,0.2,
+1845,PCR,2025,,100.0
+1845,Tissue,27,,
+1845,Ridge,2025,,
+1845,Lasso,73,,
+1845,Elastic net,143,0.2,
+1845,PCR,2025,,100.0
+1845,Tissue,28,,
+1845,Ridge,2027,,
+1845,Lasso,83,,
+1845,Elastic net,108,0.2,
+1845,PCR,2027,,100.0
+1845,Tissue,28,,
+1845,Ridge,2027,,
+1845,Lasso,77,,
+1845,Elastic net,89,0.2,
+1845,PCR,2027,,100.0
+1845,Tissue,28,,
+1845,Ridge,2027,,
+1845,Lasso,66,,
+1845,Elastic net,130,0.2,
+1845,PCR,2027,,20.0
+1849,Tissue,27,,
+1849,Ridge,2026,,
+1849,Lasso,36,,
+1849,Elastic net,39,0.2,
+1849,PCR,2026,,100.0
+1849,Tissue,27,,
+1849,Ridge,2027,,
+1849,Lasso,36,,
+1849,Elastic net,40,0.2,
+1849,PCR,2027,,100.0
+1849,Tissue,28,,
+1849,Ridge,2028,,
+1849,Lasso,69,,
+1849,Elastic net,78,0.2,
+1849,PCR,2028,,50.0
+1849,Tissue,28,,
+1849,Ridge,2028,,
+1849,Lasso,105,,
+1849,Elastic net,107,0.2,
+1849,PCR,2028,,100.0
+1849,Tissue,28,,
+1849,Ridge,2028,,
+1849,Lasso,111,,
+1849,Elastic net,114,0.2,
+1849,PCR,2028,,100.0
+1853,Tissue,27,,
+1853,Ridge,2026,,
+1853,Lasso,13,,
+1853,Elastic net,14,0.2,
+1853,PCR,2026,,20.0
+1853,Tissue,27,,
+1853,Ridge,2027,,
+1853,Lasso,74,,
+1853,Elastic net,74,0.2,
+1853,PCR,2027,,20.0
+1853,Tissue,28,,
+1853,Ridge,2028,,
+1853,Lasso,50,,
+1853,Elastic net,51,0.2,
+1853,PCR,2028,,10.0
+1853,Tissue,28,,
+1853,Ridge,2028,,
+1853,Lasso,38,,
+1853,Elastic net,38,0.2,
+1853,PCR,2028,,10.0
+1853,Tissue,28,,
+1853,Ridge,2028,,
+1853,Lasso,42,,
+1853,Elastic net,42,0.2,
+1853,PCR,2028,,20.0
+1855,Tissue,27,,
+1855,Ridge,2026,,
+1855,Lasso,21,,
+1855,Elastic net,22,0.2,
+1855,PCR,2026,,5.0
+1855,Tissue,27,,
+1855,Ridge,2027,,
+1855,Lasso,15,,
+1855,Elastic net,15,0.2,
+1855,PCR,2027,,10.0
+1855,Tissue,28,,
+1855,Ridge,2028,,
+1855,Lasso,27,,
+1855,Elastic net,28,0.2,
+1855,PCR,2028,,10.0
+1855,Tissue,28,,
+1855,Ridge,2028,,
+1855,Lasso,22,,
+1855,Elastic net,33,0.2,
+1855,PCR,2028,,5.0
+1855,Tissue,28,,
+1855,Ridge,2028,,
+1855,Lasso,22,,
+1855,Elastic net,22,0.8,
+1855,PCR,2028,,10.0
+1866,Tissue,27,,
+1866,Ridge,2025,,
+1866,Lasso,41,,
+1866,Elastic net,41,0.2,
+1866,PCR,2025,,20.0
+1866,Tissue,27,,
+1866,Ridge,2025,,
+1866,Lasso,29,,
+1866,Elastic net,42,0.2,
+1866,PCR,2025,,50.0
+1866,Tissue,28,,
+1866,Ridge,2026,,
+1866,Lasso,32,,
+1866,Elastic net,33,0.2,
+1866,PCR,2026,,100.0
+1866,Tissue,28,,
+1866,Ridge,2026,,
+1866,Lasso,26,,
+1866,Elastic net,26,0.2,
+1866,PCR,2026,,10.0
+1866,Tissue,28,,
+1866,Ridge,2026,,
+1866,Lasso,24,,
+1866,Elastic net,24,0.8,
+1866,PCR,2026,,10.0
+1908,Tissue,27,,
+1908,Ridge,2027,,
+1908,Lasso,92,,
+1908,Elastic net,92,0.2,
+1908,PCR,2027,,100.0
+1908,Tissue,27,,
+1908,Ridge,2027,,
+1908,Lasso,84,,
+1908,Elastic net,87,0.2,
+1908,PCR,2027,,50.0
+1908,Tissue,28,,
+1908,Ridge,2028,,
+1908,Lasso,74,,
+1908,Elastic net,75,0.2,
+1908,PCR,2028,,50.0
+1908,Tissue,28,,
+1908,Ridge,2028,,
+1908,Lasso,75,,
+1908,Elastic net,76,0.2,
+1908,PCR,2028,,20.0
+1908,Tissue,28,,
+1908,Ridge,2028,,
+1908,Lasso,98,,
+1908,Elastic net,98,0.8,
+1908,PCR,2028,,50.0
+1910,Tissue,27,,
+1910,Ridge,2027,,
+1910,Lasso,128,,
+1910,Elastic net,130,0.2,
+1910,PCR,2027,,100.0
+1910,Tissue,27,,
+1910,Ridge,2027,,
+1910,Lasso,64,,
+1910,Elastic net,65,0.8,
+1910,PCR,2027,,100.0
+1910,Tissue,28,,
+1910,Ridge,2028,,
+1910,Lasso,60,,
+1910,Elastic net,61,0.8,
+1910,PCR,2028,,200.0
+1910,Tissue,28,,
+1910,Ridge,2028,,
+1910,Lasso,93,,
+1910,Elastic net,93,0.8,
+1910,PCR,2028,,200.0
+1910,Tissue,28,,
+1910,Ridge,2028,,
+1910,Lasso,40,,
+1910,Elastic net,40,0.8,
+1910,PCR,2028,,100.0
+1912,Tissue,27,,
+1912,Ridge,2027,,
+1912,Lasso,95,,
+1912,Elastic net,97,0.2,
+1912,PCR,2027,,100.0
+1912,Tissue,27,,
+1912,Ridge,2027,,
+1912,Lasso,116,,
+1912,Elastic net,118,0.2,
+1912,PCR,2027,,100.0
+1912,Tissue,28,,
+1912,Ridge,2028,,
+1912,Lasso,130,,
+1912,Elastic net,135,0.2,
+1912,PCR,2028,,50.0
+1912,Tissue,28,,
+1912,Ridge,2028,,
+1912,Lasso,85,,
+1912,Elastic net,86,0.2,
+1912,PCR,2028,,100.0
+1912,Tissue,28,,
+1912,Ridge,2028,,
+1912,Lasso,142,,
+1912,Elastic net,145,0.2,
+1912,PCR,2028,,100.0
+1915,Tissue,27,,
+1915,Ridge,2027,,
+1915,Lasso,53,,
+1915,Elastic net,53,0.8,
+1915,PCR,2027,,100.0
+1915,Tissue,27,,
+1915,Ridge,2027,,
+1915,Lasso,20,,
+1915,Elastic net,20,0.2,
+1915,PCR,2027,,20.0
+1915,Tissue,28,,
+1915,Ridge,2028,,
+1915,Lasso,40,,
+1915,Elastic net,40,0.8,
+1915,PCR,2028,,20.0
+1915,Tissue,28,,
+1915,Ridge,2028,,
+1915,Lasso,78,,
+1915,Elastic net,79,0.2,
+1915,PCR,2028,,20.0
+1915,Tissue,28,,
+1915,Ridge,2028,,
+1915,Lasso,59,,
+1915,Elastic net,58,0.2,
+1915,PCR,2028,,20.0
+1917,Tissue,27,,
+1917,Ridge,2027,,
+1917,Lasso,79,,
+1917,Elastic net,80,0.2,
+1917,PCR,2027,,200.0
+1917,Tissue,27,,
+1917,Ridge,2027,,
+1917,Lasso,92,,
+1917,Elastic net,93,0.2,
+1917,PCR,2027,,200.0
+1917,Tissue,28,,
+1917,Ridge,2028,,
+1917,Lasso,131,,
+1917,Elastic net,135,0.2,
+1917,PCR,2028,,100.0
+1917,Tissue,28,,
+1917,Ridge,2028,,
+1917,Lasso,129,,
+1917,Elastic net,134,0.2,
+1917,PCR,2028,,100.0
+1917,Tissue,28,,
+1917,Ridge,2028,,
+1917,Lasso,145,,
+1917,Elastic net,150,0.2,
+1917,PCR,2028,,100.0
+1919,Tissue,27,,
+1919,Ridge,2027,,
+1919,Lasso,73,,
+1919,Elastic net,73,0.8,
+1919,PCR,2027,,100.0
+1919,Tissue,27,,
+1919,Ridge,2027,,
+1919,Lasso,39,,
+1919,Elastic net,39,0.8,
+1919,PCR,2027,,20.0
+1919,Tissue,28,,
+1919,Ridge,2028,,
+1919,Lasso,112,,
+1919,Elastic net,137,0.2,
+1919,PCR,2028,,20.0
+1919,Tissue,28,,
+1919,Ridge,2028,,
+1919,Lasso,29,,
+1919,Elastic net,43,0.8,
+1919,PCR,2028,,5.0
+1919,Tissue,28,,
+1919,Ridge,2028,,
+1919,Lasso,56,,
+1919,Elastic net,56,0.8,
+1919,PCR,2028,,20.0
+1924,Tissue,27,,
+1924,Ridge,2027,,
+1924,Lasso,70,,
+1924,Elastic net,72,0.2,
+1924,PCR,2027,,100.0
+1924,Tissue,27,,
+1924,Ridge,2027,,
+1924,Lasso,75,,
+1924,Elastic net,76,0.2,
+1924,PCR,2027,,100.0
+1924,Tissue,28,,
+1924,Ridge,2028,,
+1924,Lasso,75,,
+1924,Elastic net,75,0.2,
+1924,PCR,2028,,200.0
+1924,Tissue,28,,
+1924,Ridge,2028,,
+1924,Lasso,55,,
+1924,Elastic net,58,0.2,
+1924,PCR,2028,,100.0
+1924,Tissue,28,,
+1924,Ridge,2028,,
+1924,Lasso,101,,
+1924,Elastic net,104,0.2,
+1924,PCR,2028,,100.0
+1926,Tissue,27,,
+1926,Ridge,2027,,
+1926,Lasso,72,,
+1926,Elastic net,77,0.2,
+1926,PCR,2027,,50.0
+1926,Tissue,27,,
+1926,Ridge,2027,,
+1926,Lasso,35,,
+1926,Elastic net,39,0.2,
+1926,PCR,2027,,50.0
+1926,Tissue,28,,
+1926,Ridge,2028,,
+1926,Lasso,30,,
+1926,Elastic net,30,0.8,
+1926,PCR,2028,,10.0
+1926,Tissue,28,,
+1926,Ridge,2028,,
+1926,Lasso,67,,
+1926,Elastic net,70,0.2,
+1926,PCR,2028,,50.0
+1926,Tissue,28,,
+1926,Ridge,2028,,
+1926,Lasso,93,,
+1926,Elastic net,97,0.2,
+1926,PCR,2028,,20.0
+1928,Tissue,27,,
+1928,Ridge,2027,,
+1928,Lasso,98,,
+1928,Elastic net,101,0.2,
+1928,PCR,2027,,10.0
+1928,Tissue,27,,
+1928,Ridge,2027,,
+1928,Lasso,25,,
+1928,Elastic net,26,0.2,
+1928,PCR,2027,,20.0
+1928,Tissue,28,,
+1928,Ridge,2028,,
+1928,Lasso,150,,
+1928,Elastic net,153,0.2,
+1928,PCR,2028,,5.0
+1928,Tissue,28,,
+1928,Ridge,2028,,
+1928,Lasso,16,,
+1928,Elastic net,20,0.2,
+1928,PCR,2028,,10.0
+1928,Tissue,28,,
+1928,Ridge,2028,,
+1928,Lasso,8,,
+1928,Elastic net,17,0.2,
+1928,PCR,2028,,50.0
+1931,Tissue,27,,
+1931,Ridge,2027,,
+1931,Lasso,23,,
+1931,Elastic net,23,0.8,
+1931,PCR,2027,,20.0
+1931,Tissue,27,,
+1931,Ridge,2027,,
+1931,Lasso,24,,
+1931,Elastic net,25,0.2,
+1931,PCR,2027,,20.0
+1931,Tissue,28,,
+1931,Ridge,2028,,
+1931,Lasso,22,,
+1931,Elastic net,22,0.2,
+1931,PCR,2028,,20.0
+1931,Tissue,28,,
+1931,Ridge,2028,,
+1931,Lasso,14,,
+1931,Elastic net,15,0.2,
+1931,PCR,2028,,20.0
+1931,Tissue,28,,
+1931,Ridge,2028,,
+1931,Lasso,22,,
+1931,Elastic net,22,0.2,
+1931,PCR,2028,,5.0
+1933,Tissue,27,,
+1933,Ridge,2027,,
+1933,Lasso,27,,
+1933,Elastic net,27,0.8,
+1933,PCR,2027,,20.0
+1933,Tissue,27,,
+1933,Ridge,2027,,
+1933,Lasso,43,,
+1933,Elastic net,43,0.2,
+1933,PCR,2027,,20.0
+1933,Tissue,28,,
+1933,Ridge,2028,,
+1933,Lasso,61,,
+1933,Elastic net,79,0.2,
+1933,PCR,2028,,20.0
+1933,Tissue,28,,
+1933,Ridge,2028,,
+1933,Lasso,39,,
+1933,Elastic net,39,0.2,
+1933,PCR,2028,,20.0
+1933,Tissue,28,,
+1933,Ridge,2028,,
+1933,Lasso,43,,
+1933,Elastic net,43,0.8,
+1933,PCR,2028,,10.0
+1939,Tissue,27,,
+1939,Ridge,2025,,
+1939,Lasso,31,,
+1939,Elastic net,31,0.2,
+1939,PCR,2025,,20.0
+1939,Tissue,27,,
+1939,Ridge,2025,,
+1939,Lasso,59,,
+1939,Elastic net,59,0.2,
+1939,PCR,2025,,20.0
+1939,Tissue,28,,
+1939,Ridge,2026,,
+1939,Lasso,55,,
+1939,Elastic net,55,0.2,
+1939,PCR,2026,,20.0
+1939,Tissue,28,,
+1939,Ridge,2026,,
+1939,Lasso,47,,
+1939,Elastic net,50,0.2,
+1939,PCR,2026,,20.0
+1939,Tissue,28,,
+1939,Ridge,2026,,
+1939,Lasso,51,,
+1939,Elastic net,51,0.2,
+1939,PCR,2026,,20.0
+1941,Tissue,27,,
+1941,Ridge,2027,,
+1941,Lasso,149,,
+1941,Elastic net,151,0.2,
+1941,PCR,2027,,100.0
+1941,Tissue,27,,
+1941,Ridge,2027,,
+1941,Lasso,122,,
+1941,Elastic net,123,0.2,
+1941,PCR,2027,,100.0
+1941,Tissue,28,,
+1941,Ridge,2028,,
+1941,Lasso,137,,
+1941,Elastic net,140,0.2,
+1941,PCR,2028,,100.0
+1941,Tissue,28,,
+1941,Ridge,2028,,
+1941,Lasso,73,,
+1941,Elastic net,76,0.2,
+1941,PCR,2028,,100.0
+1941,Tissue,28,,
+1941,Ridge,2028,,
+1941,Lasso,84,,
+1941,Elastic net,91,0.2,
+1941,PCR,2028,,100.0
+1997,Tissue,27,,
+1997,Ridge,2027,,
+1997,Lasso,100,,
+1997,Elastic net,152,0.2,
+1997,PCR,2027,,100.0
+1997,Tissue,27,,
+1997,Ridge,2027,,
+1997,Lasso,144,,
+1997,Elastic net,149,0.2,
+1997,PCR,2027,,50.0
+1997,Tissue,28,,
+1997,Ridge,2028,,
+1997,Lasso,163,,
+1997,Elastic net,168,0.2,
+1997,PCR,2028,,100.0
+1997,Tissue,28,,
+1997,Ridge,2028,,
+1997,Lasso,156,,
+1997,Elastic net,163,0.2,
+1997,PCR,2028,,100.0
+1997,Tissue,28,,
+1997,Ridge,2028,,
+1997,Lasso,151,,
+1997,Elastic net,155,0.2,
+1997,PCR,2028,,100.0
+1999,Tissue,27,,
+1999,Ridge,2025,,
+1999,Lasso,70,,
+1999,Elastic net,72,0.2,
+1999,PCR,2025,,100.0
+1999,Tissue,27,,
+1999,Ridge,2025,,
+1999,Lasso,67,,
+1999,Elastic net,68,0.2,
+1999,PCR,2025,,100.0
+1999,Tissue,28,,
+1999,Ridge,2026,,
+1999,Lasso,100,,
+1999,Elastic net,105,0.2,
+1999,PCR,2026,,100.0
+1999,Tissue,28,,
+1999,Ridge,2026,,
+1999,Lasso,73,,
+1999,Elastic net,73,0.2,
+1999,PCR,2026,,200.0
+1999,Tissue,28,,
+1999,Ridge,2026,,
+1999,Lasso,71,,
+1999,Elastic net,96,0.2,
+1999,PCR,2026,,50.0
+2002,Tissue,27,,
+2002,Ridge,2025,,
+2002,Lasso,13,,
+2002,Elastic net,13,0.8,
+2002,PCR,2025,,10.0
+2002,Tissue,27,,
+2002,Ridge,2025,,
+2002,Lasso,16,,
+2002,Elastic net,16,0.2,
+2002,PCR,2025,,10.0
+2002,Tissue,28,,
+2002,Ridge,2026,,
+2002,Lasso,0,,
+2002,Elastic net,0,0.2,
+2002,PCR,2026,,10.0
+2002,Tissue,28,,
+2002,Ridge,2026,,
+2002,Lasso,29,,
+2002,Elastic net,29,0.2,
+2002,PCR,2026,,10.0
+2002,Tissue,28,,
+2002,Ridge,2026,,
+2002,Lasso,30,,
+2002,Elastic net,30,0.2,
+2002,PCR,2026,,5.0
+2010,Tissue,27,,
+2010,Ridge,2025,,
+2010,Lasso,116,,
+2010,Elastic net,138,0.2,
+2010,PCR,2025,,100.0
+2010,Tissue,27,,
+2010,Ridge,2025,,
+2010,Lasso,29,,
+2010,Elastic net,31,0.2,
+2010,PCR,2025,,20.0
+2010,Tissue,28,,
+2010,Ridge,2026,,
+2010,Lasso,110,,
+2010,Elastic net,112,0.2,
+2010,PCR,2026,,10.0
+2010,Tissue,28,,
+2010,Ridge,2026,,
+2010,Lasso,44,,
+2010,Elastic net,44,0.2,
+2010,PCR,2026,,10.0
+2010,Tissue,28,,
+2010,Ridge,2026,,
+2010,Lasso,62,,
+2010,Elastic net,63,0.2,
+2010,PCR,2026,,20.0
+2037,Tissue,27,,
+2037,Ridge,2025,,
+2037,Lasso,50,,
+2037,Elastic net,51,0.2,
+2037,PCR,2025,,10.0
+2037,Tissue,27,,
+2037,Ridge,2025,,
+2037,Lasso,40,,
+2037,Elastic net,40,0.2,
+2037,PCR,2025,,50.0
+2037,Tissue,28,,
+2037,Ridge,2026,,
+2037,Lasso,24,,
+2037,Elastic net,25,0.2,
+2037,PCR,2026,,10.0
+2037,Tissue,28,,
+2037,Ridge,2026,,
+2037,Lasso,44,,
+2037,Elastic net,44,0.2,
+2037,PCR,2026,,10.0
+2037,Tissue,28,,
+2037,Ridge,2026,,
+2037,Lasso,27,,
+2037,Elastic net,27,0.8,
+2037,PCR,2026,,10.0
+2039,Tissue,27,,
+2039,Ridge,2027,,
+2039,Lasso,25,,
+2039,Elastic net,26,0.2,
+2039,PCR,2027,,10.0
+2039,Tissue,27,,
+2039,Ridge,2027,,
+2039,Lasso,11,,
+2039,Elastic net,11,0.2,
+2039,PCR,2027,,10.0
+2039,Tissue,28,,
+2039,Ridge,2027,,
+2039,Lasso,9,,
+2039,Elastic net,11,0.2,
+2039,PCR,2028,,5.0
+2039,Tissue,28,,
+2039,Ridge,2028,,
+2039,Lasso,10,,
+2039,Elastic net,10,0.2,
+2039,PCR,2028,,10.0
+2039,Tissue,28,,
+2039,Ridge,2027,,
+2039,Lasso,18,,
+2039,Elastic net,18,0.2,
+2039,PCR,2028,,10.0
+2043,Tissue,27,,
+2043,Ridge,2027,,
+2043,Lasso,0,,
+2043,Elastic net,0,0.2,
+2043,PCR,2026,,1.0
+2043,Tissue,27,,
+2043,Ridge,2027,,
+2043,Lasso,49,,
+2043,Elastic net,49,0.2,
+2043,PCR,2027,,20.0
+2043,Tissue,28,,
+2043,Ridge,2028,,
+2043,Lasso,0,,
+2043,Elastic net,0,0.2,
+2043,PCR,2027,,1.0
+2043,Tissue,28,,
+2043,Ridge,2028,,
+2043,Lasso,0,,
+2043,Elastic net,0,0.2,
+2043,PCR,2028,,20.0
+2043,Tissue,28,,
+2043,Ridge,2028,,
+2043,Lasso,0,,
+2043,Elastic net,0,0.2,
+2043,PCR,2028,,1.0
+2045,Tissue,27,,
+2045,Ridge,2027,,
+2045,Lasso,25,,
+2045,Elastic net,25,0.2,
+2045,PCR,2027,,20.0
+2045,Tissue,27,,
+2045,Ridge,2027,,
+2045,Lasso,25,,
+2045,Elastic net,25,0.8,
+2045,PCR,2027,,10.0
+2045,Tissue,28,,
+2045,Ridge,2028,,
+2045,Lasso,21,,
+2045,Elastic net,22,0.8,
+2045,PCR,2028,,50.0
+2045,Tissue,28,,
+2045,Ridge,2028,,
+2045,Lasso,21,,
+2045,Elastic net,21,0.2,
+2045,PCR,2028,,20.0
+2045,Tissue,28,,
+2045,Ridge,2028,,
+2045,Lasso,40,,
+2045,Elastic net,41,0.2,
+2045,PCR,2028,,20.0
+2047,Tissue,27,,
+2047,Ridge,2025,,
+2047,Lasso,46,,
+2047,Elastic net,47,0.2,
+2047,PCR,2025,,20.0
+2047,Tissue,27,,
+2047,Ridge,2025,,
+2047,Lasso,21,,
+2047,Elastic net,22,0.2,
+2047,PCR,2025,,10.0
+2047,Tissue,28,,
+2047,Ridge,2026,,
+2047,Lasso,40,,
+2047,Elastic net,40,0.2,
+2047,PCR,2026,,10.0
+2047,Tissue,28,,
+2047,Ridge,2026,,
+2047,Lasso,49,,
+2047,Elastic net,49,0.2,
+2047,PCR,2026,,20.0
+2047,Tissue,28,,
+2047,Ridge,2026,,
+2047,Lasso,37,,
+2047,Elastic net,38,0.2,
+2047,PCR,2026,,20.0
+2055,Tissue,27,,
+2055,Ridge,2025,,
+2055,Lasso,95,,
+2055,Elastic net,99,0.2,
+2055,PCR,2025,,100.0
+2055,Tissue,27,,
+2055,Ridge,2025,,
+2055,Lasso,77,,
+2055,Elastic net,79,0.2,
+2055,PCR,2025,,100.0
+2055,Tissue,28,,
+2055,Ridge,2026,,
+2055,Lasso,66,,
+2055,Elastic net,66,0.2,
+2055,PCR,2026,,200.0
+2055,Tissue,28,,
+2055,Ridge,2026,,
+2055,Lasso,61,,
+2055,Elastic net,61,0.2,
+2055,PCR,2026,,100.0
+2055,Tissue,28,,
+2055,Ridge,2026,,
+2055,Lasso,122,,
+2055,Elastic net,129,0.2,
+2055,PCR,2026,,100.0
+2096,Tissue,27,,
+2096,Ridge,2027,,
+2096,Lasso,72,,
+2096,Elastic net,75,0.2,
+2096,PCR,2027,,100.0
+2096,Tissue,27,,
+2096,Ridge,2027,,
+2096,Lasso,113,,
+2096,Elastic net,116,0.2,
+2096,PCR,2027,,50.0
+2096,Tissue,28,,
+2096,Ridge,2028,,
+2096,Lasso,118,,
+2096,Elastic net,121,0.2,
+2096,PCR,2028,,50.0
+2096,Tissue,28,,
+2096,Ridge,2028,,
+2096,Lasso,64,,
+2096,Elastic net,70,0.2,
+2096,PCR,2028,,50.0
+2096,Tissue,28,,
+2096,Ridge,2028,,
+2096,Lasso,78,,
+2096,Elastic net,78,0.2,
+2096,PCR,2028,,50.0
+2107,Tissue,27,,
+2107,Ridge,2027,,
+2107,Lasso,60,,
+2107,Elastic net,60,0.2,
+2107,PCR,2027,,50.0
+2107,Tissue,27,,
+2107,Ridge,2027,,
+2107,Lasso,43,,
+2107,Elastic net,43,0.8,
+2107,PCR,2026,,20.0
+2107,Tissue,28,,
+2107,Ridge,2028,,
+2107,Lasso,119,,
+2107,Elastic net,120,0.2,
+2107,PCR,2028,,50.0
+2107,Tissue,28,,
+2107,Ridge,2028,,
+2107,Lasso,65,,
+2107,Elastic net,65,0.2,
+2107,PCR,2028,,10.0
+2107,Tissue,28,,
+2107,Ridge,2028,,
+2107,Lasso,20,,
+2107,Elastic net,20,0.2,
+2107,PCR,2028,,20.0
+2110,Tissue,27,,
+2110,Ridge,2027,,
+2110,Lasso,0,,
+2110,Elastic net,0,0.8,
+2110,PCR,2027,,5.0
+2110,Tissue,27,,
+2110,Ridge,2027,,
+2110,Lasso,5,,
+2110,Elastic net,5,0.2,
+2110,PCR,2027,,5.0
+2110,Tissue,28,,
+2110,Ridge,2028,,
+2110,Lasso,37,,
+2110,Elastic net,37,0.2,
+2110,PCR,2028,,20.0
+2110,Tissue,28,,
+2110,Ridge,2028,,
+2110,Lasso,4,,
+2110,Elastic net,4,0.2,
+2110,PCR,2028,,5.0
+2110,Tissue,28,,
+2110,Ridge,2028,,
+2110,Lasso,12,,
+2110,Elastic net,12,0.2,
+2110,PCR,2028,,5.0
+2112,Tissue,27,,
+2112,Ridge,2025,,
+2112,Lasso,31,,
+2112,Elastic net,31,0.2,
+2112,PCR,2025,,10.0
+2112,Tissue,27,,
+2112,Ridge,2025,,
+2112,Lasso,18,,
+2112,Elastic net,18,0.2,
+2112,PCR,2025,,20.0
+2112,Tissue,28,,
+2112,Ridge,2026,,
+2112,Lasso,19,,
+2112,Elastic net,19,0.2,
+2112,PCR,2026,,5.0
+2112,Tissue,28,,
+2112,Ridge,2026,,
+2112,Lasso,11,,
+2112,Elastic net,11,0.2,
+2112,PCR,2026,,1.0
+2112,Tissue,28,,
+2112,Ridge,2026,,
+2112,Lasso,33,,
+2112,Elastic net,33,0.2,
+2112,PCR,2026,,2.0
+2145,Tissue,27,,
+2145,Ridge,2025,,
+2145,Lasso,68,,
+2145,Elastic net,70,0.2,
+2145,PCR,2025,,200.0
+2145,Tissue,27,,
+2145,Ridge,2025,,
+2145,Lasso,103,,
+2145,Elastic net,107,0.2,
+2145,PCR,2025,,100.0
+2145,Tissue,28,,
+2145,Ridge,2026,,
+2145,Lasso,78,,
+2145,Elastic net,82,0.2,
+2145,PCR,2026,,50.0
+2145,Tissue,28,,
+2145,Ridge,2026,,
+2145,Lasso,107,,
+2145,Elastic net,108,0.2,
+2145,PCR,2026,,100.0
+2145,Tissue,28,,
+2145,Ridge,2026,,
+2145,Lasso,79,,
+2145,Elastic net,82,0.2,
+2145,PCR,2026,,200.0
+2149,Tissue,27,,
+2149,Ridge,2025,,
+2149,Lasso,147,,
+2149,Elastic net,149,0.2,
+2149,PCR,2025,,100.0
+2149,Tissue,27,,
+2149,Ridge,2025,,
+2149,Lasso,92,,
+2149,Elastic net,92,0.8,
+2149,PCR,2025,,100.0
+2149,Tissue,28,,
+2149,Ridge,2026,,
+2149,Lasso,65,,
+2149,Elastic net,65,0.2,
+2149,PCR,2026,,100.0
+2149,Tissue,28,,
+2149,Ridge,2026,,
+2149,Lasso,101,,
+2149,Elastic net,104,0.2,
+2149,PCR,2026,,100.0
+2149,Tissue,28,,
+2149,Ridge,2026,,
+2149,Lasso,40,,
+2149,Elastic net,43,0.2,
+2149,PCR,2026,,100.0
+2156,Tissue,27,,
+2156,Ridge,2025,,
+2156,Lasso,65,,
+2156,Elastic net,66,0.2,
+2156,PCR,2025,,50.0
+2156,Tissue,27,,
+2156,Ridge,2025,,
+2156,Lasso,79,,
+2156,Elastic net,80,0.2,
+2156,PCR,2025,,50.0
+2156,Tissue,28,,
+2156,Ridge,2026,,
+2156,Lasso,37,,
+2156,Elastic net,42,0.2,
+2156,PCR,2026,,100.0
+2156,Tissue,28,,
+2156,Ridge,2026,,
+2156,Lasso,83,,
+2156,Elastic net,86,0.2,
+2156,PCR,2026,,100.0
+2156,Tissue,28,,
+2156,Ridge,2026,,
+2156,Lasso,71,,
+2156,Elastic net,75,0.2,
+2156,PCR,2026,,100.0
+2158,Tissue,27,,
+2158,Ridge,2025,,
+2158,Lasso,31,,
+2158,Elastic net,32,0.2,
+2158,PCR,2025,,20.0
+2158,Tissue,27,,
+2158,Ridge,2025,,
+2158,Lasso,19,,
+2158,Elastic net,21,0.2,
+2158,PCR,2025,,20.0
+2158,Tissue,28,,
+2158,Ridge,2026,,
+2158,Lasso,34,,
+2158,Elastic net,34,0.2,
+2158,PCR,2026,,50.0
+2158,Tissue,28,,
+2158,Ridge,2026,,
+2158,Lasso,27,,
+2158,Elastic net,27,0.2,
+2158,PCR,2026,,50.0
+2158,Tissue,28,,
+2158,Ridge,2026,,
+2158,Lasso,33,,
+2158,Elastic net,33,0.2,
+2158,PCR,2026,,50.0
+2170,Tissue,27,,
+2170,Ridge,2027,,
+2170,Lasso,31,,
+2170,Elastic net,31,0.2,
+2170,PCR,2027,,5.0
+2170,Tissue,27,,
+2170,Ridge,2027,,
+2170,Lasso,60,,
+2170,Elastic net,61,0.2,
+2170,PCR,2027,,20.0
+2170,Tissue,28,,
+2170,Ridge,2028,,
+2170,Lasso,70,,
+2170,Elastic net,71,0.2,
+2170,PCR,2028,,50.0
+2170,Tissue,28,,
+2170,Ridge,2028,,
+2170,Lasso,28,,
+2170,Elastic net,29,0.2,
+2170,PCR,2028,,20.0
+2170,Tissue,28,,
+2170,Ridge,2028,,
+2170,Lasso,38,,
+2170,Elastic net,38,0.2,
+2170,PCR,2028,,20.0
+2172,Tissue,27,,
+2172,Ridge,2027,,
+2172,Lasso,44,,
+2172,Elastic net,48,0.2,
+2172,PCR,2027,,50.0
+2172,Tissue,27,,
+2172,Ridge,2027,,
+2172,Lasso,61,,
+2172,Elastic net,83,0.2,
+2172,PCR,2027,,50.0
+2172,Tissue,28,,
+2172,Ridge,2028,,
+2172,Lasso,74,,
+2172,Elastic net,78,0.2,
+2172,PCR,2028,,100.0
+2172,Tissue,28,,
+2172,Ridge,2028,,
+2172,Lasso,126,,
+2172,Elastic net,133,0.2,
+2172,PCR,2028,,50.0
+2172,Tissue,28,,
+2172,Ridge,2028,,
+2172,Lasso,84,,
+2172,Elastic net,90,0.2,
+2172,PCR,2028,,20.0
+2177,Tissue,27,,
+2177,Ridge,2027,,
+2177,Lasso,91,,
+2177,Elastic net,91,0.8,
+2177,PCR,2027,,20.0
+2177,Tissue,27,,
+2177,Ridge,2027,,
+2177,Lasso,83,,
+2177,Elastic net,83,0.2,
+2177,PCR,2027,,20.0
+2177,Tissue,28,,
+2177,Ridge,2028,,
+2177,Lasso,51,,
+2177,Elastic net,51,0.2,
+2177,PCR,2028,,20.0
+2177,Tissue,28,,
+2177,Ridge,2028,,
+2177,Lasso,41,,
+2177,Elastic net,41,0.8,
+2177,PCR,2028,,20.0
+2177,Tissue,28,,
+2177,Ridge,2028,,
+2177,Lasso,64,,
+2177,Elastic net,65,0.2,
+2177,PCR,2028,,50.0
+2360,Tissue,27,,
+2360,Ridge,2025,,
+2360,Lasso,6,,
+2360,Elastic net,6,0.8,
+2360,PCR,2025,,5.0
+2360,Tissue,27,,
+2360,Ridge,2025,,
+2360,Lasso,17,,
+2360,Elastic net,17,0.2,
+2360,PCR,2025,,2.0
+2360,Tissue,28,,
+2360,Ridge,2026,,
+2360,Lasso,22,,
+2360,Elastic net,22,0.2,
+2360,PCR,2026,,10.0
+2360,Tissue,28,,
+2360,Ridge,2026,,
+2360,Lasso,0,,
+2360,Elastic net,0,0.8,
+2360,PCR,2026,,5.0
+2360,Tissue,28,,
+2360,Ridge,2026,,
+2360,Lasso,15,,
+2360,Elastic net,15,0.2,
+2360,PCR,2026,,10.0
+2362,Tissue,27,,
+2362,Ridge,2025,,
+2362,Lasso,24,,
+2362,Elastic net,24,0.8,
+2362,PCR,2025,,10.0
+2362,Tissue,27,,
+2362,Ridge,2025,,
+2362,Lasso,29,,
+2362,Elastic net,29,0.2,
+2362,PCR,2025,,20.0
+2362,Tissue,28,,
+2362,Ridge,2026,,
+2362,Lasso,24,,
+2362,Elastic net,25,0.2,
+2362,PCR,2026,,20.0
+2362,Tissue,28,,
+2362,Ridge,2026,,
+2362,Lasso,24,,
+2362,Elastic net,24,0.2,
+2362,PCR,2026,,20.0
+2362,Tissue,28,,
+2362,Ridge,2026,,
+2362,Lasso,28,,
+2362,Elastic net,28,0.2,
+2362,PCR,2026,,20.0
+2439,Tissue,27,,
+2439,Ridge,2025,,
+2439,Lasso,17,,
+2439,Elastic net,17,0.8,
+2439,PCR,2025,,5.0
+2439,Tissue,27,,
+2439,Ridge,2025,,
+2439,Lasso,10,,
+2439,Elastic net,10,0.8,
+2439,PCR,2025,,10.0
+2439,Tissue,28,,
+2439,Ridge,2026,,
+2439,Lasso,23,,
+2439,Elastic net,23,0.2,
+2439,PCR,2026,,10.0
+2439,Tissue,28,,
+2439,Ridge,2026,,
+2439,Lasso,12,,
+2439,Elastic net,12,0.8,
+2439,PCR,2026,,10.0
+2439,Tissue,28,,
+2439,Ridge,2026,,
+2439,Lasso,22,,
+2439,Elastic net,22,0.2,
+2439,PCR,2026,,10.0
+2499,Tissue,27,,
+2499,Ridge,2025,,
+2499,Lasso,15,,
+2499,Elastic net,15,0.2,
+2499,PCR,2025,,10.0
+2499,Tissue,27,,
+2499,Ridge,2025,,
+2499,Lasso,25,,
+2499,Elastic net,25,0.8,
+2499,PCR,2025,,10.0
+2499,Tissue,28,,
+2499,Ridge,2026,,
+2499,Lasso,25,,
+2499,Elastic net,25,0.2,
+2499,PCR,2026,,5.0
+2499,Tissue,28,,
+2499,Ridge,2026,,
+2499,Lasso,29,,
+2499,Elastic net,29,0.2,
+2499,PCR,2026,,1.0
+2499,Tissue,28,,
+2499,Ridge,2026,,
+2499,Lasso,31,,
+2499,Elastic net,31,0.2,
+2499,PCR,2026,,5.0
+1004,Tissue,27,,
+1004,Ridge,2025,,
+1004,Lasso,100,,
+1004,Elastic net,105,0.2,
+1004,PCR,2025,,50.0
+1004,Tissue,27,,
+1004,Ridge,2025,,
+1004,Lasso,59,,
+1004,Elastic net,65,0.2,
+1004,PCR,2025,,50.0
+1004,Tissue,28,,
+1004,Ridge,2026,,
+1004,Lasso,56,,
+1004,Elastic net,70,0.2,
+1004,PCR,2026,,100.0
+1004,Tissue,28,,
+1004,Ridge,2026,,
+1004,Lasso,111,,
+1004,Elastic net,116,0.2,
+1004,PCR,2026,,100.0
+1004,Tissue,28,,
+1004,Ridge,2026,,
+1004,Lasso,93,,
+1004,Elastic net,97,0.2,
+1004,PCR,2026,,100.0
+1006,Tissue,27,,
+1006,Ridge,2025,,
+1006,Lasso,161,,
+1006,Elastic net,164,0.2,
+1006,PCR,2025,,200.0
+1006,Tissue,27,,
+1006,Ridge,2025,,
+1006,Lasso,103,,
+1006,Elastic net,125,0.2,
+1006,PCR,2025,,100.0
+1006,Tissue,28,,
+1006,Ridge,2026,,
+1006,Lasso,79,,
+1006,Elastic net,106,0.2,
+1006,PCR,2026,,50.0
+1006,Tissue,28,,
+1006,Ridge,2026,,
+1006,Lasso,141,,
+1006,Elastic net,144,0.2,
+1006,PCR,2026,,100.0
+1006,Tissue,28,,
+1006,Ridge,2026,,
+1006,Lasso,94,,
+1006,Elastic net,97,0.2,
+1006,PCR,2026,,100.0
+1008,Tissue,27,,
+1008,Ridge,2027,,
+1008,Lasso,40,,
+1008,Elastic net,40,0.8,
+1008,PCR,2027,,100.0
+1008,Tissue,27,,
+1008,Ridge,2027,,
+1008,Lasso,38,,
+1008,Elastic net,57,0.2,
+1008,PCR,2027,,20.0
+1008,Tissue,28,,
+1008,Ridge,2028,,
+1008,Lasso,41,,
+1008,Elastic net,47,0.2,
+1008,PCR,2028,,100.0
+1008,Tissue,28,,
+1008,Ridge,2028,,
+1008,Lasso,51,,
+1008,Elastic net,56,0.2,
+1008,PCR,2028,,20.0
+1008,Tissue,28,,
+1008,Ridge,2028,,
+1008,Lasso,78,,
+1008,Elastic net,85,0.2,
+1008,PCR,2028,,100.0
+1011,Tissue,27,,
+1011,Ridge,2027,,
+1011,Lasso,48,,
+1011,Elastic net,48,0.8,
+1011,PCR,2027,,100.0
+1011,Tissue,27,,
+1011,Ridge,2027,,
+1011,Lasso,93,,
+1011,Elastic net,93,0.8,
+1011,PCR,2027,,100.0
+1011,Tissue,28,,
+1011,Ridge,2028,,
+1011,Lasso,84,,
+1011,Elastic net,104,0.2,
+1011,PCR,2028,,100.0
+1011,Tissue,28,,
+1011,Ridge,2028,,
+1011,Lasso,53,,
+1011,Elastic net,53,0.8,
+1011,PCR,2028,,100.0
+1011,Tissue,28,,
+1011,Ridge,2028,,
+1011,Lasso,89,,
+1011,Elastic net,144,0.2,
+1011,PCR,2028,,100.0
+1013,Tissue,27,,
+1013,Ridge,2027,,
+1013,Lasso,67,,
+1013,Elastic net,71,0.2,
+1013,PCR,2027,,200.0
+1013,Tissue,27,,
+1013,Ridge,2027,,
+1013,Lasso,144,,
+1013,Elastic net,181,0.2,
+1013,PCR,2027,,50.0
+1013,Tissue,28,,
+1013,Ridge,2028,,
+1013,Lasso,70,,
+1013,Elastic net,73,0.2,
+1013,PCR,2028,,10.0
+1013,Tissue,28,,
+1013,Ridge,2028,,
+1013,Lasso,51,,
+1013,Elastic net,74,0.2,
+1013,PCR,2028,,100.0
+1013,Tissue,28,,
+1013,Ridge,2028,,
+1013,Lasso,167,,
+1013,Elastic net,172,0.2,
+1013,PCR,2028,,200.0
+1016,Tissue,27,,
+1016,Ridge,2027,,
+1016,Lasso,27,,
+1016,Elastic net,27,0.8,
+1016,PCR,2027,,20.0
+1016,Tissue,27,,
+1016,Ridge,2027,,
+1016,Lasso,67,,
+1016,Elastic net,67,0.8,
+1016,PCR,2027,,20.0
+1016,Tissue,28,,
+1016,Ridge,2028,,
+1016,Lasso,27,,
+1016,Elastic net,27,0.8,
+1016,PCR,2028,,10.0
+1016,Tissue,28,,
+1016,Ridge,2028,,
+1016,Lasso,15,,
+1016,Elastic net,17,0.2,
+1016,PCR,2028,,20.0
+1016,Tissue,28,,
+1016,Ridge,2028,,
+1016,Lasso,32,,
+1016,Elastic net,33,0.2,
+1016,PCR,2028,,20.0
+1018,Tissue,27,,
+1018,Ridge,2027,,
+1018,Lasso,43,,
+1018,Elastic net,43,0.2,
+1018,PCR,2027,,20.0
+1018,Tissue,27,,
+1018,Ridge,2027,,
+1018,Lasso,47,,
+1018,Elastic net,47,0.2,
+1018,PCR,2027,,5.0
+1018,Tissue,28,,
+1018,Ridge,2028,,
+1018,Lasso,31,,
+1018,Elastic net,31,0.2,
+1018,PCR,2028,,20.0
+1018,Tissue,28,,
+1018,Ridge,2028,,
+1018,Lasso,58,,
+1018,Elastic net,58,0.2,
+1018,PCR,2028,,100.0
+1018,Tissue,28,,
+1018,Ridge,2028,,
+1018,Lasso,28,,
+1018,Elastic net,28,0.2,
+1018,PCR,2028,,100.0
+1020,Tissue,27,,
+1020,Ridge,2027,,
+1020,Lasso,11,,
+1020,Elastic net,11,0.2,
+1020,PCR,2027,,20.0
+1020,Tissue,27,,
+1020,Ridge,2027,,
+1020,Lasso,86,,
+1020,Elastic net,87,0.2,
+1020,PCR,2027,,20.0
+1020,Tissue,28,,
+1020,Ridge,2028,,
+1020,Lasso,10,,
+1020,Elastic net,10,0.2,
+1020,PCR,2028,,20.0
+1020,Tissue,28,,
+1020,Ridge,2028,,
+1020,Lasso,66,,
+1020,Elastic net,67,0.2,
+1020,PCR,2028,,20.0
+1020,Tissue,28,,
+1020,Ridge,2028,,
+1020,Lasso,50,,
+1020,Elastic net,51,0.2,
+1020,PCR,2028,,20.0
+1022,Tissue,27,,
+1022,Ridge,2027,,
+1022,Lasso,70,,
+1022,Elastic net,87,0.2,
+1022,PCR,2027,,10.0
+1022,Tissue,27,,
+1022,Ridge,2027,,
+1022,Lasso,130,,
+1022,Elastic net,136,0.2,
+1022,PCR,2027,,50.0
+1022,Tissue,28,,
+1022,Ridge,2028,,
+1022,Lasso,120,,
+1022,Elastic net,124,0.2,
+1022,PCR,2028,,100.0
+1022,Tissue,28,,
+1022,Ridge,2028,,
+1022,Lasso,124,,
+1022,Elastic net,129,0.2,
+1022,PCR,2028,,100.0
+1022,Tissue,28,,
+1022,Ridge,2028,,
+1022,Lasso,103,,
+1022,Elastic net,106,0.2,
+1022,PCR,2028,,100.0
+1024,Tissue,27,,
+1024,Ridge,2027,,
+1024,Lasso,77,,
+1024,Elastic net,81,0.2,
+1024,PCR,2027,,10.0
+1024,Tissue,27,,
+1024,Ridge,2027,,
+1024,Lasso,67,,
+1024,Elastic net,70,0.2,
+1024,PCR,2027,,50.0
+1024,Tissue,28,,
+1024,Ridge,2028,,
+1024,Lasso,66,,
+1024,Elastic net,71,0.2,
+1024,PCR,2028,,50.0
+1024,Tissue,28,,
+1024,Ridge,2028,,
+1024,Lasso,38,,
+1024,Elastic net,42,0.2,
+1024,PCR,2028,,50.0
+1024,Tissue,28,,
+1024,Ridge,2028,,
+1024,Lasso,95,,
+1024,Elastic net,99,0.2,
+1024,PCR,2028,,20.0
+1026,Tissue,27,,
+1026,Ridge,2027,,
+1026,Lasso,69,,
+1026,Elastic net,69,0.8,
+1026,PCR,2027,,100.0
+1026,Tissue,27,,
+1026,Ridge,2027,,
+1026,Lasso,83,,
+1026,Elastic net,83,0.8,
+1026,PCR,2027,,50.0
+1026,Tissue,28,,
+1026,Ridge,2028,,
+1026,Lasso,61,,
+1026,Elastic net,61,0.8,
+1026,PCR,2028,,50.0
+1026,Tissue,28,,
+1026,Ridge,2028,,
+1026,Lasso,63,,
+1026,Elastic net,63,0.8,
+1026,PCR,2028,,50.0
+1026,Tissue,28,,
+1026,Ridge,2028,,
+1026,Lasso,72,,
+1026,Elastic net,72,0.8,
+1026,PCR,2028,,50.0
+1030,Tissue,27,,
+1030,Ridge,2027,,
+1030,Lasso,27,,
+1030,Elastic net,27,0.2,
+1030,PCR,2027,,10.0
+1030,Tissue,27,,
+1030,Ridge,2027,,
+1030,Lasso,23,,
+1030,Elastic net,23,0.2,
+1030,PCR,2027,,10.0
+1030,Tissue,28,,
+1030,Ridge,2028,,
+1030,Lasso,47,,
+1030,Elastic net,47,0.2,
+1030,PCR,2028,,50.0
+1030,Tissue,28,,
+1030,Ridge,2028,,
+1030,Lasso,31,,
+1030,Elastic net,31,0.2,
+1030,PCR,2028,,20.0
+1030,Tissue,28,,
+1030,Ridge,2028,,
+1030,Lasso,15,,
+1030,Elastic net,15,0.2,
+1030,PCR,2028,,10.0
+1033,Tissue,27,,
+1033,Ridge,2027,,
+1033,Lasso,26,,
+1033,Elastic net,26,0.2,
+1033,PCR,2027,,5.0
+1033,Tissue,27,,
+1033,Ridge,2027,,
+1033,Lasso,2,,
+1033,Elastic net,2,0.2,
+1033,PCR,2027,,5.0
+1033,Tissue,28,,
+1033,Ridge,2028,,
+1033,Lasso,6,,
+1033,Elastic net,6,0.2,
+1033,PCR,2028,,5.0
+1033,Tissue,28,,
+1033,Ridge,2028,,
+1033,Lasso,32,,
+1033,Elastic net,32,0.2,
+1033,PCR,2028,,5.0
+1033,Tissue,28,,
+1033,Ridge,2028,,
+1033,Lasso,15,,
+1033,Elastic net,15,0.8,
+1033,PCR,2028,,10.0
+1036,Tissue,27,,
+1036,Ridge,2027,,
+1036,Lasso,62,,
+1036,Elastic net,62,0.2,
+1036,PCR,2027,,20.0
+1036,Tissue,27,,
+1036,Ridge,2027,,
+1036,Lasso,16,,
+1036,Elastic net,16,0.2,
+1036,PCR,2027,,100.0
+1036,Tissue,28,,
+1036,Ridge,2028,,
+1036,Lasso,30,,
+1036,Elastic net,30,0.2,
+1036,PCR,2028,,20.0
+1036,Tissue,28,,
+1036,Ridge,2028,,
+1036,Lasso,57,,
+1036,Elastic net,57,0.2,
+1036,PCR,2028,,10.0
+1036,Tissue,28,,
+1036,Ridge,2028,,
+1036,Lasso,16,,
+1036,Elastic net,16,0.8,
+1036,PCR,2028,,100.0
+1042,Tissue,27,,
+1042,Ridge,2027,,
+1042,Lasso,12,,
+1042,Elastic net,12,0.2,
+1042,PCR,2027,,20.0
+1042,Tissue,27,,
+1042,Ridge,2027,,
+1042,Lasso,14,,
+1042,Elastic net,16,0.2,
+1042,PCR,2027,,20.0
+1042,Tissue,28,,
+1042,Ridge,2028,,
+1042,Lasso,0,,
+1042,Elastic net,0,0.2,
+1042,PCR,2028,,1.0
+1042,Tissue,28,,
+1042,Ridge,2028,,
+1042,Lasso,12,,
+1042,Elastic net,12,0.2,
+1042,PCR,2028,,10.0
+1042,Tissue,28,,
+1042,Ridge,2028,,
+1042,Lasso,16,,
+1042,Elastic net,16,0.2,
+1042,PCR,2028,,1.0
+1046,Tissue,27,,
+1046,Ridge,2027,,
+1046,Lasso,161,,
+1046,Elastic net,166,0.2,
+1046,PCR,2027,,100.0
+1046,Tissue,27,,
+1046,Ridge,2027,,
+1046,Lasso,93,,
+1046,Elastic net,118,0.2,
+1046,PCR,2027,,100.0
+1046,Tissue,28,,
+1046,Ridge,2028,,
+1046,Lasso,92,,
+1046,Elastic net,93,0.2,
+1046,PCR,2028,,100.0
+1046,Tissue,28,,
+1046,Ridge,2028,,
+1046,Lasso,139,,
+1046,Elastic net,140,0.2,
+1046,PCR,2028,,50.0
+1046,Tissue,28,,
+1046,Ridge,2028,,
+1046,Lasso,55,,
+1046,Elastic net,57,0.2,
+1046,PCR,2028,,50.0
+1048,Tissue,27,,
+1048,Ridge,2026,,
+1048,Lasso,37,,
+1048,Elastic net,38,0.2,
+1048,PCR,2026,,100.0
+1048,Tissue,27,,
+1048,Ridge,2027,,
+1048,Lasso,72,,
+1048,Elastic net,72,0.2,
+1048,PCR,2027,,200.0
+1048,Tissue,28,,
+1048,Ridge,2028,,
+1048,Lasso,149,,
+1048,Elastic net,150,0.2,
+1048,PCR,2028,,50.0
+1048,Tissue,28,,
+1048,Ridge,2028,,
+1048,Lasso,31,,
+1048,Elastic net,33,0.2,
+1048,PCR,2028,,100.0
+1048,Tissue,28,,
+1048,Ridge,2028,,
+1048,Lasso,52,,
+1048,Elastic net,53,0.2,
+1048,PCR,2028,,100.0
+1050,Tissue,27,,
+1050,Ridge,2027,,
+1050,Lasso,88,,
+1050,Elastic net,93,0.2,
+1050,PCR,2027,,100.0
+1050,Tissue,27,,
+1050,Ridge,2027,,
+1050,Lasso,51,,
+1050,Elastic net,53,0.2,
+1050,PCR,2027,,20.0
+1050,Tissue,28,,
+1050,Ridge,2028,,
+1050,Lasso,63,,
+1050,Elastic net,66,0.2,
+1050,PCR,2028,,100.0
+1050,Tissue,28,,
+1050,Ridge,2028,,
+1050,Lasso,82,,
+1050,Elastic net,84,0.2,
+1050,PCR,2028,,100.0
+1050,Tissue,28,,
+1050,Ridge,2028,,
+1050,Lasso,53,,
+1050,Elastic net,55,0.2,
+1050,PCR,2028,,20.0
+1052,Tissue,27,,
+1052,Ridge,2027,,
+1052,Lasso,63,,
+1052,Elastic net,63,0.2,
+1052,PCR,2027,,10.0
+1052,Tissue,27,,
+1052,Ridge,2027,,
+1052,Lasso,98,,
+1052,Elastic net,99,0.2,
+1052,PCR,2027,,100.0
+1052,Tissue,28,,
+1052,Ridge,2028,,
+1052,Lasso,71,,
+1052,Elastic net,72,0.2,
+1052,PCR,2028,,20.0
+1052,Tissue,28,,
+1052,Ridge,2028,,
+1052,Lasso,96,,
+1052,Elastic net,98,0.2,
+1052,PCR,2028,,50.0
+1052,Tissue,28,,
+1052,Ridge,2028,,
+1052,Lasso,91,,
+1052,Elastic net,92,0.2,
+1052,PCR,2028,,50.0
+1054,Tissue,27,,
+1054,Ridge,2027,,
+1054,Lasso,39,,
+1054,Elastic net,44,0.2,
+1054,PCR,2027,,100.0
+1054,Tissue,27,,
+1054,Ridge,2027,,
+1054,Lasso,70,,
+1054,Elastic net,71,0.2,
+1054,PCR,2027,,20.0
+1054,Tissue,28,,
+1054,Ridge,2028,,
+1054,Lasso,162,,
+1054,Elastic net,165,0.2,
+1054,PCR,2028,,100.0
+1054,Tissue,28,,
+1054,Ridge,2028,,
+1054,Lasso,72,,
+1054,Elastic net,75,0.2,
+1054,PCR,2028,,100.0
+1054,Tissue,28,,
+1054,Ridge,2028,,
+1054,Lasso,86,,
+1054,Elastic net,88,0.2,
+1054,PCR,2028,,100.0
+1058,Tissue,27,,
+1058,Ridge,2027,,
+1058,Lasso,86,,
+1058,Elastic net,88,0.2,
+1058,PCR,2027,,20.0
+1058,Tissue,27,,
+1058,Ridge,2027,,
+1058,Lasso,42,,
+1058,Elastic net,45,0.2,
+1058,PCR,2027,,20.0
+1058,Tissue,28,,
+1058,Ridge,2028,,
+1058,Lasso,68,,
+1058,Elastic net,96,0.2,
+1058,PCR,2028,,20.0
+1058,Tissue,28,,
+1058,Ridge,2028,,
+1058,Lasso,92,,
+1058,Elastic net,93,0.2,
+1058,PCR,2028,,100.0
+1058,Tissue,28,,
+1058,Ridge,2028,,
+1058,Lasso,47,,
+1058,Elastic net,47,0.8,
+1058,PCR,2028,,20.0
+1060,Tissue,27,,
+1060,Ridge,2027,,
+1060,Lasso,113,,
+1060,Elastic net,148,0.2,
+1060,PCR,2027,,50.0
+1060,Tissue,27,,
+1060,Ridge,2027,,
+1060,Lasso,119,,
+1060,Elastic net,122,0.2,
+1060,PCR,2027,,50.0
+1060,Tissue,28,,
+1060,Ridge,2028,,
+1060,Lasso,115,,
+1060,Elastic net,119,0.2,
+1060,PCR,2028,,100.0
+1060,Tissue,28,,
+1060,Ridge,2028,,
+1060,Lasso,122,,
+1060,Elastic net,127,0.2,
+1060,PCR,2028,,50.0
+1060,Tissue,28,,
+1060,Ridge,2028,,
+1060,Lasso,157,,
+1060,Elastic net,161,0.2,
+1060,PCR,2028,,50.0
+1062,Tissue,27,,
+1062,Ridge,2027,,
+1062,Lasso,71,,
+1062,Elastic net,78,0.2,
+1062,PCR,2027,,50.0
+1062,Tissue,27,,
+1062,Ridge,2027,,
+1062,Lasso,98,,
+1062,Elastic net,101,0.2,
+1062,PCR,2027,,50.0
+1062,Tissue,28,,
+1062,Ridge,2028,,
+1062,Lasso,91,,
+1062,Elastic net,93,0.2,
+1062,PCR,2028,,50.0
+1062,Tissue,28,,
+1062,Ridge,2028,,
+1062,Lasso,129,,
+1062,Elastic net,132,0.2,
+1062,PCR,2028,,50.0
+1062,Tissue,28,,
+1062,Ridge,2028,,
+1062,Lasso,126,,
+1062,Elastic net,132,0.2,
+1062,PCR,2028,,50.0
+1068,Tissue,27,,
+1068,Ridge,2026,,
+1068,Lasso,69,,
+1068,Elastic net,69,0.8,
+1068,PCR,2026,,20.0
+1068,Tissue,27,,
+1068,Ridge,2025,,
+1068,Lasso,25,,
+1068,Elastic net,30,0.2,
+1068,PCR,2025,,20.0
+1068,Tissue,28,,
+1068,Ridge,2027,,
+1068,Lasso,63,,
+1068,Elastic net,66,0.2,
+1068,PCR,2027,,100.0
+1068,Tissue,28,,
+1068,Ridge,2027,,
+1068,Lasso,42,,
+1068,Elastic net,45,0.2,
+1068,PCR,2027,,100.0
+1068,Tissue,28,,
+1068,Ridge,2027,,
+1068,Lasso,59,,
+1068,Elastic net,62,0.2,
+1068,PCR,2027,,100.0
+1072,Tissue,27,,
+1072,Ridge,2027,,
+1072,Lasso,11,,
+1072,Elastic net,11,0.2,
+1072,PCR,2027,,5.0
+1072,Tissue,27,,
+1072,Ridge,2027,,
+1072,Lasso,65,,
+1072,Elastic net,66,0.2,
+1072,PCR,2027,,20.0
+1072,Tissue,28,,
+1072,Ridge,2028,,
+1072,Lasso,31,,
+1072,Elastic net,31,0.2,
+1072,PCR,2028,,5.0
+1072,Tissue,28,,
+1072,Ridge,2028,,
+1072,Lasso,22,,
+1072,Elastic net,22,0.2,
+1072,PCR,2028,,20.0
+1072,Tissue,28,,
+1072,Ridge,2028,,
+1072,Lasso,41,,
+1072,Elastic net,41,0.2,
+1072,PCR,2028,,20.0
+1079,Tissue,27,,
+1079,Ridge,2027,,
+1079,Lasso,141,,
+1079,Elastic net,149,0.2,
+1079,PCR,2027,,200.0
+1079,Tissue,27,,
+1079,Ridge,2027,,
+1079,Lasso,128,,
+1079,Elastic net,158,0.2,
+1079,PCR,2027,,100.0
+1079,Tissue,28,,
+1079,Ridge,2028,,
+1079,Lasso,99,,
+1079,Elastic net,131,0.2,
+1079,PCR,2028,,100.0
+1079,Tissue,28,,
+1079,Ridge,2028,,
+1079,Lasso,116,,
+1079,Elastic net,143,0.2,
+1079,PCR,2028,,100.0
+1079,Tissue,28,,
+1079,Ridge,2028,,
+1079,Lasso,168,,
+1079,Elastic net,172,0.2,
+1079,PCR,2028,,200.0
+1083,Tissue,27,,
+1083,Ridge,2027,,
+1083,Lasso,178,,
+1083,Elastic net,181,0.2,
+1083,PCR,2027,,100.0
+1083,Tissue,27,,
+1083,Ridge,2027,,
+1083,Lasso,122,,
+1083,Elastic net,123,0.2,
+1083,PCR,2027,,100.0
+1083,Tissue,28,,
+1083,Ridge,2028,,
+1083,Lasso,148,,
+1083,Elastic net,150,0.2,
+1083,PCR,2028,,20.0
+1083,Tissue,28,,
+1083,Ridge,2028,,
+1083,Lasso,216,,
+1083,Elastic net,221,0.2,
+1083,PCR,2028,,100.0
+1083,Tissue,28,,
+1083,Ridge,2028,,
+1083,Lasso,149,,
+1083,Elastic net,150,0.2,
+1083,PCR,2028,,100.0
+1085,Tissue,27,,
+1085,Ridge,2027,,
+1085,Lasso,75,,
+1085,Elastic net,77,0.2,
+1085,PCR,2027,,20.0
+1085,Tissue,27,,
+1085,Ridge,2027,,
+1085,Lasso,27,,
+1085,Elastic net,36,0.2,
+1085,PCR,2027,,50.0
+1085,Tissue,28,,
+1085,Ridge,2028,,
+1085,Lasso,110,,
+1085,Elastic net,114,0.2,
+1085,PCR,2028,,200.0
+1085,Tissue,28,,
+1085,Ridge,2028,,
+1085,Lasso,135,,
+1085,Elastic net,137,0.2,
+1085,PCR,2028,,50.0
+1085,Tissue,28,,
+1085,Ridge,2028,,
+1085,Lasso,63,,
+1085,Elastic net,64,0.2,
+1085,PCR,2028,,20.0
+1088,Tissue,27,,
+1088,Ridge,2027,,
+1088,Lasso,128,,
+1088,Elastic net,135,0.2,
+1088,PCR,2027,,100.0
+1088,Tissue,27,,
+1088,Ridge,2027,,
+1088,Lasso,177,,
+1088,Elastic net,181,0.2,
+1088,PCR,2027,,200.0
+1088,Tissue,28,,
+1088,Ridge,2028,,
+1088,Lasso,132,,
+1088,Elastic net,134,0.2,
+1088,PCR,2028,,200.0
+1088,Tissue,28,,
+1088,Ridge,2028,,
+1088,Lasso,76,,
+1088,Elastic net,76,0.8,
+1088,PCR,2028,,200.0
+1088,Tissue,28,,
+1088,Ridge,2028,,
+1088,Lasso,128,,
+1088,Elastic net,132,0.2,
+1088,PCR,2028,,200.0
+1091,Tissue,27,,
+1091,Ridge,2027,,
+1091,Lasso,84,,
+1091,Elastic net,85,0.2,
+1091,PCR,2027,,50.0
+1091,Tissue,27,,
+1091,Ridge,2027,,
+1091,Lasso,43,,
+1091,Elastic net,59,0.2,
+1091,PCR,2027,,50.0
+1091,Tissue,28,,
+1091,Ridge,2028,,
+1091,Lasso,94,,
+1091,Elastic net,95,0.2,
+1091,PCR,2028,,200.0
+1091,Tissue,28,,
+1091,Ridge,2028,,
+1091,Lasso,115,,
+1091,Elastic net,135,0.2,
+1091,PCR,2028,,200.0
+1091,Tissue,28,,
+1091,Ridge,2028,,
+1091,Lasso,60,,
+1091,Elastic net,63,0.2,
+1091,PCR,2028,,50.0
+1131,Tissue,27,,
+1131,Ridge,2026,,
+1131,Lasso,54,,
+1131,Elastic net,55,0.2,
+1131,PCR,2026,,20.0
+1131,Tissue,27,,
+1131,Ridge,2027,,
+1131,Lasso,61,,
+1131,Elastic net,65,0.2,
+1131,PCR,2027,,20.0
+1131,Tissue,28,,
+1131,Ridge,2028,,
+1131,Lasso,86,,
+1131,Elastic net,88,0.2,
+1131,PCR,2028,,50.0
+1131,Tissue,28,,
+1131,Ridge,2028,,
+1131,Lasso,79,,
+1131,Elastic net,81,0.2,
+1131,PCR,2028,,20.0
+1131,Tissue,28,,
+1131,Ridge,2028,,
+1131,Lasso,58,,
+1131,Elastic net,59,0.2,
+1131,PCR,2028,,20.0
+1149,Tissue,27,,
+1149,Ridge,2025,,
+1149,Lasso,19,,
+1149,Elastic net,19,0.8,
+1149,PCR,2025,,5.0
+1149,Tissue,27,,
+1149,Ridge,2025,,
+1149,Lasso,25,,
+1149,Elastic net,25,0.8,
+1149,PCR,2025,,1.0
+1149,Tissue,28,,
+1149,Ridge,2026,,
+1149,Lasso,31,,
+1149,Elastic net,31,0.8,
+1149,PCR,2026,,5.0
+1149,Tissue,28,,
+1149,Ridge,2026,,
+1149,Lasso,19,,
+1149,Elastic net,19,0.8,
+1149,PCR,2026,,5.0
+1149,Tissue,28,,
+1149,Ridge,2026,,
+1149,Lasso,17,,
+1149,Elastic net,17,0.8,
+1149,PCR,2026,,1.0
+1175,Tissue,27,,
+1175,Ridge,2027,,
+1175,Lasso,34,,
+1175,Elastic net,34,0.2,
+1175,PCR,2027,,50.0
+1175,Tissue,27,,
+1175,Ridge,2027,,
+1175,Lasso,0,,
+1175,Elastic net,0,0.2,
+1175,PCR,2027,,10.0
+1175,Tissue,28,,
+1175,Ridge,2028,,
+1175,Lasso,45,,
+1175,Elastic net,45,0.8,
+1175,PCR,2028,,50.0
+1175,Tissue,28,,
+1175,Ridge,2028,,
+1175,Lasso,35,,
+1175,Elastic net,35,0.2,
+1175,PCR,2028,,50.0
+1175,Tissue,28,,
+1175,Ridge,2028,,
+1175,Lasso,25,,
+1175,Elastic net,25,0.2,
+1175,PCR,2028,,10.0
+1179,Tissue,27,,
+1179,Ridge,2027,,
+1179,Lasso,152,,
+1179,Elastic net,158,0.2,
+1179,PCR,2027,,100.0
+1179,Tissue,27,,
+1179,Ridge,2027,,
+1179,Lasso,117,,
+1179,Elastic net,120,0.2,
+1179,PCR,2027,,50.0
+1179,Tissue,28,,
+1179,Ridge,2028,,
+1179,Lasso,131,,
+1179,Elastic net,135,0.2,
+1179,PCR,2028,,100.0
+1179,Tissue,28,,
+1179,Ridge,2028,,
+1179,Lasso,137,,
+1179,Elastic net,141,0.2,
+1179,PCR,2028,,100.0
+1179,Tissue,28,,
+1179,Ridge,2028,,
+1179,Lasso,91,,
+1179,Elastic net,96,0.2,
+1179,PCR,2028,,50.0
+1190,Tissue,27,,
+1190,Ridge,2027,,
+1190,Lasso,90,,
+1190,Elastic net,98,0.2,
+1190,PCR,2027,,200.0
+1190,Tissue,27,,
+1190,Ridge,2027,,
+1190,Lasso,118,,
+1190,Elastic net,154,0.2,
+1190,PCR,2027,,200.0
+1190,Tissue,28,,
+1190,Ridge,2028,,
+1190,Lasso,201,,
+1190,Elastic net,211,0.2,
+1190,PCR,2028,,200.0
+1190,Tissue,28,,
+1190,Ridge,2028,,
+1190,Lasso,109,,
+1190,Elastic net,110,0.8,
+1190,PCR,2028,,100.0
+1190,Tissue,28,,
+1190,Ridge,2028,,
+1190,Lasso,155,,
+1190,Elastic net,163,0.2,
+1190,PCR,2028,,100.0
+1199,Tissue,27,,
+1199,Ridge,2027,,
+1199,Lasso,61,,
+1199,Elastic net,60,0.2,
+1199,PCR,2027,,1.0
+1199,Tissue,27,,
+1199,Ridge,2027,,
+1199,Lasso,42,,
+1199,Elastic net,42,0.2,
+1199,PCR,2027,,10.0
+1199,Tissue,28,,
+1199,Ridge,2028,,
+1199,Lasso,17,,
+1199,Elastic net,17,0.2,
+1199,PCR,2027,,5.0
+1199,Tissue,28,,
+1199,Ridge,2028,,
+1199,Lasso,51,,
+1199,Elastic net,53,0.2,
+1199,PCR,2028,,2.0
+1199,Tissue,28,,
+1199,Ridge,2028,,
+1199,Lasso,16,,
+1199,Elastic net,16,0.8,
+1199,PCR,2028,,2.0
+1237,Tissue,27,,
+1237,Ridge,2027,,
+1237,Lasso,0,,
+1237,Elastic net,0,0.2,
+1237,PCR,2027,,10.0
+1237,Tissue,27,,
+1237,Ridge,2027,,
+1237,Lasso,15,,
+1237,Elastic net,15,0.2,
+1237,PCR,2027,,20.0
+1237,Tissue,28,,
+1237,Ridge,2028,,
+1237,Lasso,17,,
+1237,Elastic net,17,0.2,
+1237,PCR,2028,,20.0
+1237,Tissue,28,,
+1237,Ridge,2028,,
+1237,Lasso,6,,
+1237,Elastic net,6,0.2,
+1237,PCR,2028,,10.0
+1237,Tissue,28,,
+1237,Ridge,2028,,
+1237,Lasso,0,,
+1237,Elastic net,0,0.2,
+1237,PCR,2027,,5.0
+1248,Tissue,27,,
+1248,Ridge,2027,,
+1248,Lasso,36,,
+1248,Elastic net,43,0.2,
+1248,PCR,2027,,10.0
+1248,Tissue,27,,
+1248,Ridge,2027,,
+1248,Lasso,78,,
+1248,Elastic net,85,0.2,
+1248,PCR,2027,,10.0
+1248,Tissue,28,,
+1248,Ridge,2028,,
+1248,Lasso,47,,
+1248,Elastic net,50,0.2,
+1248,PCR,2028,,100.0
+1248,Tissue,28,,
+1248,Ridge,2028,,
+1248,Lasso,79,,
+1248,Elastic net,112,0.2,
+1248,PCR,2028,,100.0
+1248,Tissue,28,,
+1248,Ridge,2028,,
+1248,Lasso,36,,
+1248,Elastic net,38,0.2,
+1248,PCR,2028,,200.0
+1250,Tissue,27,,
+1250,Ridge,2026,,
+1250,Lasso,64,,
+1250,Elastic net,79,0.2,
+1250,PCR,2026,,20.0
+1250,Tissue,27,,
+1250,Ridge,2027,,
+1250,Lasso,151,,
+1250,Elastic net,150,0.2,
+1250,PCR,2027,,100.0
+1250,Tissue,28,,
+1250,Ridge,2028,,
+1250,Lasso,42,,
+1250,Elastic net,45,0.2,
+1250,PCR,2028,,20.0
+1250,Tissue,28,,
+1250,Ridge,2028,,
+1250,Lasso,107,,
+1250,Elastic net,107,0.8,
+1250,PCR,2028,,100.0
+1250,Tissue,28,,
+1250,Ridge,2028,,
+1250,Lasso,85,,
+1250,Elastic net,88,0.2,
+1250,PCR,2028,,20.0
+1268,Tissue,27,,
+1268,Ridge,2026,,
+1268,Lasso,19,,
+1268,Elastic net,19,0.2,
+1268,PCR,2026,,50.0
+1268,Tissue,27,,
+1268,Ridge,2027,,
+1268,Lasso,73,,
+1268,Elastic net,74,0.2,
+1268,PCR,2027,,20.0
+1268,Tissue,28,,
+1268,Ridge,2028,,
+1268,Lasso,37,,
+1268,Elastic net,37,0.8,
+1268,PCR,2028,,50.0
+1268,Tissue,28,,
+1268,Ridge,2028,,
+1268,Lasso,53,,
+1268,Elastic net,54,0.2,
+1268,PCR,2028,,50.0
+1268,Tissue,28,,
+1268,Ridge,2028,,
+1268,Lasso,50,,
+1268,Elastic net,50,0.2,
+1268,PCR,2028,,20.0
+1373,Tissue,27,,
+1373,Ridge,2027,,
+1373,Lasso,78,,
+1373,Elastic net,79,0.2,
+1373,PCR,2027,,100.0
+1373,Tissue,27,,
+1373,Ridge,2027,,
+1373,Lasso,17,,
+1373,Elastic net,17,0.2,
+1373,PCR,2027,,100.0
+1373,Tissue,28,,
+1373,Ridge,2028,,
+1373,Lasso,19,,
+1373,Elastic net,21,0.2,
+1373,PCR,2028,,10.0
+1373,Tissue,28,,
+1373,Ridge,2028,,
+1373,Lasso,40,,
+1373,Elastic net,41,0.2,
+1373,PCR,2028,,20.0
+1373,Tissue,28,,
+1373,Ridge,2028,,
+1373,Lasso,33,,
+1373,Elastic net,42,0.2,
+1373,PCR,2028,,100.0
+1378,Tissue,27,,
+1378,Ridge,2025,,
+1378,Lasso,144,,
+1378,Elastic net,151,0.2,
+1378,PCR,2025,,100.0
+1378,Tissue,27,,
+1378,Ridge,2025,,
+1378,Lasso,105,,
+1378,Elastic net,104,0.8,
+1378,PCR,2025,,50.0
+1378,Tissue,28,,
+1378,Ridge,2026,,
+1378,Lasso,63,,
+1378,Elastic net,91,0.2,
+1378,PCR,2026,,100.0
+1378,Tissue,28,,
+1378,Ridge,2026,,
+1378,Lasso,101,,
+1378,Elastic net,104,0.2,
+1378,PCR,2026,,100.0
+1378,Tissue,28,,
+1378,Ridge,2026,,
+1378,Lasso,63,,
+1378,Elastic net,66,0.2,
+1378,PCR,2026,,50.0
+1428,Tissue,27,,
+1428,Ridge,2025,,
+1428,Lasso,8,,
+1428,Elastic net,8,0.2,
+1428,PCR,2025,,10.0
+1428,Tissue,27,,
+1428,Ridge,2025,,
+1428,Lasso,27,,
+1428,Elastic net,29,0.2,
+1428,PCR,2025,,50.0
+1428,Tissue,28,,
+1428,Ridge,2027,,
+1428,Lasso,20,,
+1428,Elastic net,21,0.2,
+1428,PCR,2027,,100.0
+1428,Tissue,28,,
+1428,Ridge,2027,,
+1428,Lasso,69,,
+1428,Elastic net,74,0.2,
+1428,PCR,2027,,10.0
+1428,Tissue,28,,
+1428,Ridge,2027,,
+1428,Lasso,0,,
+1428,Elastic net,0,0.2,
+1428,PCR,2027,,50.0
+1449,Tissue,27,,
+1449,Ridge,2025,,
+1449,Lasso,11,,
+1449,Elastic net,11,0.2,
+1449,PCR,2025,,5.0
+1449,Tissue,27,,
+1449,Ridge,2025,,
+1449,Lasso,17,,
+1449,Elastic net,17,0.2,
+1449,PCR,2025,,5.0
+1449,Tissue,28,,
+1449,Ridge,2027,,
+1449,Lasso,15,,
+1449,Elastic net,15,0.2,
+1449,PCR,2027,,5.0
+1449,Tissue,28,,
+1449,Ridge,2027,,
+1449,Lasso,15,,
+1449,Elastic net,15,0.2,
+1449,PCR,2027,,5.0
+1449,Tissue,28,,
+1449,Ridge,2027,,
+1449,Lasso,23,,
+1449,Elastic net,23,0.2,
+1449,PCR,2027,,5.0
+1494,Tissue,27,,
+1494,Ridge,2027,,
+1494,Lasso,31,,
+1494,Elastic net,31,0.8,
+1494,PCR,2027,,10.0
+1494,Tissue,27,,
+1494,Ridge,2027,,
+1494,Lasso,113,,
+1494,Elastic net,118,0.2,
+1494,PCR,2027,,20.0
+1494,Tissue,28,,
+1494,Ridge,2028,,
+1494,Lasso,55,,
+1494,Elastic net,56,0.8,
+1494,PCR,2028,,50.0
+1494,Tissue,28,,
+1494,Ridge,2028,,
+1494,Lasso,69,,
+1494,Elastic net,76,0.2,
+1494,PCR,2028,,50.0
+1494,Tissue,28,,
+1494,Ridge,2027,,
+1494,Lasso,18,,
+1494,Elastic net,18,0.8,
+1494,PCR,2027,,10.0
+1510,Tissue,27,,
+1510,Ridge,2027,,
+1510,Lasso,90,,
+1510,Elastic net,90,0.2,
+1510,PCR,2027,,100.0
+1510,Tissue,27,,
+1510,Ridge,2027,,
+1510,Lasso,174,,
+1510,Elastic net,175,0.2,
+1510,PCR,2027,,200.0
+1510,Tissue,28,,
+1510,Ridge,2028,,
+1510,Lasso,118,,
+1510,Elastic net,119,0.2,
+1510,PCR,2028,,200.0
+1510,Tissue,28,,
+1510,Ridge,2028,,
+1510,Lasso,183,,
+1510,Elastic net,184,0.2,
+1510,PCR,2028,,200.0
+1510,Tissue,28,,
+1510,Ridge,2028,,
+1510,Lasso,79,,
+1510,Elastic net,79,0.2,
+1510,PCR,2028,,200.0
+1512,Tissue,27,,
+1512,Ridge,2027,,
+1512,Lasso,53,,
+1512,Elastic net,53,0.2,
+1512,PCR,2027,,5.0
+1512,Tissue,27,,
+1512,Ridge,2027,,
+1512,Lasso,58,,
+1512,Elastic net,59,0.2,
+1512,PCR,2027,,20.0
+1512,Tissue,28,,
+1512,Ridge,2028,,
+1512,Lasso,54,,
+1512,Elastic net,54,0.2,
+1512,PCR,2028,,20.0
+1512,Tissue,28,,
+1512,Ridge,2028,,
+1512,Lasso,48,,
+1512,Elastic net,48,0.2,
+1512,PCR,2028,,20.0
+1512,Tissue,28,,
+1512,Ridge,2028,,
+1512,Lasso,33,,
+1512,Elastic net,33,0.8,
+1512,PCR,2028,,20.0
+1549,Tissue,27,,
+1549,Ridge,2027,,
+1549,Lasso,58,,
+1549,Elastic net,60,0.2,
+1549,PCR,2027,,20.0
+1549,Tissue,27,,
+1549,Ridge,2027,,
+1549,Lasso,81,,
+1549,Elastic net,83,0.2,
+1549,PCR,2027,,100.0
+1549,Tissue,28,,
+1549,Ridge,2028,,
+1549,Lasso,62,,
+1549,Elastic net,62,0.8,
+1549,PCR,2028,,20.0
+1549,Tissue,28,,
+1549,Ridge,2028,,
+1549,Lasso,88,,
+1549,Elastic net,91,0.2,
+1549,PCR,2028,,100.0
+1549,Tissue,28,,
+1549,Ridge,2028,,
+1549,Lasso,73,,
+1549,Elastic net,77,0.2,
+1549,PCR,2028,,100.0
+1557,Tissue,27,,
+1557,Ridge,2026,,
+1557,Lasso,29,,
+1557,Elastic net,43,0.2,
+1557,PCR,2026,,10.0
+1557,Tissue,27,,
+1557,Ridge,2027,,
+1557,Lasso,21,,
+1557,Elastic net,66,0.2,
+1557,PCR,2027,,10.0
+1557,Tissue,28,,
+1557,Ridge,2028,,
+1557,Lasso,56,,
+1557,Elastic net,55,0.2,
+1557,PCR,2028,,20.0
+1557,Tissue,28,,
+1557,Ridge,2028,,
+1557,Lasso,46,,
+1557,Elastic net,46,0.2,
+1557,PCR,2028,,10.0
+1557,Tissue,28,,
+1557,Ridge,2028,,
+1557,Lasso,33,,
+1557,Elastic net,36,0.2,
+1557,PCR,2028,,1.0
+1559,Tissue,27,,
+1559,Ridge,2027,,
+1559,Lasso,118,,
+1559,Elastic net,119,0.2,
+1559,PCR,2027,,100.0
+1559,Tissue,27,,
+1559,Ridge,2027,,
+1559,Lasso,125,,
+1559,Elastic net,131,0.2,
+1559,PCR,2027,,100.0
+1559,Tissue,28,,
+1559,Ridge,2028,,
+1559,Lasso,122,,
+1559,Elastic net,96,0.2,
+1559,PCR,2028,,50.0
+1559,Tissue,28,,
+1559,Ridge,2028,,
+1559,Lasso,189,,
+1559,Elastic net,196,0.2,
+1559,PCR,2028,,200.0
+1559,Tissue,28,,
+1559,Ridge,2028,,
+1559,Lasso,99,,
+1559,Elastic net,100,0.2,
+1559,PCR,2028,,50.0
+1561,Tissue,27,,
+1561,Ridge,2027,,
+1561,Lasso,37,,
+1561,Elastic net,38,0.2,
+1561,PCR,2027,,100.0
+1561,Tissue,27,,
+1561,Ridge,2027,,
+1561,Lasso,83,,
+1561,Elastic net,82,0.2,
+1561,PCR,2027,,100.0
+1561,Tissue,28,,
+1561,Ridge,2028,,
+1561,Lasso,72,,
+1561,Elastic net,73,0.8,
+1561,PCR,2028,,100.0
+1561,Tissue,28,,
+1561,Ridge,2028,,
+1561,Lasso,89,,
+1561,Elastic net,94,0.2,
+1561,PCR,2028,,100.0
+1561,Tissue,28,,
+1561,Ridge,2028,,
+1561,Lasso,114,,
+1561,Elastic net,117,0.2,
+1561,PCR,2028,,100.0
+1564,Tissue,27,,
+1564,Ridge,2027,,
+1564,Lasso,87,,
+1564,Elastic net,108,0.2,
+1564,PCR,2027,,50.0
+1564,Tissue,27,,
+1564,Ridge,2027,,
+1564,Lasso,113,,
+1564,Elastic net,117,0.2,
+1564,PCR,2027,,100.0
+1564,Tissue,28,,
+1564,Ridge,2028,,
+1564,Lasso,110,,
+1564,Elastic net,114,0.2,
+1564,PCR,2028,,50.0
+1564,Tissue,28,,
+1564,Ridge,2028,,
+1564,Lasso,111,,
+1564,Elastic net,119,0.2,
+1564,PCR,2028,,200.0
+1564,Tissue,28,,
+1564,Ridge,2028,,
+1564,Lasso,95,,
+1564,Elastic net,100,0.2,
+1564,PCR,2028,,50.0
+1578,Tissue,27,,
+1578,Ridge,2026,,
+1578,Lasso,18,,
+1578,Elastic net,19,0.2,
+1578,PCR,2026,,10.0
+1578,Tissue,27,,
+1578,Ridge,2027,,
+1578,Lasso,26,,
+1578,Elastic net,26,0.8,
+1578,PCR,2027,,10.0
+1578,Tissue,28,,
+1578,Ridge,2028,,
+1578,Lasso,37,,
+1578,Elastic net,39,0.2,
+1578,PCR,2028,,10.0
+1578,Tissue,28,,
+1578,Ridge,2028,,
+1578,Lasso,19,,
+1578,Elastic net,23,0.2,
+1578,PCR,2028,,20.0
+1578,Tissue,28,,
+1578,Ridge,2028,,
+1578,Lasso,19,,
+1578,Elastic net,19,0.2,
+1578,PCR,2028,,10.0
+1581,Tissue,27,,
+1581,Ridge,2025,,
+1581,Lasso,37,,
+1581,Elastic net,37,0.2,
+1581,PCR,2025,,20.0
+1581,Tissue,27,,
+1581,Ridge,2025,,
+1581,Lasso,9,,
+1581,Elastic net,9,0.8,
+1581,PCR,2025,,50.0
+1581,Tissue,28,,
+1581,Ridge,2027,,
+1581,Lasso,8,,
+1581,Elastic net,8,0.8,
+1581,PCR,2027,,5.0
+1581,Tissue,28,,
+1581,Ridge,2027,,
+1581,Lasso,25,,
+1581,Elastic net,25,0.8,
+1581,PCR,2027,,5.0
+1581,Tissue,28,,
+1581,Ridge,2027,,
+1581,Lasso,2,,
+1581,Elastic net,3,0.2,
+1581,PCR,2027,,5.0
+1583,Tissue,27,,
+1583,Ridge,2025,,
+1583,Lasso,10,,
+1583,Elastic net,10,0.2,
+1583,PCR,2025,,5.0
+1583,Tissue,27,,
+1583,Ridge,2025,,
+1583,Lasso,3,,
+1583,Elastic net,3,0.2,
+1583,PCR,2025,,5.0
+1583,Tissue,28,,
+1583,Ridge,2027,,
+1583,Lasso,22,,
+1583,Elastic net,22,0.2,
+1583,PCR,2027,,1.0
+1583,Tissue,28,,
+1583,Ridge,2027,,
+1583,Lasso,15,,
+1583,Elastic net,15,0.2,
+1583,PCR,2027,,1.0
+1583,Tissue,28,,
+1583,Ridge,2027,,
+1583,Lasso,17,,
+1583,Elastic net,17,0.2,
+1583,PCR,2027,,5.0
+1585,Tissue,27,,
+1585,Ridge,2025,,
+1585,Lasso,21,,
+1585,Elastic net,21,0.2,
+1585,PCR,2025,,5.0
+1585,Tissue,27,,
+1585,Ridge,2025,,
+1585,Lasso,35,,
+1585,Elastic net,35,0.2,
+1585,PCR,2025,,10.0
+1585,Tissue,28,,
+1585,Ridge,2027,,
+1585,Lasso,24,,
+1585,Elastic net,26,0.2,
+1585,PCR,2027,,20.0
+1585,Tissue,28,,
+1585,Ridge,2027,,
+1585,Lasso,36,,
+1585,Elastic net,36,0.2,
+1585,PCR,2027,,50.0
+1585,Tissue,28,,
+1585,Ridge,2027,,
+1585,Lasso,21,,
+1585,Elastic net,21,0.2,
+1585,PCR,2026,,10.0
+1593,Tissue,27,,
+1593,Ridge,2026,,
+1593,Lasso,149,,
+1593,Elastic net,158,0.2,
+1593,PCR,2026,,100.0
+1593,Tissue,27,,
+1593,Ridge,2027,,
+1593,Lasso,91,,
+1593,Elastic net,99,0.2,
+1593,PCR,2027,,50.0
+1593,Tissue,28,,
+1593,Ridge,2028,,
+1593,Lasso,159,,
+1593,Elastic net,232,0.2,
+1593,PCR,2028,,50.0
+1593,Tissue,28,,
+1593,Ridge,2028,,
+1593,Lasso,242,,
+1593,Elastic net,244,0.2,
+1593,PCR,2028,,100.0
+1593,Tissue,28,,
+1593,Ridge,2028,,
+1593,Lasso,117,,
+1593,Elastic net,122,0.2,
+1593,PCR,2028,,20.0
+1598,Tissue,27,,
+1598,Ridge,2027,,
+1598,Lasso,15,,
+1598,Elastic net,15,0.2,
+1598,PCR,2027,,20.0
+1598,Tissue,27,,
+1598,Ridge,2027,,
+1598,Lasso,45,,
+1598,Elastic net,45,0.2,
+1598,PCR,2027,,10.0
+1598,Tissue,28,,
+1598,Ridge,2028,,
+1598,Lasso,69,,
+1598,Elastic net,70,0.2,
+1598,PCR,2028,,20.0
+1598,Tissue,28,,
+1598,Ridge,2028,,
+1598,Lasso,69,,
+1598,Elastic net,70,0.2,
+1598,PCR,2028,,20.0
+1598,Tissue,28,,
+1598,Ridge,2028,,
+1598,Lasso,64,,
+1598,Elastic net,64,0.2,
+1598,PCR,2028,,20.0
+1614,Tissue,27,,
+1614,Ridge,2026,,
+1614,Lasso,59,,
+1614,Elastic net,59,0.2,
+1614,PCR,2026,,50.0
+1614,Tissue,27,,
+1614,Ridge,2027,,
+1614,Lasso,9,,
+1614,Elastic net,9,0.2,
+1614,PCR,2027,,10.0
+1614,Tissue,28,,
+1614,Ridge,2028,,
+1614,Lasso,25,,
+1614,Elastic net,26,0.2,
+1614,PCR,2028,,10.0
+1614,Tissue,28,,
+1614,Ridge,2028,,
+1614,Lasso,36,,
+1614,Elastic net,37,0.2,
+1614,PCR,2028,,50.0
+1614,Tissue,28,,
+1614,Ridge,2028,,
+1614,Lasso,16,,
+1614,Elastic net,16,0.2,
+1614,PCR,2028,,50.0
+1617,Tissue,27,,
+1617,Ridge,2026,,
+1617,Lasso,93,,
+1617,Elastic net,98,0.2,
+1617,PCR,2026,,200.0
+1617,Tissue,27,,
+1617,Ridge,2027,,
+1617,Lasso,96,,
+1617,Elastic net,116,0.2,
+1617,PCR,2027,,50.0
+1617,Tissue,28,,
+1617,Ridge,2028,,
+1617,Lasso,26,,
+1617,Elastic net,26,0.8,
+1617,PCR,2028,,100.0
+1617,Tissue,28,,
+1617,Ridge,2028,,
+1617,Lasso,59,,
+1617,Elastic net,60,0.2,
+1617,PCR,2028,,20.0
+1617,Tissue,28,,
+1617,Ridge,2028,,
+1617,Lasso,51,,
+1617,Elastic net,54,0.2,
+1617,PCR,2028,,100.0
+1620,Tissue,27,,
+1620,Ridge,2026,,
+1620,Lasso,26,,
+1620,Elastic net,26,0.8,
+1620,PCR,2026,,10.0
+1620,Tissue,27,,
+1620,Ridge,2027,,
+1620,Lasso,60,,
+1620,Elastic net,60,0.2,
+1620,PCR,2027,,50.0
+1620,Tissue,28,,
+1620,Ridge,2028,,
+1620,Lasso,48,,
+1620,Elastic net,48,0.2,
+1620,PCR,2028,,50.0
+1620,Tissue,28,,
+1620,Ridge,2028,,
+1620,Lasso,78,,
+1620,Elastic net,78,0.2,
+1620,PCR,2028,,50.0
+1620,Tissue,28,,
+1620,Ridge,2028,,
+1620,Lasso,25,,
+1620,Elastic net,25,0.8,
+1620,PCR,2028,,50.0
+1622,Tissue,27,,
+1622,Ridge,2026,,
+1622,Lasso,17,,
+1622,Elastic net,18,0.2,
+1622,PCR,2026,,20.0
+1622,Tissue,27,,
+1622,Ridge,2027,,
+1622,Lasso,23,,
+1622,Elastic net,23,0.8,
+1622,PCR,2027,,50.0
+1622,Tissue,28,,
+1622,Ridge,2028,,
+1622,Lasso,31,,
+1622,Elastic net,41,0.2,
+1622,PCR,2028,,100.0
+1622,Tissue,28,,
+1622,Ridge,2028,,
+1622,Lasso,24,,
+1622,Elastic net,24,0.2,
+1622,PCR,2028,,2.0
+1622,Tissue,28,,
+1622,Ridge,2028,,
+1622,Lasso,25,,
+1622,Elastic net,26,0.2,
+1622,PCR,2028,,10.0
+1625,Tissue,27,,
+1625,Ridge,2026,,
+1625,Lasso,8,,
+1625,Elastic net,8,0.2,
+1625,PCR,2026,,5.0
+1625,Tissue,27,,
+1625,Ridge,2027,,
+1625,Lasso,15,,
+1625,Elastic net,15,0.2,
+1625,PCR,2027,,5.0
+1625,Tissue,28,,
+1625,Ridge,2028,,
+1625,Lasso,27,,
+1625,Elastic net,27,0.2,
+1625,PCR,2028,,20.0
+1625,Tissue,28,,
+1625,Ridge,2028,,
+1625,Lasso,24,,
+1625,Elastic net,25,0.2,
+1625,PCR,2028,,5.0
+1625,Tissue,28,,
+1625,Ridge,2028,,
+1625,Lasso,17,,
+1625,Elastic net,17,0.2,
+1625,PCR,2028,,5.0
+1627,Tissue,27,,
+1627,Ridge,2026,,
+1627,Lasso,22,,
+1627,Elastic net,22,0.8,
+1627,PCR,2026,,5.0
+1627,Tissue,27,,
+1627,Ridge,2027,,
+1627,Lasso,29,,
+1627,Elastic net,29,0.2,
+1627,PCR,2027,,10.0
+1627,Tissue,28,,
+1627,Ridge,2028,,
+1627,Lasso,45,,
+1627,Elastic net,45,0.2,
+1627,PCR,2028,,50.0
+1627,Tissue,28,,
+1627,Ridge,2028,,
+1627,Lasso,27,,
+1627,Elastic net,28,0.2,
+1627,PCR,2028,,20.0
+1627,Tissue,28,,
+1627,Ridge,2028,,
+1627,Lasso,18,,
+1627,Elastic net,18,0.8,
+1627,PCR,2028,,10.0
+1630,Tissue,27,,
+1630,Ridge,2026,,
+1630,Lasso,15,,
+1630,Elastic net,15,0.8,
+1630,PCR,2026,,20.0
+1630,Tissue,27,,
+1630,Ridge,2027,,
+1630,Lasso,24,,
+1630,Elastic net,24,0.2,
+1630,PCR,2027,,5.0
+1630,Tissue,28,,
+1630,Ridge,2028,,
+1630,Lasso,37,,
+1630,Elastic net,37,0.2,
+1630,PCR,2028,,20.0
+1630,Tissue,28,,
+1630,Ridge,2028,,
+1630,Lasso,18,,
+1630,Elastic net,29,0.2,
+1630,PCR,2028,,20.0
+1630,Tissue,28,,
+1630,Ridge,2028,,
+1630,Lasso,33,,
+1630,Elastic net,33,0.8,
+1630,PCR,2028,,20.0
+1632,Tissue,27,,
+1632,Ridge,2027,,
+1632,Lasso,57,,
+1632,Elastic net,58,0.2,
+1632,PCR,2027,,20.0
+1632,Tissue,27,,
+1632,Ridge,2027,,
+1632,Lasso,22,,
+1632,Elastic net,22,0.2,
+1632,PCR,2027,,10.0
+1632,Tissue,28,,
+1632,Ridge,2027,,
+1632,Lasso,33,,
+1632,Elastic net,33,0.2,
+1632,PCR,2028,,50.0
+1632,Tissue,28,,
+1632,Ridge,2028,,
+1632,Lasso,23,,
+1632,Elastic net,23,0.2,
+1632,PCR,2028,,10.0
+1632,Tissue,28,,
+1632,Ridge,2028,,
+1632,Lasso,28,,
+1632,Elastic net,30,0.2,
+1632,PCR,2028,,10.0
+1635,Tissue,27,,
+1635,Ridge,2026,,
+1635,Lasso,40,,
+1635,Elastic net,40,0.2,
+1635,PCR,2026,,5.0
+1635,Tissue,27,,
+1635,Ridge,2027,,
+1635,Lasso,31,,
+1635,Elastic net,31,0.2,
+1635,PCR,2027,,10.0
+1635,Tissue,28,,
+1635,Ridge,2028,,
+1635,Lasso,75,,
+1635,Elastic net,75,0.2,
+1635,PCR,2028,,5.0
+1635,Tissue,28,,
+1635,Ridge,2028,,
+1635,Lasso,27,,
+1635,Elastic net,27,0.2,
+1635,PCR,2028,,50.0
+1635,Tissue,28,,
+1635,Ridge,2028,,
+1635,Lasso,18,,
+1635,Elastic net,18,0.2,
+1635,PCR,2028,,5.0
+1708,Tissue,27,,
+1708,Ridge,2025,,
+1708,Lasso,62,,
+1708,Elastic net,86,0.2,
+1708,PCR,2025,,10.0
+1708,Tissue,27,,
+1708,Ridge,2025,,
+1708,Lasso,112,,
+1708,Elastic net,112,0.8,
+1708,PCR,2025,,50.0
+1708,Tissue,28,,
+1708,Ridge,2027,,
+1708,Lasso,124,,
+1708,Elastic net,127,0.2,
+1708,PCR,2027,,50.0
+1708,Tissue,28,,
+1708,Ridge,2027,,
+1708,Lasso,87,,
+1708,Elastic net,88,0.2,
+1708,PCR,2027,,100.0
+1708,Tissue,28,,
+1708,Ridge,2027,,
+1708,Lasso,44,,
+1708,Elastic net,44,0.8,
+1708,PCR,2027,,20.0
+1712,Tissue,27,,
+1712,Ridge,2025,,
+1712,Lasso,56,,
+1712,Elastic net,72,0.2,
+1712,PCR,2025,,100.0
+1712,Tissue,27,,
+1712,Ridge,2025,,
+1712,Lasso,97,,
+1712,Elastic net,99,0.2,
+1712,PCR,2025,,100.0
+1712,Tissue,28,,
+1712,Ridge,2027,,
+1712,Lasso,87,,
+1712,Elastic net,93,0.2,
+1712,PCR,2027,,100.0
+1712,Tissue,28,,
+1712,Ridge,2027,,
+1712,Lasso,16,,
+1712,Elastic net,16,0.8,
+1712,PCR,2027,,50.0
+1712,Tissue,28,,
+1712,Ridge,2027,,
+1712,Lasso,93,,
+1712,Elastic net,122,0.2,
+1712,PCR,2027,,100.0
+1714,Tissue,27,,
+1714,Ridge,2025,,
+1714,Lasso,89,,
+1714,Elastic net,91,0.2,
+1714,PCR,2025,,100.0
+1714,Tissue,27,,
+1714,Ridge,2025,,
+1714,Lasso,59,,
+1714,Elastic net,60,0.8,
+1714,PCR,2025,,50.0
+1714,Tissue,28,,
+1714,Ridge,2027,,
+1714,Lasso,81,,
+1714,Elastic net,83,0.2,
+1714,PCR,2027,,100.0
+1714,Tissue,28,,
+1714,Ridge,2027,,
+1714,Lasso,71,,
+1714,Elastic net,73,0.2,
+1714,PCR,2027,,20.0
+1714,Tissue,28,,
+1714,Ridge,2027,,
+1714,Lasso,86,,
+1714,Elastic net,89,0.2,
+1714,PCR,2027,,100.0
+1718,Tissue,27,,
+1718,Ridge,2025,,
+1718,Lasso,31,,
+1718,Elastic net,31,0.2,
+1718,PCR,2024,,20.0
+1718,Tissue,27,,
+1718,Ridge,2025,,
+1718,Lasso,17,,
+1718,Elastic net,22,0.8,
+1718,PCR,2025,,10.0
+1718,Tissue,28,,
+1718,Ridge,2027,,
+1718,Lasso,24,,
+1718,Elastic net,50,0.2,
+1718,PCR,2027,,100.0
+1718,Tissue,28,,
+1718,Ridge,2027,,
+1718,Lasso,46,,
+1718,Elastic net,46,0.2,
+1718,PCR,2027,,10.0
+1718,Tissue,28,,
+1718,Ridge,2027,,
+1718,Lasso,0,,
+1718,Elastic net,0,0.2,
+1718,PCR,2027,,1.0
+1730,Tissue,27,,
+1730,Ridge,2025,,
+1730,Lasso,16,,
+1730,Elastic net,18,0.2,
+1730,PCR,2025,,5.0
+1730,Tissue,27,,
+1730,Ridge,2025,,
+1730,Lasso,21,,
+1730,Elastic net,21,0.8,
+1730,PCR,2025,,5.0
+1730,Tissue,28,,
+1730,Ridge,2027,,
+1730,Lasso,52,,
+1730,Elastic net,54,0.2,
+1730,PCR,2027,,50.0
+1730,Tissue,28,,
+1730,Ridge,2027,,
+1730,Lasso,19,,
+1730,Elastic net,19,0.8,
+1730,PCR,2027,,50.0
+1730,Tissue,28,,
+1730,Ridge,2027,,
+1730,Lasso,23,,
+1730,Elastic net,23,0.8,
+1730,PCR,2027,,5.0
+1733,Tissue,27,,
+1733,Ridge,2025,,
+1733,Lasso,106,,
+1733,Elastic net,106,0.2,
+1733,PCR,2025,,100.0
+1733,Tissue,27,,
+1733,Ridge,2025,,
+1733,Lasso,76,,
+1733,Elastic net,81,0.2,
+1733,PCR,2025,,100.0
+1733,Tissue,28,,
+1733,Ridge,2027,,
+1733,Lasso,100,,
+1733,Elastic net,106,0.2,
+1733,PCR,2027,,50.0
+1733,Tissue,28,,
+1733,Ridge,2027,,
+1733,Lasso,28,,
+1733,Elastic net,32,0.2,
+1733,PCR,2027,,100.0
+1733,Tissue,28,,
+1733,Ridge,2027,,
+1733,Lasso,90,,
+1733,Elastic net,73,0.2,
+1733,PCR,2027,,50.0
+1736,Tissue,27,,
+1736,Ridge,2025,,
+1736,Lasso,97,,
+1736,Elastic net,103,0.2,
+1736,PCR,2025,,50.0
+1736,Tissue,27,,
+1736,Ridge,2025,,
+1736,Lasso,110,,
+1736,Elastic net,115,0.2,
+1736,PCR,2025,,200.0
+1736,Tissue,28,,
+1736,Ridge,2027,,
+1736,Lasso,93,,
+1736,Elastic net,96,0.2,
+1736,PCR,2027,,50.0
+1736,Tissue,28,,
+1736,Ridge,2027,,
+1736,Lasso,93,,
+1736,Elastic net,96,0.2,
+1736,PCR,2027,,50.0
+1736,Tissue,28,,
+1736,Ridge,2027,,
+1736,Lasso,104,,
+1736,Elastic net,112,0.2,
+1736,PCR,2027,,20.0
+1739,Tissue,27,,
+1739,Ridge,2025,,
+1739,Lasso,28,,
+1739,Elastic net,30,0.2,
+1739,PCR,2025,,20.0
+1739,Tissue,27,,
+1739,Ridge,2025,,
+1739,Lasso,29,,
+1739,Elastic net,38,0.2,
+1739,PCR,2025,,200.0
+1739,Tissue,28,,
+1739,Ridge,2027,,
+1739,Lasso,66,,
+1739,Elastic net,68,0.2,
+1739,PCR,2027,,20.0
+1739,Tissue,28,,
+1739,Ridge,2027,,
+1739,Lasso,58,,
+1739,Elastic net,77,0.2,
+1739,PCR,2027,,20.0
+1739,Tissue,28,,
+1739,Ridge,2027,,
+1739,Lasso,30,,
+1739,Elastic net,32,0.2,
+1739,PCR,2027,,50.0
+1777,Tissue,27,,
+1777,Ridge,2025,,
+1777,Lasso,60,,
+1777,Elastic net,62,0.2,
+1777,PCR,2025,,50.0
+1777,Tissue,27,,
+1777,Ridge,2025,,
+1777,Lasso,64,,
+1777,Elastic net,64,0.2,
+1777,PCR,2025,,50.0
+1777,Tissue,28,,
+1777,Ridge,2027,,
+1777,Lasso,27,,
+1777,Elastic net,28,0.2,
+1777,PCR,2027,,50.0
+1777,Tissue,28,,
+1777,Ridge,2027,,
+1777,Lasso,36,,
+1777,Elastic net,38,0.2,
+1777,PCR,2027,,20.0
+1777,Tissue,28,,
+1777,Ridge,2027,,
+1777,Lasso,48,,
+1777,Elastic net,47,0.2,
+1777,PCR,2027,,10.0
+1779,Tissue,27,,
+1779,Ridge,2025,,
+1779,Lasso,12,,
+1779,Elastic net,12,0.8,
+1779,PCR,2025,,10.0
+1779,Tissue,27,,
+1779,Ridge,2025,,
+1779,Lasso,23,,
+1779,Elastic net,24,0.2,
+1779,PCR,2025,,20.0
+1779,Tissue,28,,
+1779,Ridge,2027,,
+1779,Lasso,23,,
+1779,Elastic net,23,0.8,
+1779,PCR,2027,,10.0
+1779,Tissue,28,,
+1779,Ridge,2027,,
+1779,Lasso,18,,
+1779,Elastic net,18,0.2,
+1779,PCR,2027,,10.0
+1779,Tissue,28,,
+1779,Ridge,2027,,
+1779,Lasso,35,,
+1779,Elastic net,35,0.2,
+1779,PCR,2027,,10.0
+1782,Tissue,27,,
+1782,Ridge,2025,,
+1782,Lasso,44,,
+1782,Elastic net,45,0.2,
+1782,PCR,2025,,20.0
+1782,Tissue,27,,
+1782,Ridge,2025,,
+1782,Lasso,27,,
+1782,Elastic net,27,0.2,
+1782,PCR,2025,,20.0
+1782,Tissue,28,,
+1782,Ridge,2027,,
+1782,Lasso,52,,
+1782,Elastic net,52,0.2,
+1782,PCR,2027,,20.0
+1782,Tissue,28,,
+1782,Ridge,2027,,
+1782,Lasso,0,,
+1782,Elastic net,3,0.2,
+1782,PCR,2027,,20.0
+1782,Tissue,28,,
+1782,Ridge,2027,,
+1782,Lasso,6,,
+1782,Elastic net,6,0.2,
+1782,PCR,2027,,1.0
+1784,Tissue,27,,
+1784,Ridge,2025,,
+1784,Lasso,38,,
+1784,Elastic net,38,0.2,
+1784,PCR,2025,,10.0
+1784,Tissue,27,,
+1784,Ridge,2025,,
+1784,Lasso,43,,
+1784,Elastic net,43,0.2,
+1784,PCR,2025,,10.0
+1784,Tissue,28,,
+1784,Ridge,2027,,
+1784,Lasso,80,,
+1784,Elastic net,80,0.2,
+1784,PCR,2027,,1.0
+1784,Tissue,28,,
+1784,Ridge,2027,,
+1784,Lasso,46,,
+1784,Elastic net,46,0.2,
+1784,PCR,2027,,1.0
+1784,Tissue,28,,
+1784,Ridge,2027,,
+1784,Lasso,20,,
+1784,Elastic net,20,0.2,
+1784,PCR,2027,,10.0
+1786,Tissue,27,,
+1786,Ridge,2027,,
+1786,Lasso,20,,
+1786,Elastic net,21,0.2,
+1786,PCR,2027,,10.0
+1786,Tissue,27,,
+1786,Ridge,2027,,
+1786,Lasso,2,,
+1786,Elastic net,1,0.8,
+1786,PCR,2027,,5.0
+1786,Tissue,28,,
+1786,Ridge,2028,,
+1786,Lasso,66,,
+1786,Elastic net,66,0.8,
+1786,PCR,2028,,10.0
+1786,Tissue,28,,
+1786,Ridge,2028,,
+1786,Lasso,58,,
+1786,Elastic net,58,0.2,
+1786,PCR,2028,,20.0
+1786,Tissue,28,,
+1786,Ridge,2028,,
+1786,Lasso,2,,
+1786,Elastic net,2,0.2,
+1786,PCR,2028,,5.0
+1802,Tissue,27,,
+1802,Ridge,2025,,
+1802,Lasso,31,,
+1802,Elastic net,31,0.2,
+1802,PCR,2025,,2.0
+1802,Tissue,27,,
+1802,Ridge,2025,,
+1802,Lasso,13,,
+1802,Elastic net,13,0.2,
+1802,PCR,2025,,1.0
+1802,Tissue,28,,
+1802,Ridge,2027,,
+1802,Lasso,11,,
+1802,Elastic net,11,0.2,
+1802,PCR,2027,,2.0
+1802,Tissue,28,,
+1802,Ridge,2027,,
+1802,Lasso,26,,
+1802,Elastic net,26,0.8,
+1802,PCR,2027,,20.0
+1802,Tissue,28,,
+1802,Ridge,2027,,
+1802,Lasso,14,,
+1802,Elastic net,14,0.8,
+1802,PCR,2027,,10.0
+1804,Tissue,27,,
+1804,Ridge,2025,,
+1804,Lasso,97,,
+1804,Elastic net,105,0.2,
+1804,PCR,2025,,50.0
+1804,Tissue,27,,
+1804,Ridge,2025,,
+1804,Lasso,225,,
+1804,Elastic net,233,0.2,
+1804,PCR,2025,,50.0
+1804,Tissue,28,,
+1804,Ridge,2027,,
+1804,Lasso,98,,
+1804,Elastic net,98,0.2,
+1804,PCR,2027,,100.0
+1804,Tissue,28,,
+1804,Ridge,2027,,
+1804,Lasso,60,,
+1804,Elastic net,69,0.2,
+1804,PCR,2027,,100.0
+1804,Tissue,28,,
+1804,Ridge,2027,,
+1804,Lasso,49,,
+1804,Elastic net,55,0.2,
+1804,PCR,2027,,50.0
+1808,Tissue,27,,
+1808,Ridge,2025,,
+1808,Lasso,81,,
+1808,Elastic net,81,0.8,
+1808,PCR,2025,,100.0
+1808,Tissue,27,,
+1808,Ridge,2025,,
+1808,Lasso,105,,
+1808,Elastic net,115,0.2,
+1808,PCR,2025,,200.0
+1808,Tissue,28,,
+1808,Ridge,2027,,
+1808,Lasso,80,,
+1808,Elastic net,80,0.8,
+1808,PCR,2027,,200.0
+1808,Tissue,28,,
+1808,Ridge,2027,,
+1808,Lasso,76,,
+1808,Elastic net,75,0.8,
+1808,PCR,2027,,200.0
+1808,Tissue,28,,
+1808,Ridge,2027,,
+1808,Lasso,65,,
+1808,Elastic net,65,0.8,
+1808,PCR,2027,,200.0
+1810,Tissue,27,,
+1810,Ridge,2025,,
+1810,Lasso,120,,
+1810,Elastic net,130,0.2,
+1810,PCR,2025,,100.0
+1810,Tissue,27,,
+1810,Ridge,2025,,
+1810,Lasso,75,,
+1810,Elastic net,79,0.2,
+1810,PCR,2025,,100.0
+1810,Tissue,28,,
+1810,Ridge,2027,,
+1810,Lasso,88,,
+1810,Elastic net,88,0.2,
+1810,PCR,2027,,10.0
+1810,Tissue,28,,
+1810,Ridge,2027,,
+1810,Lasso,63,,
+1810,Elastic net,67,0.2,
+1810,PCR,2027,,100.0
+1810,Tissue,28,,
+1810,Ridge,2027,,
+1810,Lasso,79,,
+1810,Elastic net,80,0.8,
+1810,PCR,2027,,100.0
+1812,Tissue,27,,
+1812,Ridge,2025,,
+1812,Lasso,75,,
+1812,Elastic net,79,0.2,
+1812,PCR,2025,,100.0
+1812,Tissue,27,,
+1812,Ridge,2025,,
+1812,Lasso,25,,
+1812,Elastic net,24,0.2,
+1812,PCR,2025,,20.0
+1812,Tissue,28,,
+1812,Ridge,2027,,
+1812,Lasso,67,,
+1812,Elastic net,69,0.2,
+1812,PCR,2027,,100.0
+1812,Tissue,28,,
+1812,Ridge,2027,,
+1812,Lasso,44,,
+1812,Elastic net,44,0.2,
+1812,PCR,2027,,100.0
+1812,Tissue,28,,
+1812,Ridge,2027,,
+1812,Lasso,76,,
+1812,Elastic net,78,0.2,
+1812,PCR,2027,,20.0
+1814,Tissue,27,,
+1814,Ridge,2025,,
+1814,Lasso,88,,
+1814,Elastic net,88,0.8,
+1814,PCR,2025,,50.0
+1814,Tissue,27,,
+1814,Ridge,2025,,
+1814,Lasso,87,,
+1814,Elastic net,89,0.2,
+1814,PCR,2025,,100.0
+1814,Tissue,28,,
+1814,Ridge,2027,,
+1814,Lasso,80,,
+1814,Elastic net,80,0.8,
+1814,PCR,2027,,50.0
+1814,Tissue,28,,
+1814,Ridge,2027,,
+1814,Lasso,84,,
+1814,Elastic net,84,0.2,
+1814,PCR,2027,,50.0
+1814,Tissue,28,,
+1814,Ridge,2027,,
+1814,Lasso,68,,
+1814,Elastic net,69,0.2,
+1814,PCR,2027,,50.0
+1816,Tissue,27,,
+1816,Ridge,2025,,
+1816,Lasso,11,,
+1816,Elastic net,11,0.8,
+1816,PCR,2025,,10.0
+1816,Tissue,27,,
+1816,Ridge,2025,,
+1816,Lasso,27,,
+1816,Elastic net,27,0.8,
+1816,PCR,2025,,5.0
+1816,Tissue,28,,
+1816,Ridge,2027,,
+1816,Lasso,12,,
+1816,Elastic net,12,0.2,
+1816,PCR,2027,,10.0
+1816,Tissue,28,,
+1816,Ridge,2027,,
+1816,Lasso,23,,
+1816,Elastic net,23,0.2,
+1816,PCR,2027,,10.0
+1816,Tissue,28,,
+1816,Ridge,2027,,
+1816,Lasso,3,,
+1816,Elastic net,3,0.2,
+1816,PCR,2027,,5.0
+1819,Tissue,27,,
+1819,Ridge,2025,,
+1819,Lasso,35,,
+1819,Elastic net,42,0.2,
+1819,PCR,2025,,50.0
+1819,Tissue,27,,
+1819,Ridge,2024,,
+1819,Lasso,108,,
+1819,Elastic net,113,0.2,
+1819,PCR,2024,,50.0
+1819,Tissue,28,,
+1819,Ridge,2026,,
+1819,Lasso,91,,
+1819,Elastic net,95,0.2,
+1819,PCR,2026,,50.0
+1819,Tissue,28,,
+1819,Ridge,2026,,
+1819,Lasso,41,,
+1819,Elastic net,48,0.2,
+1819,PCR,2026,,50.0
+1819,Tissue,28,,
+1819,Ridge,2026,,
+1819,Lasso,113,,
+1819,Elastic net,122,0.2,
+1819,PCR,2026,,100.0
+1821,Tissue,27,,
+1821,Ridge,2025,,
+1821,Lasso,64,,
+1821,Elastic net,65,0.2,
+1821,PCR,2025,,50.0
+1821,Tissue,27,,
+1821,Ridge,2025,,
+1821,Lasso,10,,
+1821,Elastic net,10,0.8,
+1821,PCR,2025,,20.0
+1821,Tissue,28,,
+1821,Ridge,2027,,
+1821,Lasso,27,,
+1821,Elastic net,27,0.2,
+1821,PCR,2027,,100.0
+1821,Tissue,28,,
+1821,Ridge,2027,,
+1821,Lasso,59,,
+1821,Elastic net,60,0.2,
+1821,PCR,2027,,50.0
+1821,Tissue,28,,
+1821,Ridge,2027,,
+1821,Lasso,27,,
+1821,Elastic net,27,0.2,
+1821,PCR,2027,,20.0
+1825,Tissue,27,,
+1825,Ridge,2025,,
+1825,Lasso,97,,
+1825,Elastic net,97,0.8,
+1825,PCR,2025,,100.0
+1825,Tissue,27,,
+1825,Ridge,2025,,
+1825,Lasso,113,,
+1825,Elastic net,122,0.2,
+1825,PCR,2025,,100.0
+1825,Tissue,28,,
+1825,Ridge,2027,,
+1825,Lasso,86,,
+1825,Elastic net,90,0.2,
+1825,PCR,2027,,100.0
+1825,Tissue,28,,
+1825,Ridge,2027,,
+1825,Lasso,83,,
+1825,Elastic net,87,0.2,
+1825,PCR,2027,,100.0
+1825,Tissue,28,,
+1825,Ridge,2027,,
+1825,Lasso,58,,
+1825,Elastic net,70,0.2,
+1825,PCR,2027,,50.0
+1827,Tissue,27,,
+1827,Ridge,2025,,
+1827,Lasso,22,,
+1827,Elastic net,23,0.2,
+1827,PCR,2025,,10.0
+1827,Tissue,27,,
+1827,Ridge,2025,,
+1827,Lasso,67,,
+1827,Elastic net,70,0.2,
+1827,PCR,2025,,5.0
+1827,Tissue,28,,
+1827,Ridge,2027,,
+1827,Lasso,19,,
+1827,Elastic net,20,0.2,
+1827,PCR,2027,,10.0
+1827,Tissue,28,,
+1827,Ridge,2027,,
+1827,Lasso,31,,
+1827,Elastic net,31,0.2,
+1827,PCR,2027,,5.0
+1827,Tissue,28,,
+1827,Ridge,2027,,
+1827,Lasso,28,,
+1827,Elastic net,28,0.8,
+1827,PCR,2027,,20.0
+1829,Tissue,27,,
+1829,Ridge,2025,,
+1829,Lasso,29,,
+1829,Elastic net,30,0.2,
+1829,PCR,2025,,20.0
+1829,Tissue,27,,
+1829,Ridge,2025,,
+1829,Lasso,48,,
+1829,Elastic net,50,0.2,
+1829,PCR,2025,,50.0
+1829,Tissue,28,,
+1829,Ridge,2027,,
+1829,Lasso,27,,
+1829,Elastic net,27,0.8,
+1829,PCR,2027,,5.0
+1829,Tissue,28,,
+1829,Ridge,2027,,
+1829,Lasso,32,,
+1829,Elastic net,33,0.2,
+1829,PCR,2027,,20.0
+1829,Tissue,28,,
+1829,Ridge,2027,,
+1829,Lasso,47,,
+1829,Elastic net,47,0.2,
+1829,PCR,2027,,50.0
+1831,Tissue,27,,
+1831,Ridge,2025,,
+1831,Lasso,30,,
+1831,Elastic net,30,0.2,
+1831,PCR,2025,,5.0
+1831,Tissue,27,,
+1831,Ridge,2025,,
+1831,Lasso,30,,
+1831,Elastic net,30,0.2,
+1831,PCR,2025,,1.0
+1831,Tissue,28,,
+1831,Ridge,2027,,
+1831,Lasso,60,,
+1831,Elastic net,60,0.2,
+1831,PCR,2027,,5.0
+1831,Tissue,28,,
+1831,Ridge,2027,,
+1831,Lasso,30,,
+1831,Elastic net,30,0.2,
+1831,PCR,2027,,10.0
+1831,Tissue,28,,
+1831,Ridge,2027,,
+1831,Lasso,29,,
+1831,Elastic net,29,0.8,
+1831,PCR,2027,,10.0
+1833,Tissue,27,,
+1833,Ridge,2025,,
+1833,Lasso,70,,
+1833,Elastic net,72,0.2,
+1833,PCR,2025,,50.0
+1833,Tissue,27,,
+1833,Ridge,2025,,
+1833,Lasso,39,,
+1833,Elastic net,39,0.8,
+1833,PCR,2025,,20.0
+1833,Tissue,28,,
+1833,Ridge,2027,,
+1833,Lasso,49,,
+1833,Elastic net,49,0.8,
+1833,PCR,2027,,50.0
+1833,Tissue,28,,
+1833,Ridge,2027,,
+1833,Lasso,64,,
+1833,Elastic net,64,0.8,
+1833,PCR,2027,,100.0
+1833,Tissue,28,,
+1833,Ridge,2027,,
+1833,Lasso,36,,
+1833,Elastic net,37,0.8,
+1833,PCR,2027,,100.0
+1835,Tissue,27,,
+1835,Ridge,2025,,
+1835,Lasso,49,,
+1835,Elastic net,49,0.8,
+1835,PCR,2025,,50.0
+1835,Tissue,27,,
+1835,Ridge,2025,,
+1835,Lasso,34,,
+1835,Elastic net,34,0.8,
+1835,PCR,2025,,1.0
+1835,Tissue,28,,
+1835,Ridge,2027,,
+1835,Lasso,58,,
+1835,Elastic net,59,0.2,
+1835,PCR,2027,,50.0
+1835,Tissue,28,,
+1835,Ridge,2027,,
+1835,Lasso,46,,
+1835,Elastic net,38,0.2,
+1835,PCR,2027,,100.0
+1835,Tissue,28,,
+1835,Ridge,2027,,
+1835,Lasso,34,,
+1835,Elastic net,34,0.8,
+1835,PCR,2027,,50.0
+1838,Tissue,27,,
+1838,Ridge,2025,,
+1838,Lasso,17,,
+1838,Elastic net,17,0.2,
+1838,PCR,2025,,20.0
+1838,Tissue,27,,
+1838,Ridge,2025,,
+1838,Lasso,10,,
+1838,Elastic net,10,0.2,
+1838,PCR,2025,,2.0
+1838,Tissue,28,,
+1838,Ridge,2027,,
+1838,Lasso,9,,
+1838,Elastic net,9,0.2,
+1838,PCR,2027,,5.0
+1838,Tissue,28,,
+1838,Ridge,2027,,
+1838,Lasso,11,,
+1838,Elastic net,12,0.2,
+1838,PCR,2027,,2.0
+1838,Tissue,28,,
+1838,Ridge,2027,,
+1838,Lasso,11,,
+1838,Elastic net,11,0.2,
+1838,PCR,2026,,2.0
+1840,Tissue,27,,
+1840,Ridge,2025,,
+1840,Lasso,76,,
+1840,Elastic net,76,0.8,
+1840,PCR,2025,,10.0
+1840,Tissue,27,,
+1840,Ridge,2025,,
+1840,Lasso,52,,
+1840,Elastic net,52,0.8,
+1840,PCR,2025,,10.0
+1840,Tissue,28,,
+1840,Ridge,2027,,
+1840,Lasso,74,,
+1840,Elastic net,76,0.2,
+1840,PCR,2027,,50.0
+1840,Tissue,28,,
+1840,Ridge,2027,,
+1840,Lasso,34,,
+1840,Elastic net,34,0.8,
+1840,PCR,2027,,20.0
+1840,Tissue,28,,
+1840,Ridge,2027,,
+1840,Lasso,100,,
+1840,Elastic net,102,0.2,
+1840,PCR,2027,,10.0
+1844,Tissue,27,,
+1844,Ridge,2025,,
+1844,Lasso,42,,
+1844,Elastic net,42,0.8,
+1844,PCR,2025,,10.0
+1844,Tissue,27,,
+1844,Ridge,2025,,
+1844,Lasso,35,,
+1844,Elastic net,35,0.8,
+1844,PCR,2025,,10.0
+1844,Tissue,28,,
+1844,Ridge,2027,,
+1844,Lasso,82,,
+1844,Elastic net,83,0.2,
+1844,PCR,2027,,100.0
+1844,Tissue,28,,
+1844,Ridge,2027,,
+1844,Lasso,53,,
+1844,Elastic net,53,0.2,
+1844,PCR,2027,,50.0
+1844,Tissue,28,,
+1844,Ridge,2027,,
+1844,Lasso,19,,
+1844,Elastic net,19,0.2,
+1844,PCR,2027,,10.0
+1847,Tissue,27,,
+1847,Ridge,2025,,
+1847,Lasso,85,,
+1847,Elastic net,103,0.2,
+1847,PCR,2025,,200.0
+1847,Tissue,27,,
+1847,Ridge,2025,,
+1847,Lasso,75,,
+1847,Elastic net,75,0.8,
+1847,PCR,2025,,200.0
+1847,Tissue,28,,
+1847,Ridge,2027,,
+1847,Lasso,62,,
+1847,Elastic net,86,0.2,
+1847,PCR,2027,,200.0
+1847,Tissue,28,,
+1847,Ridge,2027,,
+1847,Lasso,50,,
+1847,Elastic net,50,0.8,
+1847,PCR,2027,,50.0
+1847,Tissue,28,,
+1847,Ridge,2027,,
+1847,Lasso,56,,
+1847,Elastic net,56,0.8,
+1847,PCR,2027,,100.0
+1852,Tissue,27,,
+1852,Ridge,2026,,
+1852,Lasso,8,,
+1852,Elastic net,8,0.2,
+1852,PCR,2026,,10.0
+1852,Tissue,27,,
+1852,Ridge,2027,,
+1852,Lasso,6,,
+1852,Elastic net,6,0.2,
+1852,PCR,2027,,10.0
+1852,Tissue,28,,
+1852,Ridge,2028,,
+1852,Lasso,16,,
+1852,Elastic net,16,0.2,
+1852,PCR,2028,,1.0
+1852,Tissue,28,,
+1852,Ridge,2028,,
+1852,Lasso,18,,
+1852,Elastic net,18,0.2,
+1852,PCR,2028,,1.0
+1852,Tissue,28,,
+1852,Ridge,2028,,
+1852,Lasso,42,,
+1852,Elastic net,42,0.2,
+1852,PCR,2028,,20.0
+1854,Tissue,27,,
+1854,Ridge,2026,,
+1854,Lasso,20,,
+1854,Elastic net,20,0.2,
+1854,PCR,2026,,20.0
+1854,Tissue,27,,
+1854,Ridge,2027,,
+1854,Lasso,38,,
+1854,Elastic net,38,0.2,
+1854,PCR,2027,,20.0
+1854,Tissue,28,,
+1854,Ridge,2028,,
+1854,Lasso,49,,
+1854,Elastic net,49,0.2,
+1854,PCR,2028,,20.0
+1854,Tissue,28,,
+1854,Ridge,2028,,
+1854,Lasso,37,,
+1854,Elastic net,37,0.2,
+1854,PCR,2028,,20.0
+1854,Tissue,28,,
+1854,Ridge,2028,,
+1854,Lasso,45,,
+1854,Elastic net,45,0.2,
+1854,PCR,2028,,20.0
+1862,Tissue,27,,
+1862,Ridge,2027,,
+1862,Lasso,98,,
+1862,Elastic net,102,0.2,
+1862,PCR,2027,,50.0
+1862,Tissue,27,,
+1862,Ridge,2027,,
+1862,Lasso,166,,
+1862,Elastic net,170,0.2,
+1862,PCR,2027,,100.0
+1862,Tissue,28,,
+1862,Ridge,2028,,
+1862,Lasso,94,,
+1862,Elastic net,97,0.2,
+1862,PCR,2028,,100.0
+1862,Tissue,28,,
+1862,Ridge,2028,,
+1862,Lasso,103,,
+1862,Elastic net,105,0.2,
+1862,PCR,2028,,100.0
+1862,Tissue,28,,
+1862,Ridge,2028,,
+1862,Lasso,38,,
+1862,Elastic net,38,0.2,
+1862,PCR,2028,,100.0
+1873,Tissue,27,,
+1873,Ridge,2027,,
+1873,Lasso,71,,
+1873,Elastic net,73,0.2,
+1873,PCR,2027,,20.0
+1873,Tissue,27,,
+1873,Ridge,2027,,
+1873,Lasso,35,,
+1873,Elastic net,37,0.2,
+1873,PCR,2027,,50.0
+1873,Tissue,28,,
+1873,Ridge,2028,,
+1873,Lasso,40,,
+1873,Elastic net,43,0.2,
+1873,PCR,2028,,100.0
+1873,Tissue,28,,
+1873,Ridge,2028,,
+1873,Lasso,38,,
+1873,Elastic net,57,0.2,
+1873,PCR,2028,,50.0
+1873,Tissue,28,,
+1873,Ridge,2028,,
+1873,Lasso,63,,
+1873,Elastic net,63,0.2,
+1873,PCR,2028,,50.0
+1909,Tissue,27,,
+1909,Ridge,2027,,
+1909,Lasso,105,,
+1909,Elastic net,108,0.2,
+1909,PCR,2027,,200.0
+1909,Tissue,27,,
+1909,Ridge,2027,,
+1909,Lasso,51,,
+1909,Elastic net,51,0.8,
+1909,PCR,2027,,200.0
+1909,Tissue,28,,
+1909,Ridge,2028,,
+1909,Lasso,76,,
+1909,Elastic net,77,0.8,
+1909,PCR,2028,,50.0
+1909,Tissue,28,,
+1909,Ridge,2028,,
+1909,Lasso,67,,
+1909,Elastic net,67,0.8,
+1909,PCR,2028,,50.0
+1909,Tissue,28,,
+1909,Ridge,2028,,
+1909,Lasso,59,,
+1909,Elastic net,61,0.2,
+1909,PCR,2028,,100.0
+1911,Tissue,27,,
+1911,Ridge,2027,,
+1911,Lasso,188,,
+1911,Elastic net,197,0.2,
+1911,PCR,2027,,100.0
+1911,Tissue,27,,
+1911,Ridge,2027,,
+1911,Lasso,181,,
+1911,Elastic net,184,0.2,
+1911,PCR,2027,,100.0
+1911,Tissue,28,,
+1911,Ridge,2028,,
+1911,Lasso,150,,
+1911,Elastic net,158,0.2,
+1911,PCR,2028,,50.0
+1911,Tissue,28,,
+1911,Ridge,2028,,
+1911,Lasso,84,,
+1911,Elastic net,110,0.2,
+1911,PCR,2028,,100.0
+1911,Tissue,28,,
+1911,Ridge,2028,,
+1911,Lasso,135,,
+1911,Elastic net,164,0.2,
+1911,PCR,2028,,100.0
+1913,Tissue,27,,
+1913,Ridge,2027,,
+1913,Lasso,33,,
+1913,Elastic net,33,0.2,
+1913,PCR,2027,,10.0
+1913,Tissue,27,,
+1913,Ridge,2027,,
+1913,Lasso,37,,
+1913,Elastic net,41,0.2,
+1913,PCR,2027,,20.0
+1913,Tissue,28,,
+1913,Ridge,2028,,
+1913,Lasso,18,,
+1913,Elastic net,18,0.2,
+1913,PCR,2028,,20.0
+1913,Tissue,28,,
+1913,Ridge,2028,,
+1913,Lasso,21,,
+1913,Elastic net,21,0.2,
+1913,PCR,2028,,1.0
+1913,Tissue,28,,
+1913,Ridge,2028,,
+1913,Lasso,22,,
+1913,Elastic net,23,0.2,
+1913,PCR,2028,,20.0
+1916,Tissue,27,,
+1916,Ridge,2027,,
+1916,Lasso,162,,
+1916,Elastic net,164,0.2,
+1916,PCR,2027,,100.0
+1916,Tissue,27,,
+1916,Ridge,2027,,
+1916,Lasso,101,,
+1916,Elastic net,105,0.2,
+1916,PCR,2027,,100.0
+1916,Tissue,28,,
+1916,Ridge,2028,,
+1916,Lasso,142,,
+1916,Elastic net,143,0.2,
+1916,PCR,2028,,200.0
+1916,Tissue,28,,
+1916,Ridge,2028,,
+1916,Lasso,77,,
+1916,Elastic net,78,0.2,
+1916,PCR,2028,,100.0
+1916,Tissue,28,,
+1916,Ridge,2028,,
+1916,Lasso,136,,
+1916,Elastic net,139,0.2,
+1916,PCR,2028,,100.0
+1918,Tissue,27,,
+1918,Ridge,2027,,
+1918,Lasso,80,,
+1918,Elastic net,82,0.2,
+1918,PCR,2027,,100.0
+1918,Tissue,27,,
+1918,Ridge,2027,,
+1918,Lasso,50,,
+1918,Elastic net,50,0.8,
+1918,PCR,2027,,20.0
+1918,Tissue,28,,
+1918,Ridge,2028,,
+1918,Lasso,79,,
+1918,Elastic net,86,0.2,
+1918,PCR,2028,,20.0
+1918,Tissue,28,,
+1918,Ridge,2028,,
+1918,Lasso,56,,
+1918,Elastic net,57,0.2,
+1918,PCR,2028,,100.0
+1918,Tissue,28,,
+1918,Ridge,2028,,
+1918,Lasso,78,,
+1918,Elastic net,84,0.2,
+1918,PCR,2028,,20.0
+1922,Tissue,27,,
+1922,Ridge,2027,,
+1922,Lasso,49,,
+1922,Elastic net,49,0.8,
+1922,PCR,2027,,50.0
+1922,Tissue,27,,
+1922,Ridge,2027,,
+1922,Lasso,13,,
+1922,Elastic net,13,0.8,
+1922,PCR,2027,,50.0
+1922,Tissue,28,,
+1922,Ridge,2028,,
+1922,Lasso,40,,
+1922,Elastic net,40,0.8,
+1922,PCR,2028,,100.0
+1922,Tissue,28,,
+1922,Ridge,2028,,
+1922,Lasso,53,,
+1922,Elastic net,54,0.2,
+1922,PCR,2028,,50.0
+1922,Tissue,28,,
+1922,Ridge,2028,,
+1922,Lasso,23,,
+1922,Elastic net,23,0.8,
+1922,PCR,2028,,50.0
+1925,Tissue,27,,
+1925,Ridge,2027,,
+1925,Lasso,22,,
+1925,Elastic net,22,0.2,
+1925,PCR,2027,,10.0
+1925,Tissue,27,,
+1925,Ridge,2027,,
+1925,Lasso,6,,
+1925,Elastic net,6,0.8,
+1925,PCR,2027,,10.0
+1925,Tissue,28,,
+1925,Ridge,2028,,
+1925,Lasso,6,,
+1925,Elastic net,6,0.2,
+1925,PCR,2028,,5.0
+1925,Tissue,28,,
+1925,Ridge,2028,,
+1925,Lasso,26,,
+1925,Elastic net,27,0.2,
+1925,PCR,2028,,20.0
+1925,Tissue,28,,
+1925,Ridge,2028,,
+1925,Lasso,7,,
+1925,Elastic net,7,0.2,
+1925,PCR,2028,,5.0
+1927,Tissue,27,,
+1927,Ridge,2027,,
+1927,Lasso,15,,
+1927,Elastic net,16,0.2,
+1927,PCR,2027,,2.0
+1927,Tissue,27,,
+1927,Ridge,2027,,
+1927,Lasso,21,,
+1927,Elastic net,28,0.2,
+1927,PCR,2027,,20.0
+1927,Tissue,28,,
+1927,Ridge,2028,,
+1927,Lasso,26,,
+1927,Elastic net,26,0.8,
+1927,PCR,2028,,5.0
+1927,Tissue,28,,
+1927,Ridge,2028,,
+1927,Lasso,28,,
+1927,Elastic net,28,0.2,
+1927,PCR,2028,,2.0
+1927,Tissue,28,,
+1927,Ridge,2028,,
+1927,Lasso,16,,
+1927,Elastic net,16,0.2,
+1927,PCR,2028,,10.0
+1930,Tissue,27,,
+1930,Ridge,2027,,
+1930,Lasso,77,,
+1930,Elastic net,81,0.2,
+1930,PCR,2027,,50.0
+1930,Tissue,27,,
+1930,Ridge,2027,,
+1930,Lasso,86,,
+1930,Elastic net,87,0.2,
+1930,PCR,2027,,100.0
+1930,Tissue,28,,
+1930,Ridge,2028,,
+1930,Lasso,144,,
+1930,Elastic net,146,0.2,
+1930,PCR,2028,,100.0
+1930,Tissue,28,,
+1930,Ridge,2028,,
+1930,Lasso,130,,
+1930,Elastic net,135,0.2,
+1930,PCR,2028,,50.0
+1930,Tissue,28,,
+1930,Ridge,2028,,
+1930,Lasso,70,,
+1930,Elastic net,71,0.2,
+1930,PCR,2028,,50.0
+1932,Tissue,27,,
+1932,Ridge,2027,,
+1932,Lasso,46,,
+1932,Elastic net,46,0.8,
+1932,PCR,2027,,100.0
+1932,Tissue,27,,
+1932,Ridge,2027,,
+1932,Lasso,92,,
+1932,Elastic net,95,0.2,
+1932,PCR,2027,,50.0
+1932,Tissue,28,,
+1932,Ridge,2028,,
+1932,Lasso,127,,
+1932,Elastic net,130,0.2,
+1932,PCR,2028,,200.0
+1932,Tissue,28,,
+1932,Ridge,2028,,
+1932,Lasso,137,,
+1932,Elastic net,139,0.2,
+1932,PCR,2028,,100.0
+1932,Tissue,28,,
+1932,Ridge,2028,,
+1932,Lasso,53,,
+1932,Elastic net,54,0.8,
+1932,PCR,2028,,100.0
+1936,Tissue,27,,
+1936,Ridge,2027,,
+1936,Lasso,124,,
+1936,Elastic net,126,0.2,
+1936,PCR,2027,,20.0
+1936,Tissue,27,,
+1936,Ridge,2027,,
+1936,Lasso,52,,
+1936,Elastic net,54,0.2,
+1936,PCR,2027,,20.0
+1936,Tissue,28,,
+1936,Ridge,2028,,
+1936,Lasso,86,,
+1936,Elastic net,87,0.2,
+1936,PCR,2028,,20.0
+1936,Tissue,28,,
+1936,Ridge,2028,,
+1936,Lasso,16,,
+1936,Elastic net,16,0.2,
+1936,PCR,2028,,1.0
+1936,Tissue,28,,
+1936,Ridge,2028,,
+1936,Lasso,96,,
+1936,Elastic net,98,0.2,
+1936,PCR,2028,,20.0
+1940,Tissue,27,,
+1940,Ridge,2027,,
+1940,Lasso,58,,
+1940,Elastic net,59,0.2,
+1940,PCR,2027,,100.0
+1940,Tissue,27,,
+1940,Ridge,2027,,
+1940,Lasso,65,,
+1940,Elastic net,65,0.2,
+1940,PCR,2027,,20.0
+1940,Tissue,28,,
+1940,Ridge,2028,,
+1940,Lasso,63,,
+1940,Elastic net,65,0.2,
+1940,PCR,2028,,50.0
+1940,Tissue,28,,
+1940,Ridge,2028,,
+1940,Lasso,105,,
+1940,Elastic net,106,0.2,
+1940,PCR,2028,,100.0
+1940,Tissue,28,,
+1940,Ridge,2028,,
+1940,Lasso,31,,
+1940,Elastic net,32,0.2,
+1940,PCR,2028,,50.0
+1996,Tissue,27,,
+1996,Ridge,2025,,
+1996,Lasso,27,,
+1996,Elastic net,28,0.2,
+1996,PCR,2025,,10.0
+1996,Tissue,27,,
+1996,Ridge,2025,,
+1996,Lasso,26,,
+1996,Elastic net,26,0.2,
+1996,PCR,2025,,5.0
+1996,Tissue,28,,
+1996,Ridge,2026,,
+1996,Lasso,36,,
+1996,Elastic net,37,0.2,
+1996,PCR,2026,,20.0
+1996,Tissue,28,,
+1996,Ridge,2026,,
+1996,Lasso,17,,
+1996,Elastic net,17,0.2,
+1996,PCR,2026,,2.0
+1996,Tissue,28,,
+1996,Ridge,2026,,
+1996,Lasso,68,,
+1996,Elastic net,68,0.2,
+1996,PCR,2026,,20.0
+1998,Tissue,27,,
+1998,Ridge,2025,,
+1998,Lasso,25,,
+1998,Elastic net,25,0.2,
+1998,PCR,2025,,50.0
+1998,Tissue,27,,
+1998,Ridge,2025,,
+1998,Lasso,20,,
+1998,Elastic net,20,0.2,
+1998,PCR,2025,,10.0
+1998,Tissue,28,,
+1998,Ridge,2026,,
+1998,Lasso,20,,
+1998,Elastic net,20,0.2,
+1998,PCR,2026,,50.0
+1998,Tissue,28,,
+1998,Ridge,2026,,
+1998,Lasso,37,,
+1998,Elastic net,37,0.2,
+1998,PCR,2026,,50.0
+1998,Tissue,28,,
+1998,Ridge,2026,,
+1998,Lasso,45,,
+1998,Elastic net,45,0.2,
+1998,PCR,2026,,50.0
+2000,Tissue,27,,
+2000,Ridge,2025,,
+2000,Lasso,30,,
+2000,Elastic net,30,0.2,
+2000,PCR,2025,,20.0
+2000,Tissue,27,,
+2000,Ridge,2025,,
+2000,Lasso,13,,
+2000,Elastic net,13,0.2,
+2000,PCR,2025,,10.0
+2000,Tissue,28,,
+2000,Ridge,2026,,
+2000,Lasso,0,,
+2000,Elastic net,0,0.2,
+2000,PCR,2025,,1.0
+2000,Tissue,28,,
+2000,Ridge,2026,,
+2000,Lasso,4,,
+2000,Elastic net,4,0.8,
+2000,PCR,2026,,20.0
+2000,Tissue,28,,
+2000,Ridge,2026,,
+2000,Lasso,0,,
+2000,Elastic net,0,0.2,
+2000,PCR,2026,,10.0
+2003,Tissue,27,,
+2003,Ridge,2025,,
+2003,Lasso,15,,
+2003,Elastic net,15,0.2,
+2003,PCR,2025,,20.0
+2003,Tissue,27,,
+2003,Ridge,2025,,
+2003,Lasso,6,,
+2003,Elastic net,6,0.8,
+2003,PCR,2025,,10.0
+2003,Tissue,28,,
+2003,Ridge,2026,,
+2003,Lasso,12,,
+2003,Elastic net,13,0.2,
+2003,PCR,2026,,5.0
+2003,Tissue,28,,
+2003,Ridge,2026,,
+2003,Lasso,14,,
+2003,Elastic net,14,0.2,
+2003,PCR,2026,,10.0
+2003,Tissue,28,,
+2003,Ridge,2026,,
+2003,Lasso,16,,
+2003,Elastic net,16,0.2,
+2003,PCR,2026,,5.0
+2011,Tissue,27,,
+2011,Ridge,2025,,
+2011,Lasso,30,,
+2011,Elastic net,30,0.2,
+2011,PCR,2025,,2.0
+2011,Tissue,27,,
+2011,Ridge,2025,,
+2011,Lasso,36,,
+2011,Elastic net,37,0.2,
+2011,PCR,2025,,2.0
+2011,Tissue,28,,
+2011,Ridge,2026,,
+2011,Lasso,15,,
+2011,Elastic net,15,0.2,
+2011,PCR,2026,,1.0
+2011,Tissue,28,,
+2011,Ridge,2026,,
+2011,Lasso,16,,
+2011,Elastic net,18,0.2,
+2011,PCR,2026,,2.0
+2011,Tissue,28,,
+2011,Ridge,2026,,
+2011,Lasso,22,,
+2011,Elastic net,22,0.8,
+2011,PCR,2026,,50.0
+2038,Tissue,27,,
+2038,Ridge,2025,,
+2038,Lasso,36,,
+2038,Elastic net,36,0.2,
+2038,PCR,2025,,2.0
+2038,Tissue,27,,
+2038,Ridge,2025,,
+2038,Lasso,47,,
+2038,Elastic net,49,0.2,
+2038,PCR,2025,,5.0
+2038,Tissue,28,,
+2038,Ridge,2026,,
+2038,Lasso,23,,
+2038,Elastic net,23,0.8,
+2038,PCR,2026,,5.0
+2038,Tissue,28,,
+2038,Ridge,2026,,
+2038,Lasso,23,,
+2038,Elastic net,24,0.2,
+2038,PCR,2026,,5.0
+2038,Tissue,28,,
+2038,Ridge,2026,,
+2038,Lasso,27,,
+2038,Elastic net,27,0.2,
+2038,PCR,2026,,5.0
+2040,Tissue,27,,
+2040,Ridge,2027,,
+2040,Lasso,152,,
+2040,Elastic net,156,0.2,
+2040,PCR,2027,,20.0
+2040,Tissue,27,,
+2040,Ridge,2027,,
+2040,Lasso,60,,
+2040,Elastic net,61,0.2,
+2040,PCR,2027,,20.0
+2040,Tissue,28,,
+2040,Ridge,2028,,
+2040,Lasso,78,,
+2040,Elastic net,81,0.2,
+2040,PCR,2028,,20.0
+2040,Tissue,28,,
+2040,Ridge,2028,,
+2040,Lasso,88,,
+2040,Elastic net,89,0.2,
+2040,PCR,2028,,50.0
+2040,Tissue,28,,
+2040,Ridge,2028,,
+2040,Lasso,88,,
+2040,Elastic net,92,0.2,
+2040,PCR,2028,,10.0
+2044,Tissue,27,,
+2044,Ridge,2027,,
+2044,Lasso,38,,
+2044,Elastic net,37,0.2,
+2044,PCR,2027,,20.0
+2044,Tissue,27,,
+2044,Ridge,2027,,
+2044,Lasso,26,,
+2044,Elastic net,28,0.2,
+2044,PCR,2027,,50.0
+2044,Tissue,28,,
+2044,Ridge,2028,,
+2044,Lasso,45,,
+2044,Elastic net,45,0.2,
+2044,PCR,2028,,50.0
+2044,Tissue,28,,
+2044,Ridge,2028,,
+2044,Lasso,35,,
+2044,Elastic net,35,0.2,
+2044,PCR,2028,,5.0
+2044,Tissue,28,,
+2044,Ridge,2028,,
+2044,Lasso,37,,
+2044,Elastic net,38,0.2,
+2044,PCR,2028,,100.0
+2046,Tissue,27,,
+2046,Ridge,2027,,
+2046,Lasso,41,,
+2046,Elastic net,42,0.2,
+2046,PCR,2027,,10.0
+2046,Tissue,27,,
+2046,Ridge,2027,,
+2046,Lasso,89,,
+2046,Elastic net,92,0.2,
+2046,PCR,2027,,20.0
+2046,Tissue,28,,
+2046,Ridge,2028,,
+2046,Lasso,99,,
+2046,Elastic net,100,0.2,
+2046,PCR,2028,,20.0
+2046,Tissue,28,,
+2046,Ridge,2028,,
+2046,Lasso,46,,
+2046,Elastic net,47,0.2,
+2046,PCR,2028,,20.0
+2046,Tissue,28,,
+2046,Ridge,2028,,
+2046,Lasso,65,,
+2046,Elastic net,65,0.2,
+2046,PCR,2028,,100.0
+2048,Tissue,27,,
+2048,Ridge,2027,,
+2048,Lasso,200,,
+2048,Elastic net,203,0.2,
+2048,PCR,2027,,100.0
+2048,Tissue,27,,
+2048,Ridge,2027,,
+2048,Lasso,181,,
+2048,Elastic net,183,0.2,
+2048,PCR,2027,,100.0
+2048,Tissue,28,,
+2048,Ridge,2028,,
+2048,Lasso,151,,
+2048,Elastic net,152,0.2,
+2048,PCR,2028,,50.0
+2048,Tissue,28,,
+2048,Ridge,2028,,
+2048,Lasso,155,,
+2048,Elastic net,161,0.2,
+2048,PCR,2028,,100.0
+2048,Tissue,28,,
+2048,Ridge,2028,,
+2048,Lasso,162,,
+2048,Elastic net,162,0.2,
+2048,PCR,2028,,100.0
+2057,Tissue,27,,
+2057,Ridge,2023,,
+2057,Lasso,37,,
+2057,Elastic net,38,0.2,
+2057,PCR,2023,,5.0
+2057,Tissue,27,,
+2057,Ridge,2024,,
+2057,Lasso,21,,
+2057,Elastic net,22,0.2,
+2057,PCR,2024,,10.0
+2057,Tissue,28,,
+2057,Ridge,2024,,
+2057,Lasso,25,,
+2057,Elastic net,25,0.2,
+2057,PCR,2024,,5.0
+2057,Tissue,28,,
+2057,Ridge,2023,,
+2057,Lasso,52,,
+2057,Elastic net,53,0.2,
+2057,PCR,2023,,5.0
+2057,Tissue,28,,
+2057,Ridge,2024,,
+2057,Lasso,31,,
+2057,Elastic net,34,0.2,
+2057,PCR,2024,,10.0
+2106,Tissue,27,,
+2106,Ridge,2025,,
+2106,Lasso,83,,
+2106,Elastic net,113,0.2,
+2106,PCR,2025,,100.0
+2106,Tissue,27,,
+2106,Ridge,2025,,
+2106,Lasso,100,,
+2106,Elastic net,130,0.2,
+2106,PCR,2025,,100.0
+2106,Tissue,28,,
+2106,Ridge,2026,,
+2106,Lasso,140,,
+2106,Elastic net,143,0.2,
+2106,PCR,2026,,100.0
+2106,Tissue,28,,
+2106,Ridge,2026,,
+2106,Lasso,68,,
+2106,Elastic net,100,0.2,
+2106,PCR,2026,,100.0
+2106,Tissue,28,,
+2106,Ridge,2026,,
+2106,Lasso,129,,
+2106,Elastic net,132,0.2,
+2106,PCR,2026,,100.0
+2109,Tissue,27,,
+2109,Ridge,2027,,
+2109,Lasso,95,,
+2109,Elastic net,97,0.2,
+2109,PCR,2027,,100.0
+2109,Tissue,27,,
+2109,Ridge,2027,,
+2109,Lasso,29,,
+2109,Elastic net,29,0.2,
+2109,PCR,2027,,50.0
+2109,Tissue,28,,
+2109,Ridge,2028,,
+2109,Lasso,64,,
+2109,Elastic net,64,0.2,
+2109,PCR,2028,,50.0
+2109,Tissue,28,,
+2109,Ridge,2028,,
+2109,Lasso,28,,
+2109,Elastic net,28,0.2,
+2109,PCR,2028,,50.0
+2109,Tissue,28,,
+2109,Ridge,2028,,
+2109,Lasso,27,,
+2109,Elastic net,27,0.2,
+2109,PCR,2028,,50.0
+2111,Tissue,27,,
+2111,Ridge,2026,,
+2111,Lasso,24,,
+2111,Elastic net,34,0.2,
+2111,PCR,2026,,100.0
+2111,Tissue,27,,
+2111,Ridge,2027,,
+2111,Lasso,57,,
+2111,Elastic net,59,0.2,
+2111,PCR,2027,,50.0
+2111,Tissue,28,,
+2111,Ridge,2028,,
+2111,Lasso,51,,
+2111,Elastic net,52,0.2,
+2111,PCR,2028,,10.0
+2111,Tissue,28,,
+2111,Ridge,2028,,
+2111,Lasso,38,,
+2111,Elastic net,39,0.2,
+2111,PCR,2028,,20.0
+2111,Tissue,28,,
+2111,Ridge,2028,,
+2111,Lasso,25,,
+2111,Elastic net,25,0.2,
+2111,PCR,2028,,10.0
+2113,Tissue,27,,
+2113,Ridge,2025,,
+2113,Lasso,32,,
+2113,Elastic net,32,0.2,
+2113,PCR,2025,,5.0
+2113,Tissue,27,,
+2113,Ridge,2025,,
+2113,Lasso,88,,
+2113,Elastic net,88,0.2,
+2113,PCR,2025,,10.0
+2113,Tissue,28,,
+2113,Ridge,2026,,
+2113,Lasso,54,,
+2113,Elastic net,54,0.2,
+2113,PCR,2026,,1.0
+2113,Tissue,28,,
+2113,Ridge,2026,,
+2113,Lasso,36,,
+2113,Elastic net,36,0.2,
+2113,PCR,2026,,1.0
+2113,Tissue,28,,
+2113,Ridge,2026,,
+2113,Lasso,59,,
+2113,Elastic net,59,0.2,
+2113,PCR,2026,,10.0
+2148,Tissue,27,,
+2148,Ridge,2025,,
+2148,Lasso,80,,
+2148,Elastic net,82,0.2,
+2148,PCR,2025,,50.0
+2148,Tissue,27,,
+2148,Ridge,2025,,
+2148,Lasso,81,,
+2148,Elastic net,88,0.2,
+2148,PCR,2025,,100.0
+2148,Tissue,28,,
+2148,Ridge,2026,,
+2148,Lasso,68,,
+2148,Elastic net,70,0.2,
+2148,PCR,2026,,20.0
+2148,Tissue,28,,
+2148,Ridge,2026,,
+2148,Lasso,58,,
+2148,Elastic net,65,0.2,
+2148,PCR,2026,,100.0
+2148,Tissue,28,,
+2148,Ridge,2026,,
+2148,Lasso,52,,
+2148,Elastic net,59,0.2,
+2148,PCR,2026,,20.0
+2154,Tissue,27,,
+2154,Ridge,2025,,
+2154,Lasso,91,,
+2154,Elastic net,91,0.2,
+2154,PCR,2025,,50.0
+2154,Tissue,27,,
+2154,Ridge,2025,,
+2154,Lasso,87,,
+2154,Elastic net,88,0.2,
+2154,PCR,2025,,50.0
+2154,Tissue,28,,
+2154,Ridge,2026,,
+2154,Lasso,20,,
+2154,Elastic net,20,0.2,
+2154,PCR,2026,,100.0
+2154,Tissue,28,,
+2154,Ridge,2026,,
+2154,Lasso,19,,
+2154,Elastic net,19,0.2,
+2154,PCR,2026,,20.0
+2154,Tissue,28,,
+2154,Ridge,2026,,
+2154,Lasso,27,,
+2154,Elastic net,27,0.2,
+2154,PCR,2026,,5.0
+2157,Tissue,27,,
+2157,Ridge,2025,,
+2157,Lasso,0,,
+2157,Elastic net,0,0.2,
+2157,PCR,2025,,1.0
+2157,Tissue,27,,
+2157,Ridge,2025,,
+2157,Lasso,5,,
+2157,Elastic net,5,0.2,
+2157,PCR,2025,,1.0
+2157,Tissue,28,,
+2157,Ridge,2026,,
+2157,Lasso,8,,
+2157,Elastic net,9,0.2,
+2157,PCR,2026,,2.0
+2157,Tissue,28,,
+2157,Ridge,2026,,
+2157,Lasso,4,,
+2157,Elastic net,4,0.8,
+2157,PCR,2025,,1.0
+2157,Tissue,28,,
+2157,Ridge,2026,,
+2157,Lasso,5,,
+2157,Elastic net,5,0.2,
+2157,PCR,2026,,2.0
+2159,Tissue,27,,
+2159,Ridge,2025,,
+2159,Lasso,33,,
+2159,Elastic net,36,0.2,
+2159,PCR,2025,,10.0
+2159,Tissue,27,,
+2159,Ridge,2025,,
+2159,Lasso,41,,
+2159,Elastic net,43,0.2,
+2159,PCR,2025,,10.0
+2159,Tissue,28,,
+2159,Ridge,2026,,
+2159,Lasso,95,,
+2159,Elastic net,96,0.2,
+2159,PCR,2026,,2.0
+2159,Tissue,28,,
+2159,Ridge,2026,,
+2159,Lasso,44,,
+2159,Elastic net,45,0.2,
+2159,PCR,2026,,10.0
+2159,Tissue,28,,
+2159,Ridge,2026,,
+2159,Lasso,62,,
+2159,Elastic net,64,0.2,
+2159,PCR,2026,,10.0
+2171,Tissue,27,,
+2171,Ridge,2027,,
+2171,Lasso,83,,
+2171,Elastic net,84,0.2,
+2171,PCR,2027,,20.0
+2171,Tissue,27,,
+2171,Ridge,2027,,
+2171,Lasso,148,,
+2171,Elastic net,157,0.2,
+2171,PCR,2027,,100.0
+2171,Tissue,28,,
+2171,Ridge,2028,,
+2171,Lasso,98,,
+2171,Elastic net,104,0.2,
+2171,PCR,2028,,200.0
+2171,Tissue,28,,
+2171,Ridge,2028,,
+2171,Lasso,127,,
+2171,Elastic net,130,0.2,
+2171,PCR,2028,,20.0
+2171,Tissue,28,,
+2171,Ridge,2028,,
+2171,Lasso,98,,
+2171,Elastic net,98,0.2,
+2171,PCR,2028,,50.0
+2173,Tissue,27,,
+2173,Ridge,2027,,
+2173,Lasso,63,,
+2173,Elastic net,63,0.2,
+2173,PCR,2027,,20.0
+2173,Tissue,27,,
+2173,Ridge,2027,,
+2173,Lasso,14,,
+2173,Elastic net,14,0.8,
+2173,PCR,2027,,20.0
+2173,Tissue,28,,
+2173,Ridge,2028,,
+2173,Lasso,25,,
+2173,Elastic net,26,0.2,
+2173,PCR,2028,,20.0
+2173,Tissue,28,,
+2173,Ridge,2028,,
+2173,Lasso,46,,
+2173,Elastic net,46,0.2,
+2173,PCR,2028,,50.0
+2173,Tissue,28,,
+2173,Ridge,2028,,
+2173,Lasso,18,,
+2173,Elastic net,24,0.2,
+2173,PCR,2028,,5.0
+2359,Tissue,27,,
+2359,Ridge,2025,,
+2359,Lasso,60,,
+2359,Elastic net,60,0.2,
+2359,PCR,2025,,20.0
+2359,Tissue,27,,
+2359,Ridge,2025,,
+2359,Lasso,39,,
+2359,Elastic net,40,0.2,
+2359,PCR,2025,,1.0
+2359,Tissue,28,,
+2359,Ridge,2026,,
+2359,Lasso,61,,
+2359,Elastic net,61,0.2,
+2359,PCR,2026,,20.0
+2359,Tissue,28,,
+2359,Ridge,2026,,
+2359,Lasso,55,,
+2359,Elastic net,55,0.2,
+2359,PCR,2026,,20.0
+2359,Tissue,28,,
+2359,Ridge,2026,,
+2359,Lasso,32,,
+2359,Elastic net,32,0.2,
+2359,PCR,2026,,1.0
+2361,Tissue,27,,
+2361,Ridge,2025,,
+2361,Lasso,15,,
+2361,Elastic net,15,0.2,
+2361,PCR,2025,,20.0
+2361,Tissue,27,,
+2361,Ridge,2025,,
+2361,Lasso,16,,
+2361,Elastic net,16,0.8,
+2361,PCR,2025,,20.0
+2361,Tissue,28,,
+2361,Ridge,2026,,
+2361,Lasso,14,,
+2361,Elastic net,14,0.2,
+2361,PCR,2026,,10.0
+2361,Tissue,28,,
+2361,Ridge,2026,,
+2361,Lasso,3,,
+2361,Elastic net,3,0.8,
+2361,PCR,2026,,10.0
+2361,Tissue,28,,
+2361,Ridge,2026,,
+2361,Lasso,2,,
+2361,Elastic net,2,0.8,
+2361,PCR,2026,,10.0
+2438,Tissue,27,,
+2438,Ridge,2025,,
+2438,Lasso,20,,
+2438,Elastic net,20,0.2,
+2438,PCR,2025,,20.0
+2438,Tissue,27,,
+2438,Ridge,2025,,
+2438,Lasso,21,,
+2438,Elastic net,21,0.2,
+2438,PCR,2025,,50.0
+2438,Tissue,28,,
+2438,Ridge,2026,,
+2438,Lasso,14,,
+2438,Elastic net,14,0.2,
+2438,PCR,2026,,20.0
+2438,Tissue,28,,
+2438,Ridge,2026,,
+2438,Lasso,19,,
+2438,Elastic net,19,0.8,
+2438,PCR,2026,,5.0
+2438,Tissue,28,,
+2438,Ridge,2026,,
+2438,Lasso,37,,
+2438,Elastic net,37,0.2,
+2438,PCR,2026,,20.0
+2498,Tissue,27,,
+2498,Ridge,2025,,
+2498,Lasso,35,,
+2498,Elastic net,35,0.2,
+2498,PCR,2025,,1.0
+2498,Tissue,27,,
+2498,Ridge,2025,,
+2498,Lasso,40,,
+2498,Elastic net,40,0.2,
+2498,PCR,2025,,20.0
+2498,Tissue,28,,
+2498,Ridge,2026,,
+2498,Lasso,25,,
+2498,Elastic net,25,0.2,
+2498,PCR,2026,,20.0
+2498,Tissue,28,,
+2498,Ridge,2026,,
+2498,Lasso,17,,
+2498,Elastic net,17,0.2,
+2498,PCR,2026,,20.0
+2498,Tissue,28,,
+2498,Ridge,2026,,
+2498,Lasso,38,,
+2498,Elastic net,38,0.2,
+2498,PCR,2026,,100.0

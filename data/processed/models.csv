@@ -1,0 +1,954 @@
+,model_name,tissue,cancer_type,cancer_type_detail,msi_status,growth_properties,ploidy,mutational_burden,expression_source
+SIDM00003,M14,Skin,Melanoma,Amelanotic Melanoma,MSS,Unknown,2.888202821,36.06666667,Sanger
+SIDM00023,TE-12,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Unknown,2.956427387,9.9,Sanger
+SIDM00040,TMK-1,Stomach,Gastric Carcinoma,Gastric Adenocarcinoma,,Unknown,2.667279364,11.43333333,Sanger
+SIDM00041,STS-0421,Stomach,Gastric Carcinoma,Gastric Adenocarcinoma,,Unknown,3.633056872,6.466666667,Sanger
+SIDM00042,PL4,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Unknown,4.530252766,5.466666667,Sanger
+SIDM00043,PCI-4B,Head and Neck,Head and Neck Carcinoma,Laryngeal Squamous Cell Carcinoma,MSS,Unknown,3.218831951,7.233333333,Sanger
+SIDM00044,PCI-30,Head and Neck,Head and Neck Carcinoma,Head and Neck Squamous Cell Carcinoma,MSS,Unknown,2.466229658,9.1,Sanger
+SIDM00045,HSC-39,Stomach,Gastric Carcinoma,Signet Ring Cell Gastric Adenocarcinoma,MSS,Unknown,2.975554901,11.13333333,Sanger
+SIDM00046,H3255,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Unknown,2.513398136,5.266666667,Broad
+SIDM00047,EMC-BAC-2,Lung,Non-Small Cell Lung Carcinoma,Non-Small Cell Lung Carcinoma,MSS,Unknown,2.027550549,6.0,Sanger
+SIDM00048,EMC-BAC-1,Lung,Non-Small Cell Lung Carcinoma,Non-Small Cell Lung Carcinoma,MSS,Unknown,1.98305395,16.23333333,Sanger
+SIDM00049,DiFi,Large Intestine,Colorectal Carcinoma,Colorectal Carcinoma,MSS,Unknown,3.603081143,6.7,Sanger
+SIDM00050,CHSA0108,Bone,Chondrosarcoma,Chondrosarcoma,,Unknown,2.867777468,4.133333333,Sanger
+SIDM00051,CHSA0011,Bone,Chondrosarcoma,Chondrosarcoma,,Unknown,1.967625807,4.833333333,Sanger
+SIDM00052,HCE-4,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Unknown,2.554676489,12.7,Sanger
+SIDM00053,MZ1-PC,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Unknown,4.005240015,5.566666667,Sanger
+SIDM00056,K5,Thyroid,Thyroid Gland Carcinoma,Follicular Thyroid Carcinoma,MSS,Unknown,3.976171438,7.666666667,Sanger
+SIDM00064,HLE,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Unknown,2.646689645,9.366666667,Sanger
+SIDM00077,BICR10,Head and Neck,Oral Cavity Carcinoma,Oral Cavity Squamous Cell Carcinoma,MSS,Adherent,1.963657647,7.066666667,Sanger
+SIDM00078,BICR31,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Adherent,2.93595712,4.466666667,Broad
+SIDM00079,SK-OV-3,Ovary,Ovarian Carcinoma,Ovarian Serous Cystadenocarcinoma,MSI,Adherent,3.820690477,13.73333333,Broad
+SIDM00080,SK-MEL-5,Skin,Melanoma,Cutaneous Melanoma,MSS,Adherent,3.317158496,14.56666667,Broad
+SIDM00081,SK-MEL-28,Skin,Melanoma,Cutaneous Melanoma,MSS,Adherent,3.926101789,9.933333333,Broad
+SIDM00082,SK-MEL-2,Skin,Melanoma,Melanoma,MSI,Adherent,2.107573261,21.73333333,Sanger
+SIDM00083,SF539,Central Nervous System,Glioblastoma,Gliosarcoma,MSS,Unknown,3.049467311,6.6,Broad
+SIDM00084,SF295,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,3.066847957,7.8,Broad
+SIDM00085,SF268,Central Nervous System,Glioma,Astrocytoma,MSS,Unknown,2.483304299,6.733333333,Broad
+SIDM00086,RXF393,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Unknown,2.905898171,6.3,Sanger
+SIDM00087,RPMI-8226,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Suspension,2.914442215,12.43333333,Broad
+SIDM00090,OVCAR-8,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Unknown,2.420706802,9.466666667,Broad
+SIDM00091,OVCAR-5,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Unknown,2.384683288,4.933333333,Sanger
+SIDM00092,OVCAR-4,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Unknown,2.925130027,7.3,Broad
+SIDM00094,SN12C,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Adherent,2.837665444,19.93333333,Sanger
+SIDM00095,SNB75,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,2.636307469,5.966666667,Broad
+SIDM00096,SR,Haematopoietic and Lymphoid,T-Cell Non-Hodgkin's Lymphoma,Anaplastic Large Cell Lymphoma,MSS,Suspension,2.103968851,4.833333333,Sanger
+SIDM00097,T47D,Breast,Breast Carcinoma,Invasive Ductal Carcinoma Not Otherwise Specified,MSS,Adherent,2.776570668,5.333333333,Broad
+SIDM00105,OVCAR-3,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Adherent,3.101523525,6.066666667,Broad
+SIDM00107,UACC-62,Skin,Melanoma,Melanoma,MSS,Unknown,1.884997577,10.7,Broad
+SIDM00108,UACC-257,Skin,Melanoma,Melanoma,MSS,Unknown,1.739965647,11.46666667,Broad
+SIDM00111,U251,Central Nervous System,Glioma,Astrocytoma,MSS,Adherent,2.119201993,5.933333333,Sanger
+SIDM00112,U031,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Unknown,2.211021035,5.033333333,Sanger
+SIDM00113,TK10,Kidney,Kidney Carcinoma,Clear Cell Renal Cell Carcinoma,MSS,Unknown,2.439138121,8.966666667,Sanger
+SIDM00115,PCI-6A,Head and Neck,Head and Neck Carcinoma,Head and Neck Squamous Cell Carcinoma,MSS,Unknown,3.024882837,7.633333333,Sanger
+SIDM00116,NCI-H522,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.46582998,6.633333333,Broad
+SIDM00117,NCI-H322M,Lung,Non-Small Cell Lung Carcinoma,Bronchiolo-Alveolar Lung Carcinoma,MSS,Unknown,2.346019095,16.6,Broad
+SIDM00118,HCC2998,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Unknown,2.059699017,226.4333333,Sanger
+SIDM00119,EKVX,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.811285695,13.9,Broad
+SIDM00120,DU-145,Prostate,Prostate Carcinoma,Prostate Carcinoma,MSI,Adherent,2.6639664,84.7,Sanger
+SIDM00121,CCRF-CEM,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Childhood T Acute Lymphoblastic Leukemia,MSS,Suspension,1.976164792,40.43333333,Sanger
+SIDM00122,BT-549,Breast,Breast Carcinoma,Invasive Ductal Carcinoma Not Otherwise Specified,MSS,Adherent,2.966170305,5.2,Broad
+SIDM00123,ACHN,Kidney,Kidney Carcinoma,Papillary Renal Cell Carcinoma,MSS,Adherent,2.337792141,3.133333333,Broad
+SIDM00124,A498,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Adherent,3.315826382,5.366666667,Broad
+SIDM00125,786-0,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Adherent,3.817733209,7.1,Broad
+SIDM00126,K2,Skin,Melanoma,Melanoma,,Unknown,2.849530144,20.6,Sanger
+SIDM00127,JHU-022,Head and Neck,Oral Cavity Carcinoma,Oral Cavity Squamous Cell Carcinoma,MSS,Unknown,2.942864746,6.3,Sanger
+SIDM00128,JHU-011,Head and Neck,Head and Neck Carcinoma,Laryngeal Squamous Cell Carcinoma,MSS,Unknown,3.275879054,6.966666667,Sanger
+SIDM00129,G-MEL,Skin,Melanoma,Cutaneous Melanoma,MSS,Unknown,2.750861571,16.16666667,Sanger
+SIDM00130,CFPAC-1,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Adherent,3.202607903,4.0,Broad
+SIDM00132,BxPC-3,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Adherent,2.457896684,6.066666667,Broad
+SIDM00133,HOP-62,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Unknown,2.867374567,15.93333333,Broad
+SIDM00134,HOP-92,Lung,Non-Small Cell Lung Carcinoma,Non-Small Cell Lung Carcinoma,MSS,Unknown,3.995937759,13.2,Broad
+SIDM00135,Hs-578-T,Breast,Breast Carcinoma,Invasive Ductal Carcinoma Not Otherwise Specified,MSS,Adherent,2.603257839,6.266666667,Broad
+SIDM00136,HT-29,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,3.044549639,10.73333333,Sanger
+SIDM00137,NCI-H3122,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Unknown,3.743835019,7.7,Sanger
+SIDM00138,NCI-H23,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.899808207,28.33333333,Broad
+SIDM00139,NCI-H226,Lung,Mesothelioma,Pleural Epithelioid Mesothelioma,MSS,Adherent,1.932464896,3.933333333,Broad
+SIDM00140,COLO-792,Skin,Melanoma,Melanoma,MSS,Adherent,3.609237463,56.43333333,Broad
+SIDM00142,COLO-684,Endometrium,Endometrial Carcinoma,Endometrial Adenocarcinoma,MSI,Suspension,2.257732755,25.66666667,Broad
+SIDM00143,COLO-668,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Semi-Adherent,3.042884606,16.23333333,Broad
+SIDM00144,NCI-H460,Lung,Non-Small Cell Lung Carcinoma,Large Cell Lung Carcinoma,MSS,Adherent,2.535303751,9.833333333,Broad
+SIDM00145,MOLT-4,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Adult T Acute Lymphoblastic Leukemia,MSI,Suspension,4.080142865,142.7333333,Sanger
+SIDM00146,MDA-MB-231,Breast,Breast Carcinoma,Breast Adenocarcinoma,MSS,Adherent,2.777281576,11.76666667,Broad
+SIDM00148,MCF7,Breast,Breast Carcinoma,Invasive Ductal Carcinoma Not Otherwise Specified,MSS,Adherent,2.974326926,10.86666667,Broad
+SIDM00149,LOXIMVI,Skin,Melanoma,Amelanotic Melanoma,MSS,Unknown,3.164312032,15.13333333,Broad
+SIDM00150,KM12,Large Intestine,Colorectal Carcinoma,Colon Carcinoma,MSI,Unknown,1.934753061,84.5,Broad
+SIDM00151,IGROV-1,Ovary,Ovarian Carcinoma,Ovarian Endometrioid Adenocarcinoma,MSI,Unknown,3.986690149,59.36666667,Broad
+SIDM00155,PCI-38,Head and Neck,Head and Neck Carcinoma,Head and Neck Squamous Cell Carcinoma,MSS,Unknown,2.736428236,8.7,Sanger
+SIDM00156,NB7,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,3.038082435,8.033333333,Sanger
+SIDM00157,KP-N-YS,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,1.795959511,10.16666667,Sanger
+SIDM00172,BB30-HNC,Head and Neck,Head and Neck Carcinoma,Head and Neck Squamous Cell Carcinoma,MSS,Unknown,2.027563123,2.6,Sanger
+SIDM00174,BB49-HNC,Head and Neck,Head and Neck Carcinoma,Head and Neck Squamous Cell Carcinoma,MSS,Unknown,2.194900435,4.433333333,Sanger
+SIDM00175,CP50-MEL-B,Skin,Melanoma,Melanoma,MSS,Unknown,2.738245143,4.566666667,Sanger
+SIDM00176,CHSA8926,Bone,Chondrosarcoma,Chondrosarcoma,MSS,Unknown,2.091149126,5.7,Sanger
+SIDM00179,MZ2-MEL,Skin,Melanoma,Melanoma,MSS,Unknown,1.885597801,11.13333333,Sanger
+SIDM00180,LB996-RCC,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Unknown,1.990739243,3.0,Sanger
+SIDM00181,LB831-BLC,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Unknown,3.124960969,4.6,Sanger
+SIDM00182,LB771-HNC,Head and Neck,Head and Neck Carcinoma,Head and Neck Squamous Cell Carcinoma,MSS,Unknown,3.041400231,4.066666667,Sanger
+SIDM00183,LB647-SCLC,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Unknown,2.312882602,8.466666667,Sanger
+SIDM00184,LB373-MEL-D,Skin,Melanoma,Melanoma,MSS,Unknown,3.239650217,2.4,Sanger
+SIDM00185,LB2518-MEL,Skin,Melanoma,Melanoma,MSS,Unknown,3.185275888,9.066666667,Sanger
+SIDM00186,LB2241-RCC,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Unknown,2.570563337,1.5,Sanger
+SIDM00187,LB1047-RCC,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSI,Unknown,2.458111818,2.266666667,Sanger
+SIDM00188,HA7-RCC,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Unknown,3.662041806,2.933333333,Sanger
+SIDM00189,CP67-MEL,Skin,Melanoma,Melanoma,MSS,Unknown,1.972073875,21.7,Sanger
+SIDM00190,CP66-MEL,Skin,Melanoma,Melanoma,MSS,Unknown,2.085489058,24.93333333,Sanger
+SIDM00191,BB65-RCC,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Unknown,1.714007618,2.133333333,Sanger
+SIDM00193,SNU-81,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,1.950059851,236.5333333,Sanger
+SIDM00194,SNU-61,Large Intestine,Colorectal Carcinoma,Rectal Adenocarcinoma,MSS,Adherent,2.695571858,10.5,Broad
+SIDM00195,EW-24,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,2.334439569,5.5,Sanger
+SIDM00196,EW-22,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,2.404215209,4.066666667,Sanger
+SIDM00197,EW-18,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,2.396074789,5.633333333,Sanger
+SIDM00198,EW-16,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,1.985309245,5.4,Sanger
+SIDM00199,CS1,Bone,Chondrosarcoma,Chondrosarcoma,MSS,Adherent,2.865404856,6.633333333,Sanger
+SIDM00200,EW-12,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,2.344767489,5.4,Sanger
+SIDM00201,EW-7,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,2.431851919,9.666666667,Sanger
+SIDM00202,EW-3,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,2.09375623,5.7,Sanger
+SIDM00203,EW-11,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,3.555297633,8.333333333,Sanger
+SIDM00205,EW-1,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,2.165278068,5.4,Sanger
+SIDM00206,D-566MG,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,3.406234389,3.966666667,Sanger
+SIDM00207,D-542MG,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,4.411067383,2.366666667,Sanger
+SIDM00208,D-502MG,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,3.772273878,5.5,Sanger
+SIDM00209,D-423MG,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,4.104906724,4.4,Sanger
+SIDM00210,A2780,Ovary,Ovarian Carcinoma,Ovarian Endometrioid Adenocarcinoma,MSS,Adherent,2.000944743,12.66666667,Broad
+SIDM00211,ALL-PO,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSS,Suspension,2.522816975,6.833333333,Sanger
+SIDM00212,CAS-1,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,3.699463954,7.366666667,Broad
+SIDM00213,FTC-133,Thyroid,Thyroid Gland Carcinoma,Follicular Thyroid Carcinoma,MSS,Adherent,2.084582174,18.93333333,Broad
+SIDM00214,SNU-407,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSI,Adherent,2.025272627,74.53333333,Sanger
+SIDM00215,SNU-283,Large Intestine,Colorectal Carcinoma,Rectal Adenocarcinoma,MSS,Adherent,3.525314958,10.9,Sanger
+SIDM00216,SNU-175,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSI,Suspension,2.025739987,161.3333333,Sanger
+SIDM00217,SNU-1040,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,3.737646312,487.3666667,Broad
+SIDM00218,RO82-W-1,Thyroid,Thyroid Gland Carcinoma,Follicular Thyroid Carcinoma,MSS,Adherent,3.285431247,4.8,Sanger
+SIDM00220,OC-314,Ovary,Ovarian Carcinoma,Ovarian Serous Adenocarcinoma,MSI,Adherent,2.928705319,76.3,Broad
+SIDM00222,MPP-89,Lung,Mesothelioma,Pleural Epithelioid Mesothelioma,MSS,Adherent,2.301488446,6.5,Broad
+SIDM00223,IST-SL1,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Semi-Adherent,3.241287842,10.56666667,Sanger
+SIDM00224,IST-MES1,Lung,Mesothelioma,Pleural Epithelioid Mesothelioma,MSS,Adherent,3.285277894,6.533333333,Sanger
+SIDM00225,IST-MEL1,Skin,Melanoma,Melanoma,MSS,Adherent,3.362023736,10.36666667,Sanger
+SIDM00227,GI-ME-N,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,3.364493547,9.2,Sanger
+SIDM00230,IST-SL2,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.010770547,11.93333333,Sanger
+SIDM00231,NCC010,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Unknown,1.771856207,11.76666667,Sanger
+SIDM00232,NCC021,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Unknown,1.877714116,11.53333333,Sanger
+SIDM00233,ATN-1,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Adult T Acute Lymphoblastic Leukemia,MSS,Suspension,3.902689596,12.3,Sanger
+SIDM00234,TC-YIK,Cervix,Other Solid Cancers,Cervical Small Cell Carcinoma,MSS,Suspension,2.14828044,11.1,Sanger
+SIDM00235,RCC10RGB,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Adherent,1.739143357,8.866666667,Broad
+SIDM00237,PC-14,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,3.142265697,11.2,Broad
+SIDM00238,OVK-18,Ovary,Ovarian Carcinoma,Ovarian Endometrioid Adenocarcinoma,MSI,Adherent,2.067714177,47.76666667,Broad
+SIDM00239,OS-RC-2,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Adherent,2.865821946,7.8,Broad
+SIDM00240,OMC-1,Cervix,Cervical Carcinoma,Cervical Squamous Cell Carcinoma,MSS,Adherent,3.89036892,17.93333333,Sanger
+SIDM00241,OCUB-M,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Adherent,3.392799386,21.6,Sanger
+SIDM00242,NOS-1,Bone,Osteosarcoma,Osteosarcoma,MSS,Adherent,2.620502423,10.2,Sanger
+SIDM00243,NEC8,Testis,Other Solid Cancers,Testicular Embryonal Carcinoma,MSS,Unknown,2.992899849,12.23333333,Sanger
+SIDM00244,NB69,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,4.212709485,4.9,Sanger
+SIDM00245,MS-1,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.093848293,10.86666667,Sanger
+SIDM00247,MKN45,Stomach,Gastric Carcinoma,Gastric Adenocarcinoma,MSS,Adherent,1.815010732,8.533333333,Broad
+SIDM00249,TE-15,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,2.59857133,10.9,Broad
+SIDM00250,TE-4,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,2.488883443,31.93333333,Broad
+SIDM00251,TGBC11TKB,Stomach,Gastric Carcinoma,Gastric Carcinoma,MSI,Adherent,1.974310574,56.53333333,Sanger
+SIDM00252,TGBC1TKB,Biliary Tract,Biliary Tract Carcinoma,Undifferentiated Gallbladder Carcinoma,MSS,Adherent,2.860003452,8.966666667,Sanger
+SIDM00253,NB6,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,1.98113166,5.666666667,Sanger
+SIDM00254,NB5,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,1.815471444,10.96666667,Sanger
+SIDM00255,NB17,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,2.973228774,14.4,Sanger
+SIDM00256,NB14,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,2.015552519,10.86666667,Sanger
+SIDM00257,NB13,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,2.983514272,16.5,Sanger
+SIDM00258,NB12,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,3.67914337,8.066666667,Sanger
+SIDM00259,NB10,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,3.385151029,6.866666667,Sanger
+SIDM00260,MKN28,Stomach,Gastric Carcinoma,Gastric Tubular Adenocarcinoma,MSS,Adherent,4.22060909,11.73333333,Sanger
+SIDM00261,ES8,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,2.115794564,7.566666667,Sanger
+SIDM00262,ES6,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,3.225623217,5.6,Sanger
+SIDM00263,ES5,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,3.560525479,5.3,Sanger
+SIDM00264,ES4,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,2.235427396,5.933333333,Sanger
+SIDM00266,ES1,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,1.942867859,6.233333333,Sanger
+SIDM00267,TGBC24TKB,Biliary Tract,Biliary Tract Carcinoma,Gallbladder Carcinoma,MSS,Adherent,2.525318813,11.7,Sanger
+SIDM00269,ES7,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,3.149564491,6.0,Sanger
+SIDM00270,PCI-15A,Head and Neck,Head and Neck Carcinoma,Pyriform Fossa Squamous Cell Carcinoma,MSS,Unknown,3.716759609,6.866666667,Sanger
+SIDM00271,MKN1,Stomach,Gastric Carcinoma,Gastric Adenosquamous Carcinoma,MSS,Adherent,2.982947781,9.733333333,Broad
+SIDM00272,MDA-MB-453,Breast,Breast Carcinoma,Breast Adenocarcinoma,MSS,Adherent,4.199400705,21.9,Broad
+SIDM00273,GI-1,Central Nervous System,Glioblastoma,Gliosarcoma,MSS,Adherent,4.348025477,13.33333333,Broad
+SIDM00274,GCIY,Stomach,Gastric Carcinoma,Gastric Adenocarcinoma,MSS,Adherent,2.653525376,8.933333333,Sanger
+SIDM00276,ETK-1,Biliary Tract,Biliary Tract Carcinoma,Intrahepatic Cholangiocarcinoma,MSS,Unknown,2.848627258,11.46666667,Sanger
+SIDM00277,EoL-1-cell,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Chronic Eosinophilic Leukemia,MSS,Suspension,2.127154189,10.4,Sanger
+SIDM00278,EC-GI-10,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,3.461050926,10.06666667,Broad
+SIDM00279,ECC12,Stomach,Gastric Carcinoma,Gastric Small Cell Neuroendocrine Carcinoma,MSS,Adherent,2.227832124,11.0,Broad
+SIDM00280,ECC10,Stomach,Gastric Carcinoma,Gastric Small Cell Neuroendocrine Carcinoma,MSS,Suspension,3.58226179,14.33333333,Broad
+SIDM00281,DJM-1,Skin,Other Solid Cancers,Skin Squamous Cell Carcinoma,MSS,Adherent,1.956580301,18.26666667,Sanger
+SIDM00282,CW-2,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSI,Adherent,1.974313655,237.8333333,Broad
+SIDM00283,CTB-1,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,2.085614005,14.7,Sanger
+SIDM00284,COLO-679,Skin,Melanoma,Melanoma,MSS,Adherent,2.094719016,15.9,Broad
+SIDM00285,CHP-134,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,1.972250457,6.766666667,Sanger
+SIDM00286,CHP-126,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,2.014258094,5.0,Broad
+SIDM00287,BALL-1,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Adult B Acute Lymphoblastic Leukemia,MSS,Suspension,2.113523952,10.43333333,Sanger
+SIDM00289,HAL-01,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSS,Suspension,1.961711895,9.466666667,Sanger
+SIDM00290,HGC-27,Stomach,Gastric Carcinoma,Gastric Carcinoma,MSS,Adherent,2.951285063,19.6,Broad
+SIDM00291,HMV-II,Skin,Melanoma,Melanoma,MSS,Adherent,2.738418649,14.0,Sanger
+SIDM00292,LU-165,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,1.846327222,15.56666667,Sanger
+SIDM00293,LU-139,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.9161907,14.93333333,Sanger
+SIDM00294,LU-135,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Semi-Adherent,2.436547753,14.2,Sanger
+SIDM00296,LU-134-A,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.513269321,12.86666667,Sanger
+SIDM00297,LC-2-ad,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,3.372390699,12.8,Sanger
+SIDM00299,MFH-ino,Soft Tissue,Other Sarcomas,Undifferentiated Pleomorphic Sarcoma,MSS,Adherent,2.755219796,10.6,Sanger
+SIDM00300,LC-1-sq,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Adherent,2.351208534,15.26666667,Sanger
+SIDM00301,KP-4,Pancreas,Pancreatic Carcinoma,Pancreatic Carcinoma,MSS,Adherent,2.98440116,9.566666667,Broad
+SIDM00302,KGN,Ovary,Other Solid Cancers,Ovarian Granulosa Cell Tumor,MSS,Adherent,1.938308685,9.166666667,Sanger
+SIDM00303,JHOS-4,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Adherent,3.934260258,12.76666667,Broad
+SIDM00304,JHOS-3,Ovary,Ovarian Carcinoma,Ovarian Serous Adenocarcinoma,MSS,Adherent,1.859651555,10.43333333,Sanger
+SIDM00305,JHOS-2,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Adherent,2.758190473,9.433333333,Broad
+SIDM00306,IA-LM,Lung,Non-Small Cell Lung Carcinoma,Large Cell Lung Carcinoma,MSS,Adherent,2.31124122,15.66666667,Broad
+SIDM00308,KU812,Haematopoietic and Lymphoid,Chronic Myelogenous Leukemia,Chronic Myelogenous Leukemia,MSS,Suspension,2.545159925,6.666666667,Sanger
+SIDM00312,L-363,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Suspension,2.094163758,8.4,Broad
+SIDM00313,L-1236,Haematopoietic and Lymphoid,Hodgkin's Lymphoma,Hodgkin's Lymphoma,MSS,Unknown,2.812988288,16.1,Broad
+SIDM00315,YKG-1,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,3.164201933,12.63333333,Broad
+SIDM00316,YH-13,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,2.012321756,9.033333333,Sanger
+SIDM00317,VMRC-RCZ,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Unknown,1.887720698,5.7,Sanger
+SIDM00318,VMRC-RCW,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Unknown,2.093916373,6.066666667,Broad
+SIDM00319,VMRC-MELG,Skin,Melanoma,Melanoma,MSS,Adherent,3.281973537,6.566666667,Sanger
+SIDM00320,VMRC-LCD,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,,Unknown,2.404999843,21.73333333,Sanger
+SIDM00321,TYK-nu,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Unknown,2.356100422,10.2,Broad
+SIDM00322,T-T,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Unknown,3.436100515,13.1,Broad
+SIDM00323,TK,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,B-Cell Non-Hodgkin's Lymphoma,MSS,Unknown,2.987986555,12.03333333,Sanger
+SIDM00324,TGW,Peripheral Nervous System,Neuroblastoma,Adrenal Neuroblastoma,MSS,Unknown,3.173551064,15.86666667,Sanger
+SIDM00325,TE-9,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Unknown,2.951945096,15.8,Broad
+SIDM00326,TE-8,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Unknown,2.405243594,10.2,Sanger
+SIDM00327,L-428,Haematopoietic and Lymphoid,Hodgkin's Lymphoma,Hodgkin's Lymphoma,MSS,Suspension,4.377803763,16.36666667,Broad
+SIDM00328,TE-6,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Unknown,2.611799343,13.7,Sanger
+SIDM00329,L-540,Haematopoietic and Lymphoid,Hodgkin's Lymphoma,Hodgkin's Lymphoma,MSS,Suspension,2.891675595,21.53333333,Broad
+SIDM00330,LAN-6,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Semi-Adherent,1.926382614,8.466666667,Sanger
+SIDM00331,MHH-CALL-2,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSS,Suspension,2.111592763,1.9,Broad
+SIDM00332,MFM-223,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Adherent,2.505639065,8.666666667,Sanger
+SIDM00333,MFE-319,Endometrium,Endometrial Carcinoma,Adenosquamous Endometrial Carcinoma,MSI,Adherent,1.931980783,138.3333333,Broad
+SIDM00334,MFE-296,Endometrium,Endometrial Carcinoma,Endometrial Adenocarcinoma,MSI,Adherent,1.966792155,27.33333333,Broad
+SIDM00335,MFE-280,Endometrium,Endometrial Carcinoma,Endometrial Adenocarcinoma,MSS,Adherent,2.488717919,5.733333333,Broad
+SIDM00336,MEL-JUSO,Skin,Melanoma,Cutaneous Melanoma,MSS,Adherent,2.174800964,23.23333333,Broad
+SIDM00337,MEL-HO,Skin,Melanoma,Melanoma,MSS,Adherent,3.130660915,7.433333333,Broad
+SIDM00338,ME-1,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Suspension,2.032218908,9.766666667,Broad
+SIDM00339,LXF-289,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.878074509,15.46666667,Broad
+SIDM00340,LP-1,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Suspension,3.473378305,6.533333333,Broad
+SIDM00341,LOU-NH91,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Adherent,2.119891313,5.2,Broad
+SIDM00342,LOUCY,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Adult T Acute Lymphoblastic Leukemia,MSS,Suspension,3.763594924,6.033333333,Broad
+SIDM00343,LN-405,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,4.779817203,5.4,Sanger
+SIDM00344,LCLC-97TM1,Lung,Non-Small Cell Lung Carcinoma,Large Cell Lung Carcinoma,MSS,Adherent,2.800251463,10.8,Broad
+SIDM00345,LCLC-103H,Lung,Non-Small Cell Lung Carcinoma,Large Cell Lung Carcinoma,MSS,Adherent,3.913975367,11.5,Broad
+SIDM00346,LAMA-84,Haematopoietic and Lymphoid,Chronic Myelogenous Leukemia,Chronic Myelogenous Leukemia,MSS,Suspension,3.084595091,5.966666667,Sanger
+SIDM00347,TE-5,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Unknown,2.963809187,13.53333333,Broad
+SIDM00348,TE-11,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Unknown,2.815451928,12.53333333,Broad
+SIDM00349,TE-10,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Unknown,2.692804918,10.66666667,Sanger
+SIDM00350,SAT,Head and Neck,Head and Neck Carcinoma,Head and Neck Squamous Cell Carcinoma,MSS,Unknown,3.104376113,10.16666667,Sanger
+SIDM00351,SAS,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Unknown,2.901362759,12.8,Sanger
+SIDM00352,RMG-I,Ovary,Ovarian Carcinoma,Ovarian Clear Cell Adenocarcinoma,MSS,Unknown,2.094505211,9.1,Broad
+SIDM00353,RKN,Soft Tissue,Other Sarcomas,Ovarian Leiomyosarcoma,MSS,Unknown,4.221982122,9.166666667,Broad
+SIDM00354,RERF-LC-Sq1,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Unknown,2.891780786,9.933333333,Broad
+SIDM00355,RERF-LC-MS,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Unknown,4.332774355,7.833333333,Broad
+SIDM00356,RERF-LC-KJ,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Unknown,2.720445452,12.0,Broad
+SIDM00358,RERF-GC-1B,Stomach,Gastric Carcinoma,Gastric Adenocarcinoma,MSS,Unknown,2.518033323,8.6,Broad
+SIDM00359,RCM-1,Large Intestine,Colorectal Carcinoma,Rectal Adenocarcinoma,MSS,Unknown,3.080373511,9.733333333,Broad
+SIDM00360,QGP-1,Pancreas,Other Solid Cancers,Pancreatic Somatostatinoma,MSS,Unknown,3.836858751,11.96666667,Broad
+SIDM00362,P32-ISH,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Burkitt's Lymphoma,MSS,Unknown,1.953243498,7.7,Sanger
+SIDM00363,P31-FUJ,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,MSI,Unknown,2.043389623,22.73333333,Broad
+SIDM00364,P30-OHK,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSI,Unknown,1.885405561,45.43333333,Sanger
+SIDM00365,SBC-1,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Unknown,3.234105158,17.2,Sanger
+SIDM00367,SBC-3,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Unknown,2.150686806,10.63333333,Sanger
+SIDM00368,SBC-5,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Unknown,2.919368599,13.43333333,Broad
+SIDM00369,TE-1,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Unknown,2.639611731,12.36666667,Broad
+SIDM00370,TALL-1,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Adult T Acute Lymphoblastic Leukemia,MSS,Suspension,3.771135288,9.566666667,Broad
+SIDM00371,SUIT-2,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Unknown,3.514522943,10.83333333,Sanger
+SIDM00373,SNG-M,Endometrium,Endometrial Carcinoma,Endometrial Adenocarcinoma,MSI,Unknown,1.978499152,58.76666667,Broad
+SIDM00374,SLVL,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Splenic Marginal Zone B-Cell Lymphoma with Villous Lymphocytes,MSS,Unknown,3.505262234,15.13333333,Sanger
+SIDM00375,SKN-3,Head and Neck,Head and Neck Carcinoma,Head and Neck Squamous Cell Carcinoma,MSS,Unknown,2.901748214,12.4,Sanger
+SIDM00376,MHH-CALL-4,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSS,Suspension,1.931649468,4.766666667,Broad
+SIDM00377,SKN,Uterus,Other Sarcomas,Uterine Corpus Leiomyosarcoma,MSS,Unknown,2.603654135,11.76666667,Sanger
+SIDM00379,SK-MG-1,Central Nervous System,Glioma,Astrocytoma,MSS,Unknown,2.619773118,9.3,Sanger
+SIDM00380,SKM-1,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Suspension,4.958364645,10.2,Broad
+SIDM00381,SKG-IIIa,Cervix,Cervical Carcinoma,Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma,MSS,Unknown,2.034520381,12.13333333,Sanger
+SIDM00382,SF126,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,1.960455952,7.933333333,Broad
+SIDM00383,SCH,Stomach,Gastric Carcinoma,Gastric Choriocarcinoma,MSS,Unknown,2.629551303,13.2,Sanger
+SIDM00384,SCC-3,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,B-Cell Non-Hodgkin's Lymphoma,MSS,Unknown,2.063606196,11.73333333,Sanger
+SIDM00386,MHH-ES-1,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Adherent,4.283266557,6.8,Broad
+SIDM00387,MHH-NB-11,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,2.395276855,4.033333333,Broad
+SIDM00388,MHH-PREB-1,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,B-Cell Non-Hodgkin's Lymphoma,MSI,Suspension,1.985209663,63.26666667,Sanger
+SIDM00389,SU-DHL-10,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,2.032496202,5.733333333,Sanger
+SIDM00390,SU-DHL-1,Haematopoietic and Lymphoid,T-Cell Non-Hodgkin's Lymphoma,Anaplastic Large Cell Lymphoma,MSS,Suspension,3.318814201,12.1,Broad
+SIDM00391,SK-MM-2,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Suspension,1.900908086,7.333333333,Broad
+SIDM00392,SK-MEL-30,Skin,Melanoma,Cutaneous Melanoma,MSS,Adherent,3.66869254,14.6,Broad
+SIDM00393,SK-GT-2,Stomach,Gastric Carcinoma,Gastric Fundus Carcinoma,MSS,Adherent,2.376997821,10.43333333,Sanger
+SIDM00394,SISO,Cervix,Cervical Carcinoma,Cervical Adenocarcinoma,MSS,Adherent,2.626736643,11.4,Sanger
+SIDM00395,SIMA,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,3.857897202,5.6,Broad
+SIDM00396,SIG-M5,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Suspension,3.356318286,6.266666667,Broad
+SIDM00399,SCC90,Head and Neck,Head and Neck Carcinoma,Head and Neck Squamous Cell Carcinoma,,Adherent,3.291999149,7.9,Sanger
+SIDM00400,SC-1,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Follicular Lymphoma,MSS,Suspension,2.001320921,5.3,Sanger
+SIDM00401,RVH-421,Skin,Melanoma,Melanoma,MSS,Adherent,3.022175164,9.9,Sanger
+SIDM00402,RT-112,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Unknown,2.018368616,6.033333333,Broad
+SIDM00403,RPMI-8402,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Childhood T Acute Lymphoblastic Leukemia,MSS,Suspension,3.685253765,13.3,Broad
+SIDM00404,SU-DHL-16,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,B-Cell Non-Hodgkin's Lymphoma,MSS,Suspension,2.068393924,6.666666667,Sanger
+SIDM00405,SU-DHL-4,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,2.130016774,7.166666667,Broad
+SIDM00406,SU-DHL-5,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,3.868493705,10.03333333,Sanger
+SIDM00407,SU-DHL-6,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,1.991595624,10.43333333,Sanger
+SIDM00410,YT,Haematopoietic and Lymphoid,Other Blood Cancers,Natural Killer Cell Lymphoblastic Leukemia or Lymphoma,MSS,Suspension,3.674693941,18.63333333,Sanger
+SIDM00411,YAPC,Pancreas,Pancreatic Carcinoma,Pancreatic Carcinoma,MSS,Adherent,3.176908557,7.766666667,Sanger
+SIDM00412,WSU-NHL,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Follicular Lymphoma,MSI,Suspension,2.004448807,30.2,Sanger
+SIDM00413,WSU-DLCL2,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,2.010552872,6.966666667,Sanger
+SIDM00415,ROS-50,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,3.503670324,6.133333333,Sanger
+SIDM00416,VAL,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,2.102545009,7.366666667,Sanger
+SIDM00417,U-266,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Suspension,2.007162165,10.4,Sanger
+SIDM00418,TT2609-C02,Thyroid,Thyroid Gland Carcinoma,Follicular Thyroid Carcinoma,MSS,Adherent,3.176626853,8.466666667,Sanger
+SIDM00419,TC-71,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Semi-Adherent,3.624226013,7.233333333,Broad
+SIDM00420,SW1710,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,3.6746578,8.0,Sanger
+SIDM00421,SUP-M2,Haematopoietic and Lymphoid,T-Cell Non-Hodgkin's Lymphoma,Anaplastic Large Cell Lymphoma,MSS,Suspension,2.186875473,5.866666667,Broad
+SIDM00422,SUP-HD1,Haematopoietic and Lymphoid,Hodgkin's Lymphoma,Hodgkin's Lymphoma,MSS,Suspension,1.974498127,47.63333333,Sanger
+SIDM00423,SU-DHL-8,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,2.15408807,11.7,Broad
+SIDM00424,U-698-M,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Precursor Lymphoblastic Lymphoma,MSS,Suspension,2.083801224,10.53333333,Sanger
+SIDM00425,OVTOKO,Ovary,Ovarian Carcinoma,Ovarian Clear Cell Adenocarcinoma,MSS,Unknown,3.257616824,12.3,Broad
+SIDM00426,RH-41,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,MSS,Adherent,3.134496817,5.233333333,Broad
+SIDM00427,RH-1,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Adherent,2.982924862,7.3,Sanger
+SIDM00428,NB4,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Acute Promyelocytic Leukemia,MSS,Suspension,3.411604635,7.066666667,Broad
+SIDM00429,NALM-6,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Adult B Acute Lymphoblastic Leukemia,MSI,Suspension,1.939966647,53.06666667,Broad
+SIDM00431,MOLT-16,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Childhood T Acute Lymphoblastic Leukemia,MSS,Suspension,1.963405367,34.23333333,Broad
+SIDM00434,MOLP-8,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Suspension,2.976832873,13.56666667,Broad
+SIDM00435,MOLM-16,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,,Suspension,3.333563449,9.6,Broad
+SIDM00437,MOLM-13,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Suspension,2.167819827,9.833333333,Broad
+SIDM00438,MN-60,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,B Acute Lymphoblastic Leukemia,MSI,Suspension,1.979442933,38.43333333,Sanger
+SIDM00441,ML-2,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Suspension,1.97531568,5.5,Sanger
+SIDM00442,ML-1,Thyroid,Thyroid Gland Carcinoma,Follicular Thyroid Carcinoma,MSS,Adherent,1.710747704,4.066666667,Broad
+SIDM00443,NU-DUL-1,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,1.936997338,8.7,Broad
+SIDM00444,OACM5-1,Esophagus,Esophageal Carcinoma,Esophageal Adenocarcinoma,MSS,Semi-Adherent,1.921047674,6.0,Sanger
+SIDM00445,OACp4C,Esophagus,Esophageal Carcinoma,Esophageal Adenocarcinoma,MSS,Adherent,2.425753657,4.633333333,Sanger
+SIDM00446,OCI-AML2,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Suspension,2.098782056,5.033333333,Broad
+SIDM00447,REH,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSI,Suspension,1.953546606,47.1,Broad
+SIDM00448,RC-K8,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,2.072283791,18.83333333,Sanger
+SIDM00449,RCH-ACV,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSS,Suspension,2.035776948,33.2,Broad
+SIDM00450,PL-21,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,MSS,Suspension,3.795794615,10.96666667,Broad
+SIDM00451,PF-382,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Childhood T Acute Lymphoblastic Leukemia,MSS,Suspension,3.915856855,49.63333333,Broad
+SIDM00453,PA-TU-8988T,Pancreas,Pancreatic Carcinoma,Pancreatic Adenocarcinoma,MSS,Adherent,2.860548876,5.966666667,Broad
+SIDM00454,RH-18,Soft Tissue,Rhabdomyosarcoma,Embryonal Rhabdomyosarcoma,MSS,Adherent,3.514480152,7.766666667,Broad
+SIDM00455,PA-TU-8902,Pancreas,Pancreatic Carcinoma,Pancreatic Adenocarcinoma,MSS,Adherent,3.899389729,9.533333333,Broad
+SIDM00457,OPM-2,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Suspension,3.226166677,14.33333333,Broad
+SIDM00458,OCI-M1,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Suspension,3.155959625,10.16666667,Broad
+SIDM00459,OCI-LY7,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,,Suspension,1.935720171,5.666666667,Sanger
+SIDM00460,OCI-LY-19,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,1.986638831,5.366666667,Broad
+SIDM00461,OCI-AML5,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Suspension,2.048926696,10.06666667,Broad
+SIDM00462,OCI-AML3,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Suspension,2.057656012,5.433333333,Broad
+SIDM00463,P12-ICHIKAWA,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Childhood T Acute Lymphoblastic Leukemia,MSS,Suspension,3.668982105,10.96666667,Broad
+SIDM00465,OVMIU,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Unknown,2.128043656,13.8,Sanger
+SIDM00466,OVKATE,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Unknown,1.909607875,9.733333333,Sanger
+SIDM00467,QIMR-WIL,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,MSS,Suspension,1.976530861,5.366666667,Sanger
+SIDM00469,PSN1,Pancreas,Pancreatic Carcinoma,Pancreatic Adenocarcinoma,MSS,Adherent,2.760475955,7.766666667,Broad
+SIDM00472,PEO1,Ovary,Ovarian Carcinoma,Ovarian Cystadenocarcinoma,MSS,Adherent,1.773144754,7.766666667,Sanger
+SIDM00473,PE-CA-PJ15,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Adherent,,,Broad
+SIDM00474,OV-7,Ovary,Ovarian Carcinoma,Ovarian Carcinoma,MSS,Adherent,1.853578663,5.3,Broad
+SIDM00475,OV-56,Ovary,Ovarian Carcinoma,Ovarian Serous Adenocarcinoma,MSS,Adherent,3.840243766,4.533333333,Broad
+SIDM00476,OV-17R,Ovary,Ovarian Carcinoma,Ovarian Adenocarcinoma,MSS,Adherent,3.019950143,4.266666667,Sanger
+SIDM00477,OE33,Esophagus,Esophageal Carcinoma,Barrett s Adenocarcinoma,MSS,Adherent,3.55024429,6.966666667,Broad
+SIDM00478,OE21,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,3.067860102,7.4,Broad
+SIDM00479,OE19,Esophagus,Esophageal Carcinoma,Esophageal Adenocarcinoma,MSS,Adherent,2.612544269,9.8,Broad
+SIDM00480,OAW-42,Ovary,Ovarian Carcinoma,Ovarian Serous Cystadenocarcinoma,MSS,Adherent,3.655857303,6.233333333,Broad
+SIDM00481,OAW-28,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Adherent,2.28332881,4.633333333,Broad
+SIDM00482,RPMI-8866,Haematopoietic and Lymphoid,Chronic Myelogenous Leukemia,Chronic Myelogenous Leukemia,MSS,Suspension,2.008588553,14.7,Sanger
+SIDM00483,SK-GT-4,Esophagus,Esophageal Carcinoma,Esophageal Adenocarcinoma,MSS,Adherent,2.454532593,7.3,Sanger
+SIDM00484,TT,Thyroid,Thyroid Gland Carcinoma,Hereditary Thyroid Gland Medullary Carcinoma,MSS,Adherent,1.884063787,9.8,Broad
+SIDM00485,BICR22,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Adherent,1.897911915,6.833333333,Broad
+SIDM00486,EBC-1,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Unknown,2.794422894,13.76666667,Broad
+SIDM00487,CCK-81,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSI,Adherent,3.7264229,89.63333333,Sanger
+SIDM00488,CaR-1,Large Intestine,Colorectal Carcinoma,Rectal Adenocarcinoma,MSS,Adherent,2.773206952,8.933333333,Sanger
+SIDM00489,Ca9-22,Head and Neck,Head and Neck Carcinoma,Gingival Squamous Cell Carcinoma,MSS,Adherent,2.577056849,14.6,Sanger
+SIDM00490,Becker,Central Nervous System,Glioma,Astrocytoma,MSS,Adherent,2.681486695,8.266666667,Sanger
+SIDM00491,ASH-3,Thyroid,Thyroid Gland Carcinoma,Anaplastic Thyroid Carcinoma,MSS,Adherent,2.90237828,14.56666667,Sanger
+SIDM00492,AM-38,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,3.235077179,12.3,Broad
+SIDM00493,NCI-H292,Lung,Other Solid Cancers,Lung Mucoepidermoid Carcinoma,MSS,Adherent,2.03606007,6.133333333,Broad
+SIDM00494,ABC-1,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Unknown,2.387710584,13.8,Broad
+SIDM00495,A3-KAW,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,2.043815934,18.93333333,Broad
+SIDM00496,HTC-C3,Thyroid,Thyroid Gland Carcinoma,Anaplastic Thyroid Carcinoma,MSS,Adherent,2.847071912,11.1,Sanger
+SIDM00498,SNU-C5,Large Intestine,Colorectal Carcinoma,Cecum Adenocarcinoma,MSI,Adherent,1.968208257,86.16666667,Sanger
+SIDM00499,22RV1,Prostate,Prostate Carcinoma,Prostate Carcinoma,MSI,Adherent,2.039090596,57.96666667,Broad
+SIDM00501,BICR78,Head and Neck,Oral Cavity Carcinoma,Oral Cavity Squamous Cell Carcinoma,MSS,Adherent,2.583586667,5.766666667,Sanger
+SIDM00502,A4-Fuk,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Adult B Acute Lymphoblastic Leukemia,MSS,Suspension,2.065849326,10.53333333,Broad
+SIDM00503,FU97,Stomach,Gastric Carcinoma,Gastric Adenocarcinoma,MSS,Adherent,2.789364399,11.86666667,Broad
+SIDM00504,MOG-G-UVW,Central Nervous System,Glioma,Anaplastic Astrocytoma,MSS,Adherent,3.586411466,7.566666667,Sanger
+SIDM00505,MIA-PaCa-2,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Semi-Adherent,2.760242905,8.533333333,Broad
+SIDM00506,COR-L88,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Semi-Adherent,3.289218986,12.03333333,Broad
+SIDM00507,COR-L321,Lung,Other Solid Cancers,Lung Carcinoma,MSS,Suspension,1.78796491,16.36666667,Sanger
+SIDM00508,COR-L32,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Suspension,2.738268864,10.5,Sanger
+SIDM00509,COR-L311,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,4.326234901,5.966666667,Broad
+SIDM00510,COR-L303,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,3.174436647,8.0,Sanger
+SIDM00511,COR-L279,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,3.211900216,6.966666667,Broad
+SIDM00512,COR-L23,Lung,Non-Small Cell Lung Carcinoma,Large Cell Lung Carcinoma,MSS,Adherent,2.216467274,7.833333333,Broad
+SIDM00513,COR-L105,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Semi-Adherent,1.735611727,5.133333333,Broad
+SIDM00515,COLO-800,Skin,Melanoma,Melanoma,MSS,Adherent,2.751764412,7.4,Broad
+SIDM00516,MZ7-mel,Skin,Melanoma,Melanoma,MSS,Unknown,2.171677553,64.8,Sanger
+SIDM00521,COR-L95,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.865076936,11.43333333,Broad
+SIDM00522,DMS-273,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Adherent,2.732277803,11.53333333,Broad
+SIDM00523,DMS-53,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Adherent,2.648998418,11.56666667,Broad
+SIDM00524,DMS-79,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,,Suspension,3.446808615,14.03333333,Broad
+SIDM00525,MG-63,Bone,Osteosarcoma,Osteosarcoma,MSS,Adherent,3.034889576,7.033333333,Broad
+SIDM00526,MEG-01,Haematopoietic and Lymphoid,Chronic Myelogenous Leukemia,Chronic Myelogenous Leukemia,MSS,Semi-Adherent,2.534788181,8.333333333,Broad
+SIDM00527,MDST8,Large Intestine,Colorectal Carcinoma,Colon Carcinoma,MSS,Adherent,3.828247539,22.83333333,Sanger
+SIDM00528,MDA-MB-361,Breast,Breast Carcinoma,Breast Adenocarcinoma,MSS,Adherent,2.654787781,30.56666667,Sanger
+SIDM00529,MDA-MB-157,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Adherent,2.811749997,10.16666667,Broad
+SIDM00530,KYAE-1,Esophagus,Esophageal Carcinoma,Esophageal Adenocarcinoma,MSS,Adherent,3.18287716,12.6,Sanger
+SIDM00531,HuP-T4,Pancreas,Pancreatic Carcinoma,Pancreatic Adenocarcinoma,MSS,Adherent,3.340030759,7.8,Broad
+SIDM00532,MOG-G-CCM,Central Nervous System,Glioma,Anaplastic Astrocytoma,MSS,Adherent,1.978119482,3.866666667,Sanger
+SIDM00533,HuP-T3,Pancreas,Pancreatic Carcinoma,Pancreatic Adenocarcinoma,MSS,Adherent,1.809539958,6.566666667,Broad
+SIDM00534,HT-115,Large Intestine,Colorectal Carcinoma,Colon Carcinoma,MSS,Adherent,2.044700045,177.9,Sanger
+SIDM00535,H-EMC-SS,Bone,Chondrosarcoma,Chondrosarcoma,MSS,Adherent,1.977893038,10.03333333,Sanger
+SIDM00537,GP5d,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSI,Adherent,1.990416906,152.5,Sanger
+SIDM00538,ESO51,Esophagus,Esophageal Carcinoma,Esophageal Adenocarcinoma,MSS,Suspension,2.750624426,8.533333333,Sanger
+SIDM00539,ESO26,Esophagus,Esophageal Carcinoma,Esophageal Adenocarcinoma,MSS,Suspension,1.809873856,7.466666667,Sanger
+SIDM00540,DOK,Head and Neck,Oral Cavity Carcinoma,Oral Dysplasia,MSS,Adherent,3.510962708,5.4,Sanger
+SIDM00541,HT55,Large Intestine,Colorectal Carcinoma,Colon Carcinoma,MSS,Adherent,3.452938148,33.73333333,Sanger
+SIDM00542,D-392MG,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,2.025843899,5.466666667,Sanger
+SIDM00543,GAK,Skin,Melanoma,Vulvar Melanoma,MSS,Adherent,2.577272902,8.833333333,Sanger
+SIDM00544,GOTO,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,2.020442267,11.06666667,Sanger
+SIDM00545,Mewo,Skin,Melanoma,Melanoma,MSS,Adherent,1.929835775,143.1666667,Broad
+SIDM00547,LU-65,Lung,Non-Small Cell Lung Carcinoma,Giant Cell Lung Carcinoma,MSS,Unknown,4.431119283,10.96666667,Broad
+SIDM00548,LK-2,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Adherent,2.68877954,12.76666667,Broad
+SIDM00549,LC4-1,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSS,Suspension,1.95738756,9.766666667,Sanger
+SIDM00550,KYSE-50,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Unknown,3.361218138,12.33333333,Sanger
+SIDM00551,KYSE-220,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,2.80916761,17.83333333,Sanger
+SIDM00552,KYM-1,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,MSS,Unknown,1.954106385,15.73333333,Broad
+SIDM00553,KY821,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Acute Myelomonocytic Leukemia,MSS,Unknown,3.83651946,8.8,Sanger
+SIDM00554,KURAMOCHI,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Unknown,2.610143457,9.4,Broad
+SIDM00555,KS-1,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,3.476511439,12.1,Broad
+SIDM00556,KP-N-YN,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,1.925827566,9.466666667,Broad
+SIDM00557,KP-N-RT-BM-1,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,1.912747703,10.83333333,Broad
+SIDM00560,MKN7,Stomach,Gastric Carcinoma,Gastric Tubular Adenocarcinoma,MSS,Unknown,3.016773974,11.0,Broad
+SIDM00561,MLMA,Haematopoietic and Lymphoid,Other Blood Cancers,Hairy Cell Leukemia,MSS,Unknown,2.018522633,11.63333333,Sanger
+SIDM00562,MRK-nu-1,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Unknown,3.820205285,26.56666667,Sanger
+SIDM00564,OVISE,Ovary,Ovarian Carcinoma,Ovarian Clear Cell Adenocarcinoma,MSS,Adherent,2.802151947,11.56666667,Broad
+SIDM00565,OSC-20,Head and Neck,Oral Cavity Carcinoma,Oral Cavity Squamous Cell Carcinoma,MSS,Unknown,2.665483463,11.13333333,Sanger
+SIDM00566,OSC-19,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Unknown,5.063770154,11.6,Sanger
+SIDM00567,ONS-76,Central Nervous System,Other Solid Cancers,Medulloblastoma,MSS,Adherent,3.493098773,16.33333333,Broad
+SIDM00568,OCUM-1,Stomach,Gastric Carcinoma,Signet Ring Cell Gastric Adenocarcinoma,MSS,Unknown,2.297516868,10.26666667,Broad
+SIDM00569,NY,Bone,Osteosarcoma,Osteosarcoma,MSS,Unknown,3.540037595,12.76666667,Sanger
+SIDM00570,NUGC-4,Stomach,Gastric Carcinoma,Signet Ring Cell Gastric Adenocarcinoma,MSS,Unknown,3.338318061,12.2,Broad
+SIDM00571,KP-3,Pancreas,Pancreatic Carcinoma,Pancreatic Adenosquamous Carcinoma,MSS,Adherent,2.656165357,8.666666667,Broad
+SIDM00572,NUGC-3,Stomach,Gastric Carcinoma,Gastric Adenocarcinoma,MSI,Unknown,2.428205522,29.73333333,Broad
+SIDM00573,no-11,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,3.308391226,10.23333333,Sanger
+SIDM00574,no-10,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,2.468031992,10.66666667,Sanger
+SIDM00575,NMC-G1,Central Nervous System,Glioma,Astrocytoma,MSS,Unknown,2.263272718,7.266666667,Broad
+SIDM00576,NKM-1,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Unknown,1.964432613,10.96666667,Sanger
+SIDM00577,NH-12,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,1.975333318,9.4,Sanger
+SIDM00578,NB1,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,1.940229892,13.6,Broad
+SIDM00579,NB(TU)1-10,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Unknown,3.000473759,11.0,Sanger
+SIDM00580,NOMO-1,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Monocytic Leukemia,MSS,Unknown,2.056642134,8.233333333,Broad
+SIDM00581,GB-1,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,2.943747223,14.43333333,Broad
+SIDM00582,KP-2,Pancreas,Pancreatic Carcinoma,Pancreatic Carcinoma,,Adherent,3.499415952,10.33333333,Broad
+SIDM00583,KP-1N,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Adherent,2.524829241,6.9,Sanger
+SIDM00584,HuO-3N1,Bone,Osteosarcoma,Osteosarcoma,MSS,Unknown,3.52824947,8.633333333,Sanger
+SIDM00585,HuH-7,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Unknown,2.435327559,11.53333333,Broad
+SIDM00586,huH-1,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Unknown,2.960436159,12.6,Broad
+SIDM00587,HuCCT1,Biliary Tract,Biliary Tract Carcinoma,Intrahepatic Cholangiocarcinoma,MSS,Unknown,3.163722982,10.6,Broad
+SIDM00588,HSC-4,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Adherent,3.429424602,11.76666667,Broad
+SIDM00589,HSC-3,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Unknown,2.65789237,14.1,Broad
+SIDM00590,HSC-2,Head and Neck,Oral Cavity Carcinoma,Oral Cavity Squamous Cell Carcinoma,MSS,Adherent,2.507636541,12.2,Broad
+SIDM00591,HO-1-u-1,Head and Neck,Oral Cavity Carcinoma,Oral Cavity Squamous Cell Carcinoma,MSS,Unknown,2.621290397,11.1,Sanger
+SIDM00592,HO-1-N-1,Head and Neck,Oral Cavity Carcinoma,Oral Cavity Squamous Cell Carcinoma,MSS,Adherent,3.456410679,9.633333333,Sanger
+SIDM00594,HEL,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Erythroleukemia,MSS,Suspension,2.749970851,6.733333333,Broad
+SIDM00596,HEC-1,Endometrium,Endometrial Carcinoma,Endometrial Adenocarcinoma,MSI,Adherent,3.432365804,115.9333333,Sanger
+SIDM00598,HARA,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Unknown,2.776076334,24.63333333,Broad
+SIDM00599,HuO9,Bone,Osteosarcoma,Osteosarcoma,MSS,Adherent,3.081906707,7.966666667,Sanger
+SIDM00600,IHH-4,Thyroid,Thyroid Gland Carcinoma,Papillary Thyroid Carcinoma,MSS,Unknown,2.001318917,14.36666667,Sanger
+SIDM00602,IM-95,Stomach,Gastric Carcinoma,Gastric Adenocarcinoma,MSS,Unknown,2.014002341,47.96666667,Broad
+SIDM00603,KOSC-2,Head and Neck,Head and Neck Carcinoma,Head and Neck Squamous Cell Carcinoma,MSS,Unknown,2.791229467,9.866666667,Sanger
+SIDM00604,KON,Head and Neck,Oral Cavity Carcinoma,Oral Cavity Squamous Cell Carcinoma,MSS,Adherent,2.652559537,12.3,Sanger
+SIDM00606,KNS-62,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Adherent,2.506712832,18.36666667,Sanger
+SIDM00607,KNS-42,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,3.071950007,11.9,Broad
+SIDM00608,KMS-11,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,,Unknown,3.090489832,17.93333333,Broad
+SIDM00609,KMRC-20,Kidney,Kidney Carcinoma,Clear Cell Renal Cell Carcinoma,MSS,Adherent,3.073374206,7.966666667,Broad
+SIDM00611,KMRC-1,Kidney,Kidney Carcinoma,Clear Cell Renal Cell Carcinoma,MSS,Adherent,3.2536742,10.63333333,Broad
+SIDM00612,KINGS-1,Central Nervous System,Glioma,Anaplastic Astrocytoma,MSS,Unknown,1.832504326,8.333333333,Sanger
+SIDM00613,KALS-1,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,3.055100554,9.3,Broad
+SIDM00614,JHH-7,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Adherent,2.983507404,20.36666667,Broad
+SIDM00615,JHH-6,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Adherent,3.049643317,10.23333333,Broad
+SIDM00616,JHH-4,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Adherent,,10.2,Broad
+SIDM00617,JHH-2,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Unknown,,11.33333333,Broad
+SIDM00618,JHH-1,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Adherent,3.77649252,11.73333333,Broad
+SIDM00619,KMH-2,Thyroid,Thyroid Gland Carcinoma,Anaplastic Thyroid Carcinoma,MSS,Unknown,3.785519502,25.06666667,Sanger
+SIDM00620,D-336MG,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,3.255389725,5.1,Sanger
+SIDM00621,EW-13,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,1.90776299,6.733333333,Sanger
+SIDM00622,D-247MG,Central Nervous System,Glioblastoma,Gliosarcoma,MSS,Unknown,4.129924501,6.6,Sanger
+SIDM00623,Mo-T,Haematopoietic and Lymphoid,Other Blood Cancers,Hairy Cell Leukemia,MSS,Suspension,1.961783963,4.333333333,Sanger
+SIDM00625,MES-SA,Uterus,Other Sarcomas,Uterine Corpus Sarcoma,MSS,Adherent,1.880060431,10.63333333,Broad
+SIDM00627,ME-180,Cervix,Cervical Carcinoma,Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma,MSS,Adherent,2.673847913,6.266666667,Sanger
+SIDM00628,MDA-MB-468,Breast,Breast Carcinoma,Breast Adenocarcinoma,MSS,Adherent,2.842148349,10.7,Broad
+SIDM00629,MDA-MB-436,Breast,Breast Carcinoma,Invasive Ductal Carcinoma Not Otherwise Specified,MSS,Adherent,2.973191208,9.5,Broad
+SIDM00630,MDA-MB-415,Breast,Breast Carcinoma,Breast Adenocarcinoma,MSS,Adherent,2.875075664,9.5,Broad
+SIDM00631,MDA-MB-330,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Adherent,3.989533431,8.766666667,Sanger
+SIDM00632,IM-9,Haematopoietic and Lymphoid,Non-Cancerous,Non-Cancerous,MSS,Suspension,1.96835778,5.266666667,Sanger
+SIDM00633,MDA-MB-175-VII,Breast,Breast Carcinoma,Invasive Ductal Carcinoma Not Otherwise Specified,MSS,Semi-Adherent,3.627055354,10.2,Broad
+SIDM00637,MC116,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,B-Cell Non-Hodgkin's Lymphoma,MSS,Suspension,2.091960668,8.266666667,Broad
+SIDM00638,MS751,Cervix,Cervical Carcinoma,Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma,MSS,Adherent,1.862779907,4.366666667,Sanger
+SIDM00640,MSTO-211H,Lung,Mesothelioma,Pleural Biphasic Mesothelioma,MSS,Adherent,3.48918453,6.266666667,Broad
+SIDM00641,NAMALWA,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Epstein-Barr Virus-Related Burkitt s Lymphoma,MSS,Suspension,3.278716626,15.03333333,Broad
+SIDM00645,NCI-H1355,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Suspension,2.304485605,11.93333333,Broad
+SIDM00646,NCI-H1341,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,3.601399733,5.233333333,Broad
+SIDM00648,NCI-H1304,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.629505967,7.166666667,Sanger
+SIDM00649,NCI-H1299,Lung,Non-Small Cell Lung Carcinoma,Large Cell Lung Carcinoma,MSS,Adherent,4.750400096,10.43333333,Broad
+SIDM00650,NCI-H128,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.851627584,7.2,Sanger
+SIDM00651,NCI-H1155,Lung,Non-Small Cell Lung Carcinoma,Large Cell Lung Carcinoma,MSS,Suspension,2.05543019,56.23333333,Broad
+SIDM00652,NCI-H1105,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,3.241363992,21.56666667,Broad
+SIDM00653,NCI-H1092,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.910699673,12.23333333,Broad
+SIDM00654,NCI-H1048,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSI,Adherent,2.010062975,19.86666667,Broad
+SIDM00655,NCCIT,Testis,Other Solid Cancers,Testicular Embryonal Carcinoma,MSS,Adherent,2.500284647,10.0,Sanger
+SIDM00657,MV-4-11,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Childhood Acute Differentiated Monocytic Leukemia,MSS,Suspension,2.012127396,4.566666667,Broad
+SIDM00658,NCI-H1435,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Semi-Adherent,1.856069597,28.76666667,Broad
+SIDM00659,M059J,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,4.239484529,4.733333333,Sanger
+SIDM00660,LS-411N,Large Intestine,Colorectal Carcinoma,Cecum Adenocarcinoma,MSI,Adherent,3.302509972,116.7333333,Broad
+SIDM00661,HT,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSI,Suspension,1.922459543,46.73333333,Broad
+SIDM00662,Hs-940-T,Skin,Melanoma,Melanoma,MSS,Adherent,3.144834349,3.833333333,Broad
+SIDM00663,Hs-939-T,Skin,Melanoma,Melanoma,MSS,Adherent,1.94164211,15.43333333,Broad
+SIDM00664,Hs-766T,Pancreas,Pancreatic Carcinoma,Pancreatic Adenocarcinoma,MSS,Adherent,2.397418312,6.4,Broad
+SIDM00665,Hs-746T,Stomach,Gastric Carcinoma,Gastric Adenocarcinoma,MSS,Adherent,2.059789235,11.23333333,Broad
+SIDM00666,Hs-683,Central Nervous System,Glioma,Oligodendroglioma,MSS,Adherent,,,Broad
+SIDM00667,Hs-633T,Soft Tissue,Other Sarcomas,Fibrosarcoma,MSS,Adherent,,,Sanger
+SIDM00668,Hs-445,Haematopoietic and Lymphoid,Non-Cancerous,Non-Cancerous,MSS,Suspension,2.035103733,5.366666667,Sanger
+SIDM00669,HPAF-II,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Adherent,2.551692367,5.766666667,Broad
+SIDM00670,HPAC,Pancreas,Pancreatic Carcinoma,Pancreatic Adenocarcinoma,MSS,Adherent,2.740920813,7.7,Broad
+SIDM00671,HH,Haematopoietic and Lymphoid,T-Cell Non-Hodgkin's Lymphoma,Cutaneous T-Cell Lymphoma,MSS,Suspension,1.954230322,6.666666667,Broad
+SIDM00672,Hep3B2-1-7,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Adherent,3.697136046,,Broad
+SIDM00673,HCC70,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Adherent,4.24338942,6.233333333,Broad
+SIDM00675,HCC38,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Semi-Adherent,1.822823741,3.833333333,Broad
+SIDM00676,HT-1197,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,3.219990412,7.133333333,Broad
+SIDM00677,LS-513,Large Intestine,Colorectal Carcinoma,Cecum Adenocarcinoma,MSS,Adherent,2.221056871,7.833333333,Sanger
+SIDM00678,HT-1376,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,4.99278065,8.533333333,Broad
+SIDM00679,HT-3,Cervix,Cervical Carcinoma,Cervical Carcinoma,MSS,Adherent,2.904742366,11.73333333,Sanger
+SIDM00680,LS-180,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSI,Adherent,1.932594863,66.53333333,Sanger
+SIDM00681,LS1034,Large Intestine,Colorectal Carcinoma,Cecum Adenocarcinoma,MSS,Adherent,3.058202694,3.766666667,Broad
+SIDM00683,LNCaP-Clone-FGC,Prostate,Prostate Carcinoma,Prostate Carcinoma,MSI,Semi-Adherent,3.776481166,90.83333333,Broad
+SIDM00684,LN-229,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,3.676168433,9.233333333,Broad
+SIDM00685,LN-18,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,2.535260577,16.16666667,Broad
+SIDM00686,KLE,Endometrium,Endometrial Carcinoma,Endometrial Adenocarcinoma,MSS,Adherent,2.653350809,4.8,Broad
+SIDM00687,KATOIII,Stomach,Gastric Carcinoma,Signet Ring Cell Gastric Adenocarcinoma,MSS,Semi-Adherent,3.584085102,16.23333333,Broad
+SIDM00688,JSC-1,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Primary Effusion Lymphoma,MSS,Suspension,3.454416239,22.36666667,Sanger
+SIDM00689,JM1,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,B Acute Lymphoblastic Leukemia,MSS,Suspension,2.272725065,5.333333333,Broad
+SIDM00690,JHU-029,Head and Neck,Head and Neck Carcinoma,Laryngeal Squamous Cell Carcinoma,,Adherent,2.234076327,11.6,Sanger
+SIDM00693,J82,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,3.631170504,4.8,Broad
+SIDM00694,HuTu-80,Small Intestine,Other Solid Cancers,Duodenal Adenocarcinoma,MSS,Adherent,1.960884419,7.9,Broad
+SIDM00695,HT-144,Skin,Melanoma,Melanoma,MSS,Adherent,2.661321364,5.566666667,Broad
+SIDM00697,NCI-H1436,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.015223357,20.4,Broad
+SIDM00698,NCI-H146,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.921227341,9.7,Broad
+SIDM00699,NCI-H2141,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.826732837,16.13333333,Sanger
+SIDM00700,NCI-H2135,Lung,Non-Small Cell Lung Carcinoma,Non-Small Cell Lung Carcinoma,MSS,Adherent,3.684066061,22.86666667,Sanger
+SIDM00702,NCI-H2122,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.471449922,3.833333333,Broad
+SIDM00703,NCI-H2110,Lung,Non-Small Cell Lung Carcinoma,Non-Small Cell Lung Carcinoma,MSS,Adherent,2.581503252,52.23333333,Broad
+SIDM00704,NCI-H211,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,1.801945111,12.76666667,Broad
+SIDM00706,NCI-H209,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,3.943454621,4.666666667,Broad
+SIDM00708,NCI-H2087,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.391760821,14.53333333,Broad
+SIDM00709,NCI-H2085,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.672741274,9.133333333,Broad
+SIDM00710,NCI-H2081,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,3.050388456,12.06666667,Broad
+SIDM00713,NCI-H2052,Lung,Mesothelioma,Pleural Sarcomatoid Mesothelioma,MSS,Adherent,3.875561742,1.433333333,Broad
+SIDM00715,NCI-H2030,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.114153336,9.166666667,Broad
+SIDM00716,NCI-H2170,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Adherent,5.473141565,8.466666667,Broad
+SIDM00718,NCI-H358,Lung,Non-Small Cell Lung Carcinoma,Bronchiolo-Alveolar Lung Carcinoma,MSS,Adherent,2.837776613,28.96666667,Broad
+SIDM00719,NCI-H345,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Semi-Adherent,2.695645242,24.4,Sanger
+SIDM00720,NCI-H28,Lung,Mesothelioma,Pleural Sarcomatoid Mesothelioma,MSS,Adherent,3.800372222,9.066666667,Broad
+SIDM00721,NCI-H250,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.698256841,22.4,Sanger
+SIDM00722,NCI-H2452,Lung,Mesothelioma,Pleural Biphasic Mesothelioma,MSS,Adherent,3.309633959,3.8,Broad
+SIDM00723,NCI-H2444,Lung,Non-Small Cell Lung Carcinoma,Non-Small Cell Lung Carcinoma,MSS,Adherent,2.361224437,6.533333333,Broad
+SIDM00724,NCI-H2405,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Semi-Adherent,3.714135156,4.466666667,Broad
+SIDM00726,NCI-H2347,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,3.756108677,26.5,Broad
+SIDM00727,NCI-H2342,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,3.663892516,60.26666667,Broad
+SIDM00728,NCI-H2291,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.826900326,17.93333333,Broad
+SIDM00729,NCI-H2228,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,3.743530018,6.966666667,Broad
+SIDM00730,NCI-H2227,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Semi-Adherent,2.508879449,12.73333333,Broad
+SIDM00731,NCI-H2196,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Adherent,1.733488039,9.2,Broad
+SIDM00732,D-263MG,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,3.194381566,4.666666667,Sanger
+SIDM00733,NCI-H2171,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,1.809606521,6.8,Broad
+SIDM00734,NCI-H1437,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.848688544,7.7,Broad
+SIDM00735,NCI-H2029,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Adherent,1.875258151,8.533333333,Broad
+SIDM00737,NCI-H1770,Lung,Non-Small Cell Lung Carcinoma,Non-Small Cell Lung Carcinoma,MSS,Suspension,2.702144346,29.2,Sanger
+SIDM00738,NCI-H1755,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Semi-Adherent,3.009254755,8.733333333,Broad
+SIDM00739,NCI-H1734,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.492666737,17.7,Broad
+SIDM00740,NCI-H1703,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Adherent,2.31550571,16.6,Broad
+SIDM00741,NCI-H1694,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.403295752,6.9,Broad
+SIDM00742,NCI-H1693,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.730169327,9.333333333,Broad
+SIDM00743,NCI-H1666,Lung,Non-Small Cell Lung Carcinoma,Bronchiolo-Alveolar Lung Carcinoma,MSS,Semi-Adherent,2.957840032,9.566666667,Broad
+SIDM00744,NCI-H1651,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.905446505,27.3,Broad
+SIDM00745,NCI-H1650,Lung,Non-Small Cell Lung Carcinoma,Bronchiolo-Alveolar Lung Carcinoma,MSS,Adherent,1.991831895,3.533333333,Broad
+SIDM00746,NCI-H1648,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.43707672,17.26666667,Broad
+SIDM00747,NCI-H1623,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Semi-Adherent,2.63487674,20.23333333,Broad
+SIDM00748,NCI-H1581,Lung,Non-Small Cell Lung Carcinoma,Large Cell Lung Carcinoma,MSS,Semi-Adherent,3.189663341,8.0,Broad
+SIDM00749,NCI-H1573,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,1.661882845,44.3,Broad
+SIDM00750,NCI-H1568,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.500623586,25.63333333,Broad
+SIDM00751,NCI-H1563,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,3.672370747,18.26666667,Broad
+SIDM00753,NCI-H2023,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Adherent,2.470210817,18.36666667,Broad
+SIDM00754,NCI-H1781,Lung,Non-Small Cell Lung Carcinoma,Bronchiolo-Alveolar Lung Carcinoma,MSS,Adherent,2.435727063,7.3,Broad
+SIDM00755,NCI-H1793,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,3.21613952,38.0,Broad
+SIDM00756,NCI-H2009,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,4.772955726,25.2,Broad
+SIDM00758,NCI-H1993,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,4.194214793,13.93333333,Sanger
+SIDM00759,NCI-H1975,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.829888661,8.266666667,Broad
+SIDM00760,NCI-H1963,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,1.989842841,11.6,Broad
+SIDM00761,NCI-H196,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Adherent,2.351384787,13.8,Broad
+SIDM00762,NCI-H1944,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.128046045,14.13333333,Broad
+SIDM00763,NCI-H1915,Lung,Non-Small Cell Lung Carcinoma,Non-Small Cell Lung Carcinoma,MSS,Adherent,2.00929627,12.66666667,Broad
+SIDM00766,NCI-H1876,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Adherent,2.412225694,13.36666667,Broad
+SIDM00767,NCI-H187,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.969956698,20.76666667,Sanger
+SIDM00768,NCI-H1869,Lung,Non-Small Cell Lung Carcinoma,Non-Small Cell Lung Carcinoma,MSS,Adherent,3.774333342,6.766666667,Broad
+SIDM00769,NCI-H1838,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.748032961,17.2,Broad
+SIDM00770,NCI-H1836,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,3.153430719,12.26666667,Sanger
+SIDM00771,NCI-H1792,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.163915823,7.833333333,Broad
+SIDM00772,HCC2218,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Suspension,3.925428789,7.4,Broad
+SIDM00774,HCC2157,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Suspension,2.689760153,5.533333333,Broad
+SIDM00776,LS-123,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,2.724264561,8.033333333,Broad
+SIDM00777,NCI-H508,Large Intestine,Colorectal Carcinoma,Cecum Adenocarcinoma,MSS,Suspension,4.36323072,8.366666667,Broad
+SIDM00778,NCI-H747,Large Intestine,Colorectal Carcinoma,Cecum Adenocarcinoma,MSS,Semi-Adherent,2.974481752,6.6,Broad
+SIDM00779,NCI-H716,Large Intestine,Colorectal Carcinoma,Cecum Adenocarcinoma,MSS,Suspension,2.743337566,7.833333333,Broad
+SIDM00781,SNU-C2B,Large Intestine,Colorectal Carcinoma,Cecum Adenocarcinoma,MSI,Semi-Adherent,2.029176406,73.4,Sanger
+SIDM00782,T84,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,2.695027638,9.233333333,Broad
+SIDM00783,HCT-116,Large Intestine,Colorectal Carcinoma,Colon Carcinoma,MSI,Adherent,1.97598793,70.63333333,Sanger
+SIDM00785,KG-1,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Suspension,1.985699079,6.366666667,Broad
+SIDM00789,HCT-15,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSI,Adherent,1.958197722,183.9666667,Sanger
+SIDM00791,K-562,Haematopoietic and Lymphoid,Chronic Myelogenous Leukemia,Chronic Myelogenous Leukemia,MSS,Suspension,2.960465231,11.1,Broad
+SIDM00792,NCI-H1688,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Adherent,2.732902954,15.63333333,Sanger
+SIDM00793,EB-3,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Epstein-Barr Virus-Related Burkitt s Lymphoma,MSS,Suspension,1.970598774,11.06666667,Sanger
+SIDM00794,A388,Skin,Other Solid Cancers,Skin Squamous Cell Carcinoma,MSS,Adherent,2.031509935,9.6,Sanger
+SIDM00795,A375,Skin,Melanoma,Amelanotic Melanoma,MSS,Adherent,2.689861813,14.33333333,Broad
+SIDM00796,A253,Head and Neck,Head and Neck Carcinoma,Salivary Gland Squamous Cell Carcinoma,MSS,Adherent,2.770921796,11.43333333,Broad
+SIDM00797,A2058,Skin,Melanoma,Amelanotic Melanoma,MSS,Adherent,2.12860247,12.36666667,Broad
+SIDM00798,A204,Soft Tissue,Rhabdomyosarcoma,Embryonal Rhabdomyosarcoma,MSS,Adherent,1.974949934,4.1,Broad
+SIDM00799,A172,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,3.456949527,8.433333333,Broad
+SIDM00801,A101D,Skin,Melanoma,Melanoma,MSS,Adherent,2.522666899,5.266666667,Broad
+SIDM00803,769-P,Kidney,Kidney Carcinoma,Clear Cell Renal Cell Carcinoma,MSS,Adherent,1.96979785,6.466666667,Broad
+SIDM00806,HOS,Bone,Osteosarcoma,Osteosarcoma,MSS,Adherent,2.148085135,9.233333333,Broad
+SIDM00807,5637,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,2.988819246,15.03333333,Broad
+SIDM00808,JiyoyeP-2003,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Epstein-Barr Virus-Related Burkitt s Lymphoma,MSS,Suspension,1.98555878,9.266666667,Sanger
+SIDM00810,A427,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,3.126441891,11.9,Sanger
+SIDM00812,SW1417,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,3.012590638,7.066666667,Broad
+SIDM00813,RPMI-6666,Haematopoietic and Lymphoid,Non-Cancerous,Non-Cancerous,MSS,Suspension,1.952393982,3.866666667,Sanger
+SIDM00814,SW13,Adrenal Gland,Other Solid Cancers,Adrenal Cortex Carcinoma,MSS,Adherent,3.100589488,11.8,Sanger
+SIDM00815,UWB1.289,Ovary,Ovarian Carcinoma,Ovarian Carcinoma,MSS,Unknown,3.138133418,5.466666667,Sanger
+SIDM00816,RCC-MF,Kidney,Kidney Carcinoma,Clear Cell Renal Cell Carcinoma,MSS,Adherent,1.750687116,5.633333333,Sanger
+SIDM00817,RCC-JW,Kidney,Kidney Carcinoma,Clear Cell Renal Cell Carcinoma,MSS,Adherent,3.180313384,5.766666667,Sanger
+SIDM00818,RCC-JF,Kidney,Kidney Carcinoma,Clear Cell Renal Cell Carcinoma,MSS,Adherent,1.942871787,6.7,Sanger
+SIDM00819,RCC-FG2,Kidney,Kidney Carcinoma,Clear Cell Renal Cell Carcinoma,MSS,Adherent,2.063557919,13.63333333,Sanger
+SIDM00820,RCC-ER,Kidney,Kidney Carcinoma,Clear Cell Renal Cell Carcinoma,MSS,Adherent,2.061166329,6.0,Sanger
+SIDM00821,RCC-AB,Kidney,Kidney Carcinoma,Clear Cell Renal Cell Carcinoma,MSS,Adherent,1.765230216,4.8,Sanger
+SIDM00826,COLO-205,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Semi-Adherent,3.254393688,6.2,Sanger
+SIDM00828,HT-1080,Soft Tissue,Other Sarcomas,Fibrosarcoma,MSS,Adherent,1.985572056,4.7,Broad
+SIDM00829,HL-60,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Suspension,1.907132987,3.766666667,Broad
+SIDM00831,Detroit562,Head and Neck,Head and Neck Carcinoma,Pharyngeal Squamous Cell Carcinoma,MSS,Adherent,2.855835048,5.466666667,Broad
+SIDM00832,SW948,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,2.929897958,11.26666667,Sanger
+SIDM00833,SW837,Large Intestine,Colorectal Carcinoma,Rectal Adenocarcinoma,MSS,Adherent,1.827414453,7.0,Sanger
+SIDM00834,SW1463,Large Intestine,Colorectal Carcinoma,Rectal Adenocarcinoma,MSS,Adherent,3.402250491,6.666666667,Sanger
+SIDM00835,SW1116,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,2.692005044,8.866666667,Sanger
+SIDM00837,SW48,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSI,Adherent,2.045965251,66.06666667,Sanger
+SIDM00839,LoVo,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSI,Adherent,2.123303262,56.06666667,Broad
+SIDM00841,SW620,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,2.177392196,15.2,Sanger
+SIDM00842,COLO-320-HSR,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Semi-Adherent,2.270269306,6.6,Sanger
+SIDM00844,Raji,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Epstein-Barr Virus-Related Burkitt s Lymphoma,MSS,Suspension,1.976071923,9.8,Broad
+SIDM00845,Daudi,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Epstein-Barr Virus-Related Burkitt s Lymphoma,MSS,Suspension,3.901892616,55.0,Broad
+SIDM00846,HeLa,Cervix,Cervical Carcinoma,Cervical Adenocarcinoma,MSS,Adherent,3.45538056,8.466666667,Sanger
+SIDM00847,RD,Soft Tissue,Rhabdomyosarcoma,Embryonal Rhabdomyosarcoma,MSS,Adherent,2.167211752,7.2,Broad
+SIDM00848,A673,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Adherent,1.951436996,3.5,Broad
+SIDM00849,A704,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Unknown,1.961576632,10.3,Broad
+SIDM00850,AGS,Stomach,Gastric Carcinoma,Gastric Adenocarcinoma,MSS,Adherent,2.094259233,25.2,Broad
+SIDM00852,H4,Central Nervous System,Glioma,Astrocytoma,MSS,Adherent,3.066261451,8.266666667,Broad
+SIDM00853,GCT,Soft Tissue,Other Sarcomas,Undifferentiated Pleomorphic Sarcoma,MSS,Adherent,2.892514952,21.5,Broad
+SIDM00854,GA-10,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Burkitt's Lymphoma,MSS,Suspension,3.989148709,6.433333333,Broad
+SIDM00855,G-402,Soft Tissue,Other Sarcomas,Epithelioid Cell Type Gastrointestinal Stromal Tumor,MSS,Adherent,2.046391472,6.433333333,Broad
+SIDM00856,G-401,Kidney,Other Solid Cancers,Rhabdoid Tumour of the Kidney,MSS,Adherent,1.961008873,4.5,Broad
+SIDM00857,G-361,Skin,Melanoma,Melanoma,MSS,Adherent,3.146489523,8.466666667,Broad
+SIDM00858,G-292-Clone-A141B1,Bone,Osteosarcoma,Osteosarcoma,MSS,Adherent,,,Broad
+SIDM00859,Farage,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,1.975276974,35.7,Sanger
+SIDM00860,FADU,Head and Neck,Head and Neck Carcinoma,Hypopharyngeal Squamous Cell Carcinoma,MSS,Adherent,2.919876411,19.23333333,Broad
+SIDM00861,ES-2,Ovary,Ovarian Carcinoma,Ovarian Clear Cell Adenocarcinoma,MSS,Adherent,2.96907123,15.2,Broad
+SIDM00863,EB2,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Epstein-Barr Virus-Related Burkitt s Lymphoma,MSS,Suspension,3.577455563,18.96666667,Sanger
+SIDM00864,DoTc2-4510,Cervix,Cervical Carcinoma,Cervical Carcinoma,MSS,Adherent,3.156886877,10.83333333,Sanger
+SIDM00865,DMS-114,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Adherent,2.893369504,8.133333333,Broad
+SIDM00866,HCC1143,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Adherent,3.362044201,4.3,Broad
+SIDM00867,DBTRG-05MG,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,3.750016608,12.33333333,Broad
+SIDM00870,HCC202,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Semi-Adherent,2.918566224,12.0,Broad
+SIDM00872,HCC1954,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Adherent,4.203984771,4.2,Broad
+SIDM00874,HCC1937,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Semi-Adherent,4.238473033,3.633333333,Broad
+SIDM00875,HCC1806,Breast,Breast Carcinoma,Squamous Cell Breast Carcinoma Acantholytic Variant,MSS,Adherent,2.215331984,9.0,Sanger
+SIDM00877,HCC1599,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Suspension,2.995078528,4.433333333,Broad
+SIDM00878,HCC1569,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSI,Semi-Adherent,2.948469725,46.1,Broad
+SIDM00879,HCC1500,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Adherent,1.660725635,6.666666667,Broad
+SIDM00881,HCC1428,Breast,Breast Carcinoma,Breast Adenocarcinoma,MSS,Adherent,3.515258168,10.2,Broad
+SIDM00882,HCC1419,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Adherent,3.555410413,7.766666667,Broad
+SIDM00884,HCC1395,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Adherent,2.691600409,9.066666667,Broad
+SIDM00885,HCC1187,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Semi-Adherent,2.644131348,3.166666667,Sanger
+SIDM00886,DB,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,3.15790765,8.833333333,Broad
+SIDM00887,Daoy,Central Nervous System,Other Solid Cancers,Medulloblastoma,MSS,Adherent,4.154167041,5.233333333,Broad
+SIDM00888,D-283MED,Central Nervous System,Other Solid Cancers,Medulloblastoma,MSS,Suspension,1.994180499,4.4,Broad
+SIDM00889,C-33-A,Cervix,Cervical Carcinoma,Cervical Squamous Cell Carcinoma,MSI,Adherent,1.972256744,59.66666667,Sanger
+SIDM00890,C32,Skin,Melanoma,Amelanotic Melanoma,MSS,Adherent,2.011721293,8.466666667,Broad
+SIDM00892,BT-483,Breast,Breast Carcinoma,Invasive Ductal Carcinoma Not Otherwise Specified,MSS,Adherent,3.840197164,12.23333333,Broad
+SIDM00893,BT-20,Breast,Breast Carcinoma,Invasive Ductal Carcinoma Not Otherwise Specified,MSS,Adherent,2.445086326,10.53333333,Broad
+SIDM00895,BC-3,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Primary Effusion Lymphoma,MSS,Suspension,2.030635593,23.56666667,Sanger
+SIDM00896,BC-1,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Primary Effusion Lymphoma,MSS,Suspension,2.223826789,6.866666667,Sanger
+SIDM00898,AU565,Breast,Breast Carcinoma,Breast Adenocarcinoma,MSS,Adherent,3.614169561,12.9,Broad
+SIDM00899,AsPC-1,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Adherent,2.461243113,6.366666667,Broad
+SIDM00900,ARH-77,Haematopoietic and Lymphoid,Non-Cancerous,Non-Cancerous,MSS,Suspension,2.001440629,5.0,Sanger
+SIDM00901,AN3-CA,Endometrium,Endometrial Carcinoma,Endometrial Adenocarcinoma,MSI,Adherent,2.170906977,68.83333333,Broad
+SIDM00903,A549,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.761944611,8.633333333,Broad
+SIDM00905,C-4-I,Cervix,Cervical Carcinoma,Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma,MSS,Adherent,1.925836159,7.8,Sanger
+SIDM00907,CA46,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Burkitt's Lymphoma,MSS,Suspension,4.013405939,9.833333333,Broad
+SIDM00909,COLO-829,Skin,Melanoma,Melanoma,MSS,Adherent,2.765166842,6.633333333,Broad
+SIDM00910,CHP-212,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,1.9837102,4.333333333,Broad
+SIDM00917,CESS,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,MSS,Suspension,2.00177214,7.6,Sanger
+SIDM00918,Caov-4,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Adherent,4.639966845,5.233333333,Broad
+SIDM00919,Caov-3,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Adherent,3.159091631,7.8,Broad
+SIDM00920,CAMA-1,Breast,Breast Carcinoma,Breast Adenocarcinoma,MSS,Adherent,1.932833303,10.66666667,Broad
+SIDM00921,Calu-6,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.556255696,5.9,Broad
+SIDM00922,Calu-3,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.861778616,6.633333333,Broad
+SIDM00923,Ca-Ski,Cervix,Cervical Carcinoma,Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma,MSS,Adherent,3.226191121,10.0,Sanger
+SIDM00924,ChaGo-K-1,Lung,Other Solid Cancers,Bronchogenic Carcinoma,MSS,Adherent,2.13539469,18.5,Broad
+SIDM00925,NCI-H441,Lung,Non-Small Cell Lung Carcinoma,Papillary Lung Adenocarcinoma,MSS,Adherent,2.670447857,15.36666667,Broad
+SIDM00926,NCI-H2172,Lung,Non-Small Cell Lung Carcinoma,Non-Small Cell Lung Carcinoma,MSS,Adherent,4.230089926,43.66666667,Broad
+SIDM00927,NCI-H510A,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Semi-Adherent,2.689424648,33.2,Sanger
+SIDM00928,CAL-85-1,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Adherent,2.675383331,12.36666667,Broad
+SIDM00929,CAL-78,Bone,Chondrosarcoma,Chondrosarcoma,MSS,Adherent,3.424897378,8.3,Sanger
+SIDM00930,CAL-72,Bone,Osteosarcoma,Osteosarcoma,MSS,Adherent,2.362356025,12.0,Sanger
+SIDM00931,CAL-62,Thyroid,Thyroid Gland Carcinoma,Anaplastic Thyroid Carcinoma,MSS,Adherent,2.526469338,5.133333333,Broad
+SIDM00932,CAL-54,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Adherent,2.345081379,6.766666667,Broad
+SIDM00933,CAL-51,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Adherent,1.988446209,22.63333333,Broad
+SIDM00934,CAPAN-1,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Adherent,2.605256641,7.1,Broad
+SIDM00935,CAL-39,Vulva,Other Solid Cancers,Vulvar Squamous Cell Carcinoma,MSS,Adherent,2.537414861,8.9,Sanger
+SIDM00936,CAL-29,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,2.929286172,5.633333333,Broad
+SIDM00937,CAL-27,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Adherent,1.935470847,12.06666667,Broad
+SIDM00938,CAL-148,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Adherent,2.065513107,17.63333333,Broad
+SIDM00939,CAL-12T,Lung,Non-Small Cell Lung Carcinoma,Non-Small Cell Lung Carcinoma,MSS,Adherent,2.4042772,19.56666667,Broad
+SIDM00940,CAL-120,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Adherent,3.197696217,4.2,Broad
+SIDM00941,CAKI-1,Kidney,Kidney Carcinoma,Clear Cell Renal Cell Carcinoma,MSS,Adherent,3.231901659,6.6,Broad
+SIDM00942,CAL-33,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Adherent,2.088865963,8.633333333,Broad
+SIDM00943,CAPAN-2,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Adherent,3.216258012,4.5,Broad
+SIDM00944,CL-11,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,1.936489416,5.7,Broad
+SIDM00946,DND-41,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Childhood T Acute Lymphoblastic Leukemia,MSI,Suspension,3.841096436,67.7,Sanger
+SIDM00947,DK-MG,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,1.905895451,4.8,Broad
+SIDM00948,DG-75,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Burkitt's Lymphoma,MSI,Suspension,1.948466459,47.76666667,Sanger
+SIDM00949,DEL,Haematopoietic and Lymphoid,T-Cell Non-Hodgkin's Lymphoma,Anaplastic Large Cell Lymphoma,MSS,Suspension,3.232636805,7.2,Broad
+SIDM00950,DAN-G,Pancreas,Pancreatic Carcinoma,Pancreatic Adenocarcinoma,MSS,Adherent,2.929097734,5.966666667,Broad
+SIDM00951,CTV-1,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Adult T Acute Lymphoblastic Leukemia,MSI,Suspension,2.008443251,115.3333333,Sanger
+SIDM00952,CRO-AP2,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Primary Effusion Lymphoma,MSS,Suspension,2.246160158,13.56666667,Sanger
+SIDM00953,CPC-N,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.069793945,11.03333333,Sanger
+SIDM00954,COLO-824,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Adherent,2.438587423,10.53333333,Sanger
+SIDM00955,COLO-783,Skin,Melanoma,Melanoma,MSS,Adherent,3.730669529,18.2,Broad
+SIDM00956,COLO-680N,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,2.884456635,10.2,Broad
+SIDM00957,COLO-678,Large Intestine,Colorectal Carcinoma,Colon Carcinoma,MSS,Adherent,2.306685084,7.133333333,Broad
+SIDM00958,CML-T1,Haematopoietic and Lymphoid,Chronic Myelogenous Leukemia,Chronic Myelogenous Leukemia,MSS,Suspension,1.9645276,57.83333333,Sanger
+SIDM00959,CMK,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Childhood Acute Megakaryoblastic Leukemia,MSS,Suspension,3.704122434,14.46666667,Broad
+SIDM00961,CADO-ES1,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Adherent,2.061739639,9.833333333,Broad
+SIDM00962,BV-173,Haematopoietic and Lymphoid,Chronic Myelogenous Leukemia,Chronic Myelogenous Leukemia,MSS,Suspension,2.0048113,8.433333333,Sanger
+SIDM00963,BT-474,Breast,Breast Carcinoma,Invasive Ductal Carcinoma Not Otherwise Specified,MSS,Adherent,2.693256722,25.66666667,Broad
+SIDM00964,BPH-1,Prostate,Non-Cancerous,Benign Prostatic Hyperplasia,MSS,Adherent,3.223552437,3.333333333,Sanger
+SIDM00965,NCI-H446,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Semi-Adherent,3.113513859,22.3,Broad
+SIDM00966,OVCA433,Ovary,Ovarian Carcinoma,Ovarian Serous Adenocarcinoma,MSS,Adherent,2.680343941,6.2,Sanger
+SIDM00967,OVCA420,Ovary,Ovarian Carcinoma,Ovarian Serous Adenocarcinoma,MSS,Adherent,2.652691472,8.966666667,Sanger
+SIDM00968,Hey,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Adherent,3.65490882,7.133333333,Sanger
+SIDM00969,DOV13,Ovary,Ovarian Carcinoma,Ovarian Adenocarcinoma,MSS,Adherent,1.900867432,6.266666667,Sanger
+SIDM00970,DSH1,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,3.439289372,10.53333333,Sanger
+SIDM00971,ZR-75-30,Breast,Breast Carcinoma,Invasive Ductal Carcinoma Not Otherwise Specified,MSS,Adherent,3.740664153,12.56666667,Sanger
+SIDM00973,WM793B,Skin,Melanoma,Melanoma,MSS,Adherent,2.147145077,16.96666667,Sanger
+SIDM00974,WM35,Skin,Melanoma,Melanoma,MSS,Adherent,2.871932529,9.433333333,Sanger
+SIDM00975,WM278,Skin,Melanoma,Melanoma,MSS,Adherent,3.186696437,9.066666667,Sanger
+SIDM00976,WM1552C,Skin,Melanoma,Melanoma,MSS,Adherent,2.00704583,7.166666667,Sanger
+SIDM00980,23132-87,Stomach,Gastric Carcinoma,Gastric Adenocarcinoma,MSI,Adherent,2.026137951,60.83333333,Broad
+SIDM00981,DOHH-2,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,1.997877943,5.0,Broad
+SIDM00982,42-MG-BA,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,3.833744325,5.866666667,Broad
+SIDM00983,647-V,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,2.502375099,13.73333333,Broad
+SIDM00984,BONNA-12,Haematopoietic and Lymphoid,Other Blood Cancers,Hairy Cell Leukemia,MSS,Adherent,2.03884183,4.766666667,Sanger
+SIDM00985,BL-41,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Burkitt's Lymphoma,MSS,Suspension,3.107607582,6.833333333,Broad
+SIDM00986,BHY,Head and Neck,Oral Cavity Carcinoma,Head and Neck Squamous Cell Carcinoma,MSS,Adherent,2.926313201,11.76666667,Broad
+SIDM00987,BHT-101,Thyroid,Thyroid Gland Carcinoma,Anaplastic Thyroid Carcinoma,MSS,Adherent,4.264976287,5.666666667,Broad
+SIDM00988,BFTC-909,Kidney,Kidney Carcinoma,Renal Pelvis Urothelial Carcinoma,MSS,Adherent,3.262866593,12.23333333,Broad
+SIDM00989,BFTC-905,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,2.660235,14.53333333,Broad
+SIDM00990,BEN,Lung,Non-Small Cell Lung Carcinoma,Non-Small Cell Lung Carcinoma,MSS,Adherent,3.606117968,13.16666667,Broad
+SIDM00992,B-CPAP,Thyroid,Thyroid Gland Carcinoma,Papillary Thyroid Carcinoma,MSS,Adherent,2.966329712,7.966666667,Broad
+SIDM00993,AMO-1,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Suspension,3.496529914,16.3,Broad
+SIDM00994,ALL-SIL,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Childhood T Acute Lymphoblastic Leukemia,MSS,Suspension,2.04827072,6.866666667,Broad
+SIDM00995,A431,Skin,Other Solid Cancers,Skin Squamous Cell Carcinoma,MSS,Adherent,3.30172151,13.76666667,Sanger
+SIDM00996,8505C,Thyroid,Thyroid Gland Carcinoma,Anaplastic Thyroid Carcinoma,MSS,Adherent,3.000859437,8.466666667,Broad
+SIDM00997,8305C,Thyroid,Thyroid Gland Carcinoma,Anaplastic Thyroid Carcinoma,MSS,Adherent,3.094779312,10.06666667,Broad
+SIDM00998,8-MG-BA,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,2.197484787,6.0,Broad
+SIDM00999,639-V,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,2.406085668,49.56666667,Broad
+SIDM01000,WM-115,Skin,Melanoma,Melanoma,MSS,Adherent,1.95655635,11.5,Broad
+SIDM01001,DU-4475,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Suspension,3.744351662,7.266666667,Broad
+SIDM01002,EFM-192A,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Adherent,3.148910011,4.8,Broad
+SIDM01003,KE-37,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Adult T Acute Lymphoblastic Leukemia,MSS,Suspension,1.979310724,5.3,Broad
+SIDM01004,KCL-22,Haematopoietic and Lymphoid,Chronic Myelogenous Leukemia,Chronic Myelogenous Leukemia,MSI,Suspension,2.173638925,63.93333333,Broad
+SIDM01005,KASUMI-1,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Childhood Acute Myeloid Leukemia with Maturation,MSS,Suspension,1.928838491,8.733333333,Broad
+SIDM01006,KARPAS-620,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Suspension,2.893898687,5.666666667,Sanger
+SIDM01007,KARPAS-45,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Childhood T Acute Lymphoblastic Leukemia,MSS,Suspension,3.680622722,152.0666667,Sanger
+SIDM01008,KARPAS-422,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,2.080480651,10.76666667,Broad
+SIDM01009,KELLY,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,1.994437367,6.566666667,Broad
+SIDM01010,KARPAS-299,Haematopoietic and Lymphoid,T-Cell Non-Hodgkin's Lymphoma,Anaplastic Large Cell Lymphoma,MSS,Suspension,1.899098452,5.2,Broad
+SIDM01011,KARPAS-1106P,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Mediastinal Thymic Large B-Cell Cell Lymphoma,MSS,Suspension,2.09120329,10.2,Sanger
+SIDM01012,JVM-3,Haematopoietic and Lymphoid,Other Blood Cancers,B-Cell Prolymphocytic Leukemia,MSS,Suspension,3.992141663,7.233333333,Broad
+SIDM01013,JVM-2,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Mantle Cell Lymphoma,MSS,Suspension,2.010371169,5.333333333,Broad
+SIDM01015,JURL-MK1,Haematopoietic and Lymphoid,Chronic Myelogenous Leukemia,Chronic Myelogenous Leukemia,MSS,Suspension,1.90413925,6.633333333,Broad
+SIDM01016,Jurkat,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Childhood T Acute Lymphoblastic Leukemia,MSI,Suspension,1.939631396,139.2666667,Broad
+SIDM01017,KARPAS-231,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Adult B Acute Lymphoblastic Leukemia,MSS,Suspension,2.052086296,6.633333333,Sanger
+SIDM01018,KM-H2,Haematopoietic and Lymphoid,Hodgkin's Lymphoma,Hodgkin's Lymphoma,MSS,Suspension,2.863161805,24.0,Broad
+SIDM01019,KMOE-2,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Erythroleukemia,MSS,Suspension,3.628740624,22.8,Sanger
+SIDM01020,KMS-12-BM,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Suspension,3.410585218,11.26666667,Broad
+SIDM01023,MONO-MAC-6,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Monocytic Leukemia,MSS,Suspension,1.907482998,5.233333333,Broad
+SIDM01024,KYSE-70,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,2.440495263,16.7,Broad
+SIDM01025,KYSE-520,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,2.692340388,13.46666667,Broad
+SIDM01026,KYSE-510,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,3.646995656,19.33333333,Broad
+SIDM01027,KYSE-450,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,2.267389899,20.33333333,Broad
+SIDM01028,KYSE-410,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,3.920457827,20.8,Broad
+SIDM01029,KYSE-270,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,2.866726827,21.23333333,Broad
+SIDM01030,KYSE-180,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,2.604056952,16.4,Broad
+SIDM01031,KYSE-150,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,2.847210243,21.73333333,Broad
+SIDM01032,KYSE-140,Esophagus,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,MSS,Adherent,2.818266174,20.93333333,Broad
+SIDM01033,KU-19-19,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,3.210255457,11.86666667,Broad
+SIDM01034,KOPN-8,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSS,Suspension,1.976297755,9.633333333,Broad
+SIDM01036,JJN-3,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Suspension,2.664536258,8.833333333,Broad
+SIDM01037,JIMT-1,Breast,Breast Carcinoma,Breast Carcinoma,,Adherent,2.510993088,6.3,Broad
+SIDM01038,JEKO-1,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Mantle Cell Lymphoma,MSS,Suspension,4.599729197,10.3,Broad
+SIDM01039,JAR,Placenta,Other Solid Cancers,Gestational Choriocarcinoma,MSS,Adherent,3.028224795,14.93333333,Sanger
+SIDM01040,FU-OV-1,Ovary,Ovarian Carcinoma,High Grade Ovarian Serous Adenocarcinoma,MSS,Adherent,2.820343805,9.566666667,Broad
+SIDM01041,FLO-1,Esophagus,Esophageal Carcinoma,Esophageal Adenocarcinoma,MSS,Adherent,1.907163571,7.5,Sanger
+SIDM01042,EVSA-T,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Adherent,2.839033652,16.5,Sanger
+SIDM01043,ESS-1,Endometrium,Other Sarcomas,Endometrial Stromal Sarcoma,MSS,Adherent,2.006024627,32.4,Broad
+SIDM01044,EPLC-272H,Lung,Other Solid Cancers,Lung Mucoepidermoid Carcinoma,MSS,Adherent,3.008359073,12.4,Broad
+SIDM01045,EN,Endometrium,Endometrial Carcinoma,Endometrial Carcinoma,MSS,Adherent,3.681571412,170.0,Broad
+SIDM01047,EM-2,Haematopoietic and Lymphoid,Chronic Myelogenous Leukemia,Chronic Myelogenous Leukemia,MSS,Suspension,3.416845222,7.033333333,Sanger
+SIDM01048,EJM,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Unknown,2.939033512,16.03333333,Broad
+SIDM01049,EHEB,Haematopoietic and Lymphoid,Non-Cancerous,Non-Cancerous,MSS,Suspension,1.916460766,4.566666667,Broad
+SIDM01051,EFO-27,Ovary,Ovarian Carcinoma,Ovarian Mucinous Adenocarcinoma,MSI,Adherent,2.009498516,42.56666667,Broad
+SIDM01052,EFO-21,Ovary,Ovarian Carcinoma,Ovarian Serous Cystadenocarcinoma,MSS,Adherent,2.850490568,8.3,Broad
+SIDM01055,GAMG,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,2.924619177,5.266666667,Broad
+SIDM01056,EFM-19,Breast,Breast Carcinoma,Ductal Breast Carcinoma,MSS,Adherent,2.837644199,7.433333333,Broad
+SIDM01057,GDM-1,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Myeloid Leukemia,MSS,Suspension,2.051963356,5.833333333,Broad
+SIDM01058,GRANTA-519,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Mantle Cell Lymphoma,MSS,Suspension,1.890870719,4.566666667,Broad
+SIDM01059,IPC-298,Skin,Melanoma,Cutaneous Melanoma,MSS,Adherent,3.440121019,32.2,Broad
+SIDM01060,IGR-1,Skin,Melanoma,Melanoma,MSS,Adherent,3.142408821,35.46666667,Broad
+SIDM01062,HDQ-P1,Breast,Breast Carcinoma,Breast Carcinoma,MSS,Adherent,4.1390573,10.0,Broad
+SIDM01064,HDLM-2,Haematopoietic and Lymphoid,Hodgkin's Lymphoma,Hodgkin's Lymphoma,MSS,Suspension,1.89009284,8.5,Sanger
+SIDM01066,IGR-37,Skin,Melanoma,Melanoma,MSS,Adherent,1.662747914,11.23333333,Broad
+SIDM01067,HCC-827,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.843758412,6.3,Broad
+SIDM01068,HCC-78,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,3.94242339,8.8,Broad
+SIDM01069,HCC-44,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,3.017297527,11.33333333,Broad
+SIDM01070,HCC-366,Lung,Non-Small Cell Lung Carcinoma,Adenosquamous Lung Carcinoma,MSS,Adherent,3.445900706,16.46666667,Broad
+SIDM01071,HCC-33,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Adherent,2.88843558,10.86666667,Broad
+SIDM01072,HCC-15,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Adherent,1.659190536,24.4,Broad
+SIDM01073,HC-1,Haematopoietic and Lymphoid,Other Blood Cancers,Hairy Cell Leukemia,MSS,Suspension,3.901350726,5.4,Sanger
+SIDM01076,697,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSS,Suspension,1.98303841,5.666666667,Broad
+SIDM01077,VCaP,Prostate,Prostate Carcinoma,Prostate Carcinoma,MSS,Adherent,3.281258822,4.7,Broad
+SIDM01078,SHP-77,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Semi-Adherent,2.019700793,16.2,Broad
+SIDM01079,SH-4,Skin,Melanoma,Melanoma,MSS,Adherent,2.299641223,8.7,Broad
+SIDM01080,SCC-9,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Adherent,3.141023636,6.566666667,Broad
+SIDM01081,SCC-4,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Adherent,2.954600902,6.666666667,Broad
+SIDM01082,SCC-25,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Adherent,1.857550823,4.666666667,Broad
+SIDM01083,SCC-15,Head and Neck,Oral Cavity Carcinoma,Tongue Squamous Cell Carcinoma,MSS,Adherent,3.198316845,5.766666667,Broad
+SIDM01084,Saos-2,Bone,Osteosarcoma,Osteosarcoma,MSS,Adherent,2.593834383,8.766666667,Broad
+SIDM01085,RT4,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,3.722512659,5.5,Broad
+SIDM01086,RS4-11,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Adult B Acute Lymphoblastic Leukemia,MSI,Suspension,2.031825536,31.86666667,Broad
+SIDM01087,RPMI-7951,Skin,Melanoma,Melanoma,MSS,Adherent,2.481440645,7.0,Broad
+SIDM01088,RL95-2,Endometrium,Endometrial Carcinoma,Adenosquamous Endometrial Carcinoma,MSI,Adherent,2.021919455,70.66666667,Broad
+SIDM01089,RL,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Diffuse Large B-Cell Lymphoma,MSS,Suspension,2.054722429,10.43333333,Broad
+SIDM01090,RKO,Large Intestine,Colorectal Carcinoma,Colon Carcinoma,MSI,Adherent,2.126498133,81.43333333,Sanger
+SIDM01092,RF-48,Haematopoietic and Lymphoid,B-Cell Non-Hodgkin's Lymphoma,Lymphoma,MSS,Unknown,2.046387351,8.133333333,Sanger
+SIDM01093,SiHa,Cervix,Cervical Carcinoma,Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma,MSS,Adherent,2.945409636,10.43333333,Sanger
+SIDM01095,SJRH30,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,MSS,Adherent,4.66488877,8.666666667,Sanger
+SIDM01096,SK-CO-1,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,3.647990653,7.4,Broad
+SIDM01097,SK-PN-DW,Central Nervous System,Other Solid Cancers,Primitive Neuroectodermal Tumor,MSS,Adherent,1.779601036,6.166666667,Sanger
+SIDM01098,SK-N-SH,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,2.039003146,4.766666667,Sanger
+SIDM01099,SK-N-FI,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,2.049161679,6.7,Broad
+SIDM01100,SK-N-DZ,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,3.898951672,7.7,Broad
+SIDM01101,SK-N-AS,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,1.93878945,6.1,Broad
+SIDM01102,WIL2-NS,Haematopoietic and Lymphoid,Non-Cancerous,Hereditary Spherocytosis,MSS,Suspension,2.017505488,11.1,Sanger
+SIDM01103,SK-MES-1,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Adherent,2.474006846,13.13333333,Broad
+SIDM01104,SK-MEL-31,Skin,Melanoma,Melanoma,MSS,Adherent,3.36389185,12.0,Broad
+SIDM01105,SK-MEL-3,Skin,Melanoma,Melanoma,MSS,Adherent,3.793416604,8.333333333,Broad
+SIDM01106,SK-MEL-24,Skin,Melanoma,Melanoma,MSS,Adherent,1.965257316,14.1,Broad
+SIDM01107,SK-MEL-1,Skin,Melanoma,Melanoma,MSS,Suspension,3.493053336,6.766666667,Broad
+SIDM01109,SK-LMS-1,Soft Tissue,Other Sarcomas,Vulvar Leiomyosarcoma,MSS,Adherent,2.131846404,4.266666667,Broad
+SIDM01110,SK-HEP-1,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Adherent,2.803033353,5.133333333,Broad
+SIDM01111,SK-ES-1,Bone,Ewing's Sarcoma,Ewing's Sarcoma,MSS,Unknown,2.181918851,4.666666667,Broad
+SIDM01112,SJSA-1,Bone,Osteosarcoma,Osteosarcoma,MSS,Adherent,2.008828817,8.9,Broad
+SIDM01113,SK-UT-1,Uterus,Other Sarcomas,Uterine Corpus Leiomyosarcoma,MSI,Adherent,1.966998918,55.8,Broad
+SIDM01114,PWR-1E,Prostate,Non-Cancerous,Non-Cancerous,MSS,Adherent,2.399980351,4.5,Sanger
+SIDM01116,NCI-H810,Lung,Non-Small Cell Lung Carcinoma,Large Cell Lung Carcinoma,MSS,Adherent,2.549470101,18.9,Broad
+SIDM01117,NCI-H748,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.696912736,20.26666667,Sanger
+SIDM01118,NCI-H740,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,3.286186262,22.26666667,Sanger
+SIDM01119,NCI-H727,Lung,Other Solid Cancers,Lung Carcinoid Tumor,MSS,Adherent,2.646021597,18.3,Broad
+SIDM01120,NCI-H720,Lung,Other Solid Cancers,Lung Carcinoid Tumor,MSS,Suspension,2.034887773,11.9,Sanger
+SIDM01121,NCI-H69,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,1.607394461,9.4,Broad
+SIDM01122,NCI-H661,Lung,Non-Small Cell Lung Carcinoma,Large Cell Lung Carcinoma,MSS,Adherent,3.247335611,19.06666667,Sanger
+SIDM01123,NCI-H660,Prostate,Prostate Carcinoma,Prostate Carcinoma,MSS,Suspension,3.166806611,8.033333333,Broad
+SIDM01124,NCI-H650,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Suspension,4.420226992,60.6,Broad
+SIDM01125,NCI-H647,Lung,Non-Small Cell Lung Carcinoma,Adenosquamous Lung Carcinoma,MSS,Adherent,3.17418743,8.966666667,Broad
+SIDM01126,NCI-H64,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,3.568754496,16.96666667,Sanger
+SIDM01127,NCI-H596,Lung,Non-Small Cell Lung Carcinoma,Adenosquamous Lung Carcinoma,MSS,Adherent,2.989640551,10.66666667,Broad
+SIDM01128,NCI-H526,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,3.020944899,12.26666667,Broad
+SIDM01129,NCI-H524,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.216436458,15.2,Broad
+SIDM01130,NCI-H520,Lung,Squamous Cell Lung Carcinoma,Squamous Cell Lung Carcinoma,MSS,Adherent,4.633640102,8.166666667,Broad
+SIDM01131,NCI-H82,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,2.493965917,7.3,Broad
+SIDM01132,PFSK-1,Central Nervous System,Other Solid Cancers,Primitive Neuroectodermal Tumor,MSS,Adherent,3.657971972,3.966666667,Sanger
+SIDM01133,NCI-H835,Lung,Other Solid Cancers,Lung Carcinoid Tumor,MSS,Suspension,3.362723117,21.66666667,Sanger
+SIDM01134,NCI-H841,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Semi-Adherent,2.519937442,8.566666667,Broad
+SIDM01135,PANC-10-05,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Adherent,1.714877083,5.0,Broad
+SIDM01136,PANC-08-13,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Adherent,2.42712539,9.0,Broad
+SIDM01137,PANC-04-03,Pancreas,Pancreatic Carcinoma,Pancreatic Ductal Adenocarcinoma,MSS,Adherent,2.69742125,6.733333333,Broad
+SIDM01138,PANC-03-27,Pancreas,Pancreatic Carcinoma,Pancreatic Adenocarcinoma,MSS,Adherent,3.161956413,5.066666667,Broad
+SIDM01139,PANC-02-03,Pancreas,Pancreatic Carcinoma,Pancreatic Adenocarcinoma,MSS,Adherent,3.238274345,4.4,Broad
+SIDM01140,PA-1,Ovary,Ovarian Carcinoma,Ovarian Mixed Germ Cell Tumor,MSS,Adherent,1.977060007,8.166666667,Sanger
+SIDM01141,OV-90,Ovary,Ovarian Carcinoma,Ovarian Adenocarcinoma,MSS,Adherent,1.908634785,6.166666667,Broad
+SIDM01144,SNU-5,Stomach,Gastric Carcinoma,Gastric Carcinoma,MSS,Suspension,3.985552592,9.633333333,Broad
+SIDM01145,SNU-16,Stomach,Gastric Carcinoma,Gastric Carcinoma,MSS,Suspension,3.691914337,8.766666667,Sanger
+SIDM01146,SNU-1,Stomach,Gastric Carcinoma,Gastric Carcinoma,MSI,Suspension,1.970485936,51.53333333,Sanger
+SIDM01147,NCI-N87,Stomach,Gastric Carcinoma,Gastric Tubular Adenocarcinoma,MSS,Adherent,1.813738565,8.3,Broad
+SIDM01148,NCI-H929,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Suspension,1.899152788,7.166666667,Broad
+SIDM01149,NCI-H847,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Suspension,3.144663815,9.7,Sanger
+SIDM01150,NCI-H838,Lung,Non-Small Cell Lung Carcinoma,Lung Adenocarcinoma,MSS,Adherent,2.232140757,14.33333333,Broad
+SIDM01154,SUP-T1,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Childhood Precursor T Lymphoblastic Lymphoma,MSS,Suspension,1.929531464,67.66666667,Broad
+SIDM01155,SW1088,Central Nervous System,Glioma,Astrocytoma,MSS,Adherent,4.552838561,5.366666667,Sanger
+SIDM01156,SW1271,Lung,Small Cell Lung Carcinoma,Small Cell Lung Carcinoma,MSS,Adherent,2.658150732,28.96666667,Broad
+SIDM01157,SW954,Vulva,Other Solid Cancers,Vulvar Squamous Cell Carcinoma,MSS,Adherent,1.891774786,5.633333333,Sanger
+SIDM01159,SW872,Soft Tissue,Other Sarcomas,Liposarcoma,MSS,Adherent,3.455969139,7.933333333,Sanger
+SIDM01160,SW780,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,3.580046402,5.633333333,Sanger
+SIDM01161,SW982,Soft Tissue,Other Sarcomas,Synovial Sarcoma,MSS,Adherent,2.04111669,14.93333333,Sanger
+SIDM01162,SW156,Kidney,Kidney Carcinoma,Renal Cell Carcinoma,MSS,Adherent,,12.66666667,Sanger
+SIDM01163,SW1573,Lung,Non-Small Cell Lung Carcinoma,Bronchiolo-Alveolar Lung Carcinoma,MSS,Adherent,3.32176115,8.8,Sanger
+SIDM01164,SW1783,Central Nervous System,Glioma,Anaplastic Astrocytoma,MSS,Adherent,5.262726359,17.66666667,Broad
+SIDM01165,SW1990,Pancreas,Pancreatic Carcinoma,Pancreatic Adenocarcinoma,MSS,Adherent,2.597874558,5.533333333,Broad
+SIDM01168,SW626,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,3.21982698,5.1,Sanger
+SIDM01169,TOV-21G,Ovary,Ovarian Carcinoma,Ovarian Clear Cell Adenocarcinoma,MSI,Adherent,2.020942226,35.23333333,Broad
+SIDM01170,TOV-112D,Ovary,Ovarian Carcinoma,Ovarian Endometrioid Adenocarcinoma,MSS,Adherent,2.346427732,3.066666667,Broad
+SIDM01171,T98G,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,2.762446662,6.666666667,Broad
+SIDM01172,THP-1,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Childhood Acute Differentiated Monocytic Leukemia,MSS,Suspension,2.125615122,7.766666667,Broad
+SIDM01173,TE-441-T,Soft Tissue,Rhabdomyosarcoma,Rhabdomyosarcoma,MSS,Adherent,2.030552547,7.0,Sanger
+SIDM01174,SW756,Cervix,Cervical Carcinoma,Human Papilloma Virus-Related Cervical Squamous Cell Carcinoma,MSS,Adherent,3.731277993,23.6,Sanger
+SIDM01175,SW684,Soft Tissue,Other Sarcomas,Fibrosarcoma,MSS,Adherent,3.218504921,142.0666667,Sanger
+SIDM01176,SUP-B15,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSS,Suspension,1.979448728,6.0,Broad
+SIDM01177,SUP-B8,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSS,Unknown,1.981028028,4.666666667,Sanger
+SIDM01178,SW962,Vulva,Other Solid Cancers,Vulvar Carcinoma,MSS,Adherent,3.459824581,6.6,Sanger
+SIDM01179,VA-ES-BJ,Soft Tissue,Other Sarcomas,Epithelioid Sarcoma,MSS,Adherent,2.738701037,3.733333333,Sanger
+SIDM01180,SNU-387,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Adherent,2.900438652,9.6,Broad
+SIDM01181,SNU-398,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Semi-Adherent,2.628725854,9.033333333,Broad
+SIDM01182,UM-UC-3,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,3.392530043,9.2,Broad
+SIDM01183,UMC-11,Lung,Other Solid Cancers,Lung Carcinoid Tumor,MSS,Adherent,2.323367182,11.13333333,Sanger
+SIDM01184,T24,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,3.535053532,5.833333333,Broad
+SIDM01185,U-CH2,Bone,Other Solid Cancers,Sacral Chordoma,MSS,Adherent,1.780476296,3.4,Sanger
+SIDM01186,UACC-893,Breast,Breast Carcinoma,Invasive Ductal Carcinoma Not Otherwise Specified,MSS,Adherent,2.947499808,8.266666667,Broad
+SIDM01187,UACC-812,Breast,Breast Carcinoma,Invasive Ductal Carcinoma Not Otherwise Specified,MSS,Adherent,2.91158139,9.5,Sanger
+SIDM01188,SU8686,Pancreas,Pancreatic Carcinoma,Pancreatic Adenocarcinoma,MSS,Adherent,2.868896767,5.366666667,Broad
+SIDM01189,U-87-MG,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Adherent,1.866567025,5.633333333,Broad
+SIDM01190,TCCSUP,Bladder,Bladder Carcinoma,Bladder Carcinoma,MSS,Adherent,3.035122457,11.23333333,Broad
+SIDM01191,U-2-OS,Bone,Osteosarcoma,Osteosarcoma,MSS,Adherent,3.03517119,8.166666667,Broad
+SIDM01193,U-118-MG,Central Nervous System,Glioma,Astrocytoma,MSS,Adherent,2.175742387,5.166666667,Broad
+SIDM01194,SNU-449,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Adherent,2.444209948,10.7,Broad
+SIDM01196,SNU-475,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Adherent,2.95492096,12.36666667,Broad
+SIDM01197,SNU-C1,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Suspension,3.227328004,14.66666667,Sanger
+SIDM01198,ST486,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Burkitt's Lymphoma,MSS,Suspension,2.078356811,6.933333333,Sanger
+SIDM01199,SNU-423,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,MSS,Adherent,5.919296119,9.466666667,Broad
+SIDM01203,NTERA-2-cl-D1,Testis,Other Solid Cancers,Testicular Embryonal Carcinoma,MSS,Adherent,,,Sanger
+SIDM01205,TUR,Haematopoietic and Lymphoid,Acute Myeloid Leukemia,Adult Acute Monocytic Leukemia,MSI,Suspension,2.417340196,9.966666667,Sanger
+SIDM01206,IMR-5,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,2.053202909,7.533333333,Sanger
+SIDM01210,KNS-81-FD,Central Nervous System,Glioblastoma,Glioblastoma,MSS,Unknown,1.840607535,10.66666667,Sanger
+SIDM01217,MY-M12,Haematopoietic and Lymphoid,Other Blood Cancers,Acute Biphenotypic Leukemia,MSS,Suspension,1.975625588,10.5,Sanger
+SIDM01218,JEG-3,Placenta,Other Solid Cancers,Gestational Choriocarcinoma,MSS,Adherent,3.195343849,13.9,Sanger
+SIDM01220,LNZTA3WT4,Central Nervous System,Glioma,Astrocytoma,MSS,Adherent,3.290436795,13.26666667,Sanger
+SIDM01228,CHL-1,Skin,Melanoma,Melanoma,MSS,Adherent,3.490650975,24.2,Sanger
+SIDM01229,BE2-M17,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,MSS,Adherent,1.823922415,11.06666667,Sanger
+SIDM01233,C2BBe1,Large Intestine,Colorectal Carcinoma,Colon Adenocarcinoma,MSS,Adherent,3.505671881,8.466666667,Sanger
+SIDM01237,C3A,Liver,Hepatocellular Carcinoma,Hepatoblastoma,MSS,Adherent,2.227958879,9.7,Sanger
+SIDM01240,451Lu,Skin,Melanoma,Melanoma,MSS,Adherent,3.901640398,14.7,Sanger
+SIDM01242,MMAc-SF,Skin,Melanoma,Melanoma,MSS,Adherent,3.218324435,8.633333333,Sanger
+SIDM01245,BE-13,Haematopoietic and Lymphoid,T-Lymphoblastic Leukemia,Childhood T Acute Lymphoblastic Leukemia,MSS,Suspension,3.505500721,13.2,Sanger
+SIDM01246,MC-IXC,Bone,Ewing's Sarcoma,Askin's Tumor,MSS,Adherent,1.873661986,6.066666667,Sanger
+SIDM01247,Ramos-2G6-4C10,Haematopoietic and Lymphoid,Burkitt's Lymphoma,Burkitt's Lymphoma,MSS,Suspension,1.939538699,9.966666667,Sanger
+SIDM01248,CGTH-W-1,Thyroid,Thyroid Gland Carcinoma,Squamous Cell Thyroid Gland Carcinoma,MSS,Unknown,3.169191718,5.766666667,Sanger
+SIDM01251,H9,Haematopoietic and Lymphoid,T-Cell Non-Hodgkin's Lymphoma,Mycosis Fungoides and Sezary Syndrome,MSS,Suspension,2.877716924,10.66666667,Sanger
+SIDM01259,GR-ST,Haematopoietic and Lymphoid,B-Lymphoblastic Leukemia,Childhood B Acute Lymphoblastic Leukemia,MSI,Suspension,2.048255789,90.13333333,Sanger
+SIDM01265,MM1S,Haematopoietic and Lymphoid,Plasma Cell Myeloma,Plasma Cell Myeloma,MSS,Semi-Adherent,1.938477495,9.666666667,Broad

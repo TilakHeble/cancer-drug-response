@@ -1,0 +1,7 @@
+check,passed,detail
+test responses never used (corrupted fold-2 AUC),True,"2 drugs, max change in fold-2 predictions 0.0e+00"
+"outer folds: one per line, tissue-stratified",True,953 lines; max difference in a tissue's count across folds: 1
+processed AUC equals Sanger release file,True,"493 random (line, drug) pairs, max abs difference 0.0e+00"
+batch correction (fitted on folds 1-4) on fold-0 lines,True,source predictable from 20 PCs: AUC 0.857 raw -> 0.492 corrected
+ridge (SVD path) equals scikit-learn Ridge,True,"Nutlin-3a fold 0, alpha 588: max coefficient difference 5.8e-17"
+group lasso KKT conditions (real data),True,"Nutlin-3a fold 0, lambda = 0.2 x max, 16 active groups: stationarity gap 1.2e-04, zero-group excess 0.0e+00"

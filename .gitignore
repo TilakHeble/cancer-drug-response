@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+.DS_Store
+# raw downloads (~1.5 GB) are rebuilt by `python scripts/run_pipeline.py --data`
+data/raw/
+# large intermediates rebuilt by the pipeline
+outputs/*.pkl
+outputs/run_log*.txt
+data/processed/expression.parquet

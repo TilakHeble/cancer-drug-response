@@ -1,0 +1,9 @@
+drug,drug_id,biomarker,kind,rationale,n,folds_gene_in_features,n_mutant,auc_mutant,auc_wildtype,roc_auc_pred_separates_mutants,rank_Elastic net,folds_Elastic net,rank_Lasso,folds_Lasso,rank_Ridge,folds_Ridge,spearman_gene_auc
+Dabrafenib,1373,BRAF,mutation,BRAF V600 inhibitor; BRAF-mutant melanoma lines are sensitive,929,,80.0,0.789909,0.968858,0.8194493521790341,,0,,0,,0,
+Nutlin-3a (-),1047,MDM2,expression,"MDM2 inhibitor; needs wild-type TP53, whose targets (MDM2, CDKN1A) are expressed",943,0.0,,,,,,0,,0,,0,-0.38150962473120037
+Lapatinib,1558,ERBB2,expression,EGFR/HER2 inhibitor; HER2-amplified lines are sensitive,941,5.0,,,,,1.0,5,1.0,5,1.0,5,-0.21296188197057753
+Venetoclax,1909,BCL2,expression,BCL-2 inhibitor; high BCL2 expression predicts sensitivity,933,5.0,,,,,1.0,5,1.0,5,1.0,5,-0.2994686041283548
+Afatinib,1032,EGFR,expression,EGFR/HER2 inhibitor; EGFR-dependent lines are sensitive,941,5.0,,,,,59.0,2,55.0,2,24.0,3,-0.036593639137289656
+Trametinib,1372,BRAF,mutation,MEK inhibitor; MAPK-pathway mutant lines are sensitive,941,,82.0,0.6016220000000001,0.911352,0.8511598852891904,,0,,0,,0,
+Olaparib,1017,SLFN11,expression,PARP inhibitor; SLFN11 expression predicts DNA-damage drug sensitivity,942,5.0,,,,,1.0,5,1.0,5,1.0,5,-0.27772757690052285
+Erlotinib,1168,EGFR,expression,EGFR inhibitor,930,5.0,,,,,1.0,5,1.0,5,1.0,5,-0.3624551480406728

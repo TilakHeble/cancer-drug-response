@@ -1,0 +1,10 @@
+[project]
+name = "cancer-drug-response"
+version = "1.0.0"
+description = "Predicting cancer drug response from gene expression with regularised regression"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+filterwarnings = ["ignore::RuntimeWarning", "ignore::UserWarning"]

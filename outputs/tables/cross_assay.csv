@@ -1,0 +1,4 @@
+model,r_gdsc2,r_gdsc1,r_assays
+Lasso,0.562,0.38,0.531
+Ridge,0.589,0.387,0.531
+Tissue,0.425,0.255,0.531
